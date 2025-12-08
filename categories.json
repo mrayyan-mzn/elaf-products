@@ -1,0 +1,1338 @@
+[
+  {
+    "category": "طعام طازج",
+    "parentCategory": null
+  },
+  {
+    "category": "الاطعمه المبرده",
+    "parentCategory": "طعام طازج"
+  },
+  {
+    "category": "مقبلات لحوم وغيرها",
+    "parentCategory": "الاطعمه المبرده"
+  },
+  {
+    "category": "زيتون ومقبلات غيرها",
+    "parentCategory": "الاطعمه المبرده"
+  },
+  {
+    "category": "السمك والاطعمه البحريه",
+    "parentCategory": "طعام طازج"
+  },
+  {
+    "category": "سمك",
+    "parentCategory": "السمك والاطعمه البحريه"
+  },
+  {
+    "category": "ماكولات بحريه",
+    "parentCategory": "السمك والاطعمه البحريه"
+  },
+  {
+    "category": "اللحوم والدواجن",
+    "parentCategory": "طعام طازج"
+  },
+  {
+    "category": "لحم بقري",
+    "parentCategory": "اللحوم والدواجن"
+  },
+  {
+    "category": "لحم ضان",
+    "parentCategory": "اللحوم والدواجن"
+  },
+  {
+    "category": "لحوم متنوعه",
+    "parentCategory": "اللحوم والدواجن"
+  },
+  {
+    "category": "ملحقات اللحوم",
+    "parentCategory": "اللحوم والدواجن"
+  },
+  {
+    "category": "لحم العجل",
+    "parentCategory": "اللحوم والدواجن"
+  },
+  {
+    "category": "دجاج",
+    "parentCategory": "اللحوم والدواجن"
+  },
+  {
+    "category": "ماكولات جاهزه",
+    "parentCategory": "طعام طازج"
+  },
+  {
+    "category": "المقبلات وغيرها",
+    "parentCategory": "ماكولات جاهزه"
+  },
+  {
+    "category": "منتجات الالبان واليبض",
+    "parentCategory": "طعام طازج"
+  },
+  {
+    "category": "الزبده والسمن",
+    "parentCategory": "منتجات الالبان واليبض"
+  },
+  {
+    "category": "جبنه ولبنه",
+    "parentCategory": "منتجات الالبان واليبض"
+  },
+  {
+    "category": "كريم",
+    "parentCategory": "منتجات الالبان واليبض"
+  },
+  {
+    "category": "بيض",
+    "parentCategory": "منتجات الالبان واليبض"
+  },
+  {
+    "category": "حليب و لبن",
+    "parentCategory": "منتجات الالبان واليبض"
+  },
+  {
+    "category": "الزبادي",
+    "parentCategory": "منتجات الالبان واليبض"
+  },
+  {
+    "category": "الحلويات المبرده",
+    "parentCategory": "منتجات الالبان واليبض"
+  },
+  {
+    "category": "على استعداد لطهي الطعام",
+    "parentCategory": "منتجات الالبان واليبض"
+  },
+  {
+    "category": "أكسسوارات السيارات",
+    "parentCategory": null
+  },
+  {
+    "category": "مستلزمات واكسسوارات السيارات",
+    "parentCategory": "أكسسوارات السيارات"
+  },
+  {
+    "category": "معطرات السيارة",
+    "parentCategory": "مستلزمات واكسسوارات السيارات"
+  },
+  {
+    "category": "تنظيف السيارات",
+    "parentCategory": "مستلزمات واكسسوارات السيارات"
+  },
+  {
+    "category": "زيوت وسوائل التشحيم",
+    "parentCategory": "مستلزمات واكسسوارات السيارات"
+  },
+  {
+    "category": "الحبال والكابلات",
+    "parentCategory": "مستلزمات واكسسوارات السيارات"
+  },
+  {
+    "category": "أقمشة التنظيف",
+    "parentCategory": "مستلزمات واكسسوارات السيارات"
+  },
+  {
+    "category": "اكسسوارات السيارات",
+    "parentCategory": "مستلزمات واكسسوارات السيارات"
+  },
+  {
+    "category": "خزانة الطعام",
+    "parentCategory": null
+  },
+  {
+    "category": "بسكويت، كراكرز وكيك",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "بسكويت بريميم",
+    "parentCategory": "بسكويت، كراكرز وكيك"
+  },
+  {
+    "category": "كب كيك",
+    "parentCategory": "بسكويت، كراكرز وكيك"
+  },
+  {
+    "category": "ويفر",
+    "parentCategory": "بسكويت، كراكرز وكيك"
+  },
+  {
+    "category": "كراكرز",
+    "parentCategory": "بسكويت، كراكرز وكيك"
+  },
+  {
+    "category": "digestive",
+    "parentCategory": "بسكويت، كراكرز وكيك"
+  },
+  {
+    "category": "محشو",
+    "parentCategory": "بسكويت، كراكرز وكيك"
+  },
+  {
+    "category": "رسك",
+    "parentCategory": "بسكويت، كراكرز وكيك"
+  },
+  {
+    "category": "معلبات ومرطبات",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "خضروات معلبة'",
+    "parentCategory": "معلبات ومرطبات"
+  },
+  {
+    "category": "فواكه معلبة",
+    "parentCategory": "معلبات ومرطبات"
+  },
+  {
+    "category": "قشدة وحليب بجوز الهند",
+    "parentCategory": "معلبات ومرطبات"
+  },
+  {
+    "category": "بودرة جوز الهند",
+    "parentCategory": "معلبات ومرطبات"
+  },
+  {
+    "category": "كريم جوز الهند",
+    "parentCategory": "معلبات ومرطبات"
+  },
+  {
+    "category": "لحم معلب",
+    "parentCategory": "معلبات ومرطبات"
+  },
+  {
+    "category": "مسحوق الحليب",
+    "parentCategory": "معلبات ومرطبات"
+  },
+  {
+    "category": "ومخلل زيتون",
+    "parentCategory": "معلبات ومرطبات"
+  },
+  {
+    "category": "ونودلز سريعة",
+    "parentCategory": "معلبات ومرطبات"
+  },
+  {
+    "category": "تونا",
+    "parentCategory": "معلبات ومرطبات"
+  },
+  {
+    "category": "السكر",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "مكونات خبز",
+    "parentCategory": "السكر"
+  },
+  {
+    "category": "لبن مكثف",
+    "parentCategory": "السكر"
+  },
+  {
+    "category": "السكر والمحليات",
+    "parentCategory": "السكر"
+  },
+  {
+    "category": "خلاطات الطحين والرز",
+    "parentCategory": "السكر"
+  },
+  {
+    "category": "الفطور الغذائي",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "خبز بف",
+    "parentCategory": "الفطور الغذائي"
+  },
+  {
+    "category": "حبوب",
+    "parentCategory": "الفطور الغذائي"
+  },
+  {
+    "category": "الشوفان",
+    "parentCategory": "الفطور الغذائي"
+  },
+  {
+    "category": "جرنولة",
+    "parentCategory": "الفطور الغذائي"
+  },
+  {
+    "category": "ميزولي",
+    "parentCategory": "الفطور الغذائي"
+  },
+  {
+    "category": "الأرز",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "معكرونة",
+    "parentCategory": "الأرز"
+  },
+  {
+    "category": "بقول",
+    "parentCategory": "الأرز"
+  },
+  {
+    "category": "أرز",
+    "parentCategory": "الأرز"
+  },
+  {
+    "category": "التمور والفواكه المجففة",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "بذور وجوز",
+    "parentCategory": "التمور والفواكه المجففة"
+  },
+  {
+    "category": "الفزاكه المجففة",
+    "parentCategory": "التمور والفواكه المجففة"
+  },
+  {
+    "category": "توابل ومخللات",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "صلصات",
+    "parentCategory": "توابل ومخللات"
+  },
+  {
+    "category": "زينة السلطة",
+    "parentCategory": "توابل ومخللات"
+  },
+  {
+    "category": "شوكولاته ومعجنات",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "حلويات",
+    "parentCategory": "شوكولاته ومعجنات"
+  },
+  {
+    "category": "شوكولاته",
+    "parentCategory": "شوكولاته ومعجنات"
+  },
+  {
+    "category": "علكة وغيرها",
+    "parentCategory": "شوكولاته ومعجنات"
+  },
+  {
+    "category": "المربيات والعسل",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "عسل",
+    "parentCategory": "المربيات والعسل"
+  },
+  {
+    "category": "مربات",
+    "parentCategory": "المربيات والعسل"
+  },
+  {
+    "category": "قابلة للدهن",
+    "parentCategory": "المربيات والعسل"
+  },
+  {
+    "category": "من أنحاء العالم",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "جنوب اسيا",
+    "parentCategory": "من أنحاء العالم"
+  },
+  {
+    "category": "كوريا",
+    "parentCategory": "من أنحاء العالم"
+  },
+  {
+    "category": "اليابان",
+    "parentCategory": "من أنحاء العالم"
+  },
+  {
+    "category": "المملكة المتحدة",
+    "parentCategory": "من أنحاء العالم"
+  },
+  {
+    "category": "فرنسا",
+    "parentCategory": "من أنحاء العالم"
+  },
+  {
+    "category": "ايطاليا",
+    "parentCategory": "من أنحاء العالم"
+  },
+  {
+    "category": "الهند",
+    "parentCategory": "من أنحاء العالم"
+  },
+  {
+    "category": "مكسيك",
+    "parentCategory": "من أنحاء العالم"
+  },
+  {
+    "category": "الفلبين",
+    "parentCategory": "من أنحاء العالم"
+  },
+  {
+    "category": "تايلند",
+    "parentCategory": "من أنحاء العالم"
+  },
+  {
+    "category": "شيبس ومقبلات",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "معلبات",
+    "parentCategory": "شيبس ومقبلات"
+  },
+  {
+    "category": "رقائق",
+    "parentCategory": "شيبس ومقبلات"
+  },
+  {
+    "category": "تورتيلا وناتشو",
+    "parentCategory": "شيبس ومقبلات"
+  },
+  {
+    "category": "فشار",
+    "parentCategory": "شيبس ومقبلات"
+  },
+  {
+    "category": "مكونات الطبخ",
+    "parentCategory": "خزانة الطعام"
+  },
+  {
+    "category": "صلصات الطبخ",
+    "parentCategory": "مكونات الطبخ"
+  },
+  {
+    "category": "الاعشاب والبهارات",
+    "parentCategory": "مكونات الطبخ"
+  },
+  {
+    "category": "زيوت والسمن",
+    "parentCategory": "مكونات الطبخ"
+  },
+  {
+    "category": "فئات الخبز",
+    "parentCategory": "مكونات الطبخ"
+  },
+  {
+    "category": "مرقات غذائية",
+    "parentCategory": "مكونات الطبخ"
+  },
+  {
+    "category": "المشروبات",
+    "parentCategory": null
+  },
+  {
+    "category": "ماء",
+    "parentCategory": "المشروبات"
+  },
+  {
+    "category": "مياه عادية",
+    "parentCategory": "ماء"
+  },
+  {
+    "category": "مياه الاطفال",
+    "parentCategory": "ماء"
+  },
+  {
+    "category": "مياه معدنيه",
+    "parentCategory": "ماء"
+  },
+  {
+    "category": "مياه فوارة",
+    "parentCategory": "ماء"
+  },
+  {
+    "category": "المياه المنكهة",
+    "parentCategory": "ماء"
+  },
+  {
+    "category": "مشروبات غازية",
+    "parentCategory": "المشروبات"
+  },
+  {
+    "category": "المشروبات الغازية والخلاطات",
+    "parentCategory": "مشروبات غازية"
+  },
+  {
+    "category": "الفيتامينات والمشروبات الرياضية",
+    "parentCategory": "مشروبات غازية"
+  },
+  {
+    "category": "مشروبات الأطفال",
+    "parentCategory": "المشروبات"
+  },
+  {
+    "category": "مشروبات الأطفال",
+    "parentCategory": "مشروبات الأطفال"
+  },
+  {
+    "category": "مشروبات بودرة",
+    "parentCategory": "المشروبات"
+  },
+  {
+    "category": "بودرة عصائر",
+    "parentCategory": "مشروبات بودرة"
+  },
+  {
+    "category": "الشوكولاته الساخنة وغيرها",
+    "parentCategory": "مشروبات بودرة"
+  },
+  {
+    "category": "كاكاو",
+    "parentCategory": "مشروبات بودرة"
+  },
+  {
+    "category": "قهوة",
+    "parentCategory": "المشروبات"
+  },
+  {
+    "category": "خراطيش قهوة",
+    "parentCategory": "قهوة"
+  },
+  {
+    "category": "كبسولات",
+    "parentCategory": "قهوة"
+  },
+  {
+    "category": "البن المطحون والعادي",
+    "parentCategory": "قهوة"
+  },
+  {
+    "category": "أكياس قهوة فورية",
+    "parentCategory": "قهوة"
+  },
+  {
+    "category": "العصائر",
+    "parentCategory": "المشروبات"
+  },
+  {
+    "category": "عصائر طازجة",
+    "parentCategory": "العصائر"
+  },
+  {
+    "category": "جوز الهند والمياه المنكهة",
+    "parentCategory": "العصائر"
+  },
+  {
+    "category": "عصائر طويلة الأمد",
+    "parentCategory": "العصائر"
+  },
+  {
+    "category": "شرابات ومحليات",
+    "parentCategory": "العصائر"
+  },
+  {
+    "category": "شاي",
+    "parentCategory": "المشروبات"
+  },
+  {
+    "category": "شاي مثلج",
+    "parentCategory": "شاي"
+  },
+  {
+    "category": "أكياس الشاي و الأوراق السائبة",
+    "parentCategory": "شاي"
+  },
+  {
+    "category": "خضار و فواكه",
+    "parentCategory": null
+  },
+  {
+    "category": "الخضروات",
+    "parentCategory": "خضار و فواكه"
+  },
+  {
+    "category": "الفليفلة والفلفل الحار",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "الباذنجان",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "طماطم",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "سلطة",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "الملفوف وغيرها من الطهي",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "حبوب البازلاء",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "البطاطس",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "البصل والشالوت",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "الخضروات الآسيوية",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "الفطر",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "كوسا",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "الجزر",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "الخيار",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "الثوم والزنجبيل",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "خضار مقطعه",
+    "parentCategory": "الخضروات"
+  },
+  {
+    "category": "الفاكهة",
+    "parentCategory": "خضار و فواكه"
+  },
+  {
+    "category": "افوكادو",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "موز",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "البرتقال",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "كليمنتين وماندرين",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "الجريب فروت و بوميلو",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "ليمون",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "التوت",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "كرز",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "عنب",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "تفاح",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "مانجو",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "كيوي",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "فواكهة معبأة",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "فاكهة غريبة",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "فاكهة البذور",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "شمام",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "خوخ ونكتارين",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "تمر",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "انجاس",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "المشمش والخوخ",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "إجاص",
+    "parentCategory": "الفاكهة"
+  },
+  {
+    "category": "العاب و مستلزمات النشاطات الخار",
+    "parentCategory": null
+  },
+  {
+    "category": "درجات هوائية سكوتر و غيرها",
+    "parentCategory": "العاب و مستلزمات النشاطات الخار"
+  },
+  {
+    "category": "دراجات",
+    "parentCategory": "درجات هوائية سكوتر و غيرها"
+  },
+  {
+    "category": "السكوترات وغيرها",
+    "parentCategory": "درجات هوائية سكوتر و غيرها"
+  },
+  {
+    "category": "معدات السلامة",
+    "parentCategory": "درجات هوائية سكوتر و غيرها"
+  },
+  {
+    "category": "مجسمات وأطقم ألعاب",
+    "parentCategory": "العاب و مستلزمات النشاطات الخار"
+  },
+  {
+    "category": "ملحقات وغيرها",
+    "parentCategory": "مجسمات وأطقم ألعاب"
+  },
+  {
+    "category": "أطعمة ومستلزمات الحيوانات الألي",
+    "parentCategory": null
+  },
+  {
+    "category": "أطعمة خاصة للحيوانات الأليفة",
+    "parentCategory": "أطعمة ومستلزمات الحيوانات الألي"
+  },
+  {
+    "category": "أطعمة قطط خاصة",
+    "parentCategory": "أطعمة خاصة للحيوانات الأليفة"
+  },
+  {
+    "category": "ألعاب ومستلزمات الحيوانات الأليفة",
+    "parentCategory": "أطعمة ومستلزمات الحيوانات الألي"
+  },
+  {
+    "category": "اكسسوارات القطط",
+    "parentCategory": "ألعاب ومستلزمات الحيوانات الأليفة"
+  },
+  {
+    "category": "اكسسوارات الكلاب",
+    "parentCategory": "ألعاب ومستلزمات الحيوانات الأليفة"
+  },
+  {
+    "category": "حاملات الكلاب والقطط",
+    "parentCategory": "ألعاب ومستلزمات الحيوانات الأليفة"
+  },
+  {
+    "category": "اكسسوارات سمك",
+    "parentCategory": "ألعاب ومستلزمات الحيوانات الأليفة"
+  },
+  {
+    "category": "ألعاب القطط",
+    "parentCategory": "ألعاب ومستلزمات الحيوانات الأليفة"
+  },
+  {
+    "category": "لعب الكلاب",
+    "parentCategory": "ألعاب ومستلزمات الحيوانات الأليفة"
+  },
+  {
+    "category": "حوض أسماك الزينة",
+    "parentCategory": "ألعاب ومستلزمات الحيوانات الأليفة"
+  },
+  {
+    "category": "عناية الحيوانات الأليفة",
+    "parentCategory": "أطعمة ومستلزمات الحيوانات الألي"
+  },
+  {
+    "category": "مستلزمات القمامة والعناية المنزلية",
+    "parentCategory": "عناية الحيوانات الأليفة"
+  },
+  {
+    "category": "شامبو، بخاخ وغيره",
+    "parentCategory": "عناية الحيوانات الأليفة"
+  },
+  {
+    "category": "أطعمة الحيوانات الأليفة",
+    "parentCategory": "أطعمة ومستلزمات الحيوانات الألي"
+  },
+  {
+    "category": "طعام القطة",
+    "parentCategory": "أطعمة الحيوانات الأليفة"
+  },
+  {
+    "category": "أغذية كلاب",
+    "parentCategory": "أطعمة الحيوانات الأليفة"
+  },
+  {
+    "category": "منتجات الرياضة واللياقة البدنية",
+    "parentCategory": null
+  },
+  {
+    "category": "منتجات الرياضة واللياقة البدنية",
+    "parentCategory": "منتجات الرياضة واللياقة البدنية"
+  },
+  {
+    "category": "مقياس السكر وواخذ الدم",
+    "parentCategory": "منتجات الرياضة واللياقة البدنية"
+  },
+  {
+    "category": "مخفف ألام العضلات",
+    "parentCategory": "منتجات الرياضة واللياقة البدنية"
+  },
+  {
+    "category": "مقياس حرارة",
+    "parentCategory": "منتجات الرياضة واللياقة البدنية"
+  },
+  {
+    "category": "مقياس ضغط الدم",
+    "parentCategory": "منتجات الرياضة واللياقة البدنية"
+  },
+  {
+    "category": "الحمية الغذائية والصحية",
+    "parentCategory": "منتجات الرياضة واللياقة البدنية"
+  },
+  {
+    "category": "مكملات غذائية ورياضية",
+    "parentCategory": "الحمية الغذائية والصحية"
+  },
+  {
+    "category": "القرطاسية ومستلزمات المدرسة",
+    "parentCategory": null
+  },
+  {
+    "category": "ادوات حشو",
+    "parentCategory": "القرطاسية ومستلزمات المدرسة"
+  },
+  {
+    "category": "حصالة",
+    "parentCategory": "ادوات حشو"
+  },
+  {
+    "category": "أدوات تلوين",
+    "parentCategory": "القرطاسية ومستلزمات المدرسة"
+  },
+  {
+    "category": "أكسسوارات رسم",
+    "parentCategory": "أدوات تلوين"
+  },
+  {
+    "category": "ملفات ومصنفات",
+    "parentCategory": "ادوات حشو"
+  },
+  {
+    "category": "مغلفات رسائل",
+    "parentCategory": "ادوات حشو"
+  },
+  {
+    "category": "لوازم الورق",
+    "parentCategory": "القرطاسية ومستلزمات المدرسة"
+  },
+  {
+    "category": "ورق",
+    "parentCategory": "لوازم الورق"
+  },
+  {
+    "category": "حقائب مدرسية و حافضات الأقلام",
+    "parentCategory": "القرطاسية ومستلزمات المدرسة"
+  },
+  {
+    "category": "حقائب الظهر وأطقم علب الغداء",
+    "parentCategory": "حقائب مدرسية و حافضات الأقلام"
+  },
+  {
+    "category": "حقائب الظهر المراهق",
+    "parentCategory": "حقائب الظهر وأطقم علب الغداء"
+  },
+  {
+    "category": "مجموعات الحقائب الترويجية",
+    "parentCategory": "حقائب الظهر وأطقم علب الغداء"
+  },
+  {
+    "category": "اوراق ملاحظات ومعلمات",
+    "parentCategory": "لوازم الورق"
+  },
+  {
+    "category": "أغذية عضوية وحيوية",
+    "parentCategory": null
+  },
+  {
+    "category": "منتجات خالية من",
+    "parentCategory": "أغذية عضوية وحيوية"
+  },
+  {
+    "category": "منتجات خالية من اللاكتوز",
+    "parentCategory": "منتجات خالية من"
+  },
+  {
+    "category": "زبادي خالي من اللاكتوز",
+    "parentCategory": "منتجات خالية من"
+  },
+  {
+    "category": "منتجات خالية الغلوتين",
+    "parentCategory": "منتجات خالية من"
+  },
+  {
+    "category": "منتجات خالية من خالي من السكر",
+    "parentCategory": "منتجات خالية من"
+  },
+  {
+    "category": "منتجات خالية من الدهون",
+    "parentCategory": "منتجات خالية من"
+  },
+  {
+    "category": "خالية من",
+    "parentCategory": "منتجات خالية من"
+  },
+  {
+    "category": "السوبر ماركت",
+    "parentCategory": "أغذية عضوية وحيوية"
+  },
+  {
+    "category": "مستلزمات الفطور",
+    "parentCategory": "السوبر ماركت"
+  },
+  {
+    "category": "مربى، عسل وغيرها",
+    "parentCategory": "السوبر ماركت"
+  },
+  {
+    "category": "مكونات الطبخ",
+    "parentCategory": "السوبر ماركت"
+  },
+  {
+    "category": "المنتجات العضوية والحيوية",
+    "parentCategory": "السوبر ماركت"
+  },
+  {
+    "category": "أرز، باستا ومعكرونة عضوية",
+    "parentCategory": "السوبر ماركت"
+  },
+  {
+    "category": "مقرمشات عضوية وبايو",
+    "parentCategory": "السوبر ماركت"
+  },
+  {
+    "category": "الرعاية الصحية والتغذية العضوية",
+    "parentCategory": "السوبر ماركت"
+  },
+  {
+    "category": "خضار وفواكه عضوية",
+    "parentCategory": "أغذية عضوية وحيوية"
+  },
+  {
+    "category": "فواكه عضوية",
+    "parentCategory": "خضار وفواكه عضوية"
+  },
+  {
+    "category": "الزراعة المائية",
+    "parentCategory": "خضار وفواكه عضوية"
+  },
+  {
+    "category": "مشروبات عضوية",
+    "parentCategory": "أغذية عضوية وحيوية"
+  },
+  {
+    "category": "عصائر عضوية",
+    "parentCategory": "مشروبات عضوية"
+  },
+  {
+    "category": "الشاي العضوي",
+    "parentCategory": "مشروبات عضوية"
+  },
+  {
+    "category": "قهوة ومبيض",
+    "parentCategory": "مشروبات عضوية"
+  },
+  {
+    "category": "عصائر الفاكهة الخفيفة",
+    "parentCategory": "مشروبات عضوية"
+  },
+  {
+    "category": "منتجات مجمدة عضوية",
+    "parentCategory": "أغذية عضوية وحيوية"
+  },
+  {
+    "category": "الزراعة المائية",
+    "parentCategory": "منتجات مجمدة عضوية"
+  },
+  {
+    "category": "منتجات يومية عضوية",
+    "parentCategory": "أغذية عضوية وحيوية"
+  },
+  {
+    "category": "السمن العضوي والزبدة",
+    "parentCategory": "منتجات يومية عضوية"
+  },
+  {
+    "category": "جبنة بيضاء عضوية",
+    "parentCategory": "منتجات يومية عضوية"
+  },
+  {
+    "category": "حليب عضوي",
+    "parentCategory": "منتجات يومية عضوية"
+  },
+  {
+    "category": "الزبادي العضوي والحلويات",
+    "parentCategory": "منتجات يومية عضوية"
+  },
+  {
+    "category": "مخبوزات",
+    "parentCategory": null
+  },
+  {
+    "category": "حلوى الدونات, الكوكي والمافن",
+    "parentCategory": "مخبوزات"
+  },
+  {
+    "category": "الكوكي",
+    "parentCategory": "حلوى الدونات, الكوكي والمافن"
+  },
+  {
+    "category": "الكعك",
+    "parentCategory": "حلوى الدونات, الكوكي والمافن"
+  },
+  {
+    "category": "حلويات",
+    "parentCategory": "مخبوزات"
+  },
+  {
+    "category": "المسارات التركية",
+    "parentCategory": "حلويات"
+  },
+  {
+    "category": "حلويات عربية",
+    "parentCategory": "حلويات"
+  },
+  {
+    "category": "خبز عربي , راب وغيرها",
+    "parentCategory": "مخبوزات"
+  },
+  {
+    "category": "الخبز العربي",
+    "parentCategory": "خبز عربي , راب وغيرها"
+  },
+  {
+    "category": "لفائف أكل",
+    "parentCategory": "خبز عربي , راب وغيرها"
+  },
+  {
+    "category": "الخبز الخاص المحلي",
+    "parentCategory": "خبز عربي , راب وغيرها"
+  },
+  {
+    "category": "مناقيش",
+    "parentCategory": "خبز عربي , راب وغيرها"
+  },
+  {
+    "category": "خبز وغيره",
+    "parentCategory": "مخبوزات"
+  },
+  {
+    "category": "شرائح خبز ابيض",
+    "parentCategory": "خبز وغيره"
+  },
+  {
+    "category": "خبز بني شرائح",
+    "parentCategory": "خبز وغيره"
+  },
+  {
+    "category": "خبز متنوع",
+    "parentCategory": "خبز وغيره"
+  },
+  {
+    "category": "الكعك وغيره",
+    "parentCategory": "خبز وغيره"
+  },
+  {
+    "category": "شرائح خبز الحليب",
+    "parentCategory": "خبز وغيره"
+  },
+  {
+    "category": "البروتين والحمية الغذائية",
+    "parentCategory": "خبز وغيره"
+  },
+  {
+    "category": "خبز ابيض",
+    "parentCategory": "خبز وغيره"
+  },
+  {
+    "category": "خبز فرنسي",
+    "parentCategory": "خبز وغيره"
+  },
+  {
+    "category": "شطائر الخبر",
+    "parentCategory": "خبز وغيره"
+  },
+  {
+    "category": "خبر خاص",
+    "parentCategory": "خبز وغيره"
+  },
+  {
+    "category": "كرواسون, باستري وكيك",
+    "parentCategory": "مخبوزات"
+  },
+  {
+    "category": "منتجات حلوة",
+    "parentCategory": "كرواسون, باستري وكيك"
+  },
+  {
+    "category": "المنتجات المملحة",
+    "parentCategory": "كرواسون, باستري وكيك"
+  },
+  {
+    "category": "المعجنات من أنحاء العالم",
+    "parentCategory": "كرواسون, باستري وكيك"
+  },
+  {
+    "category": "كريب، وافل وبانكيك",
+    "parentCategory": "كرواسون, باستري وكيك"
+  },
+  {
+    "category": "كرواسون وغيره",
+    "parentCategory": "كرواسون, باستري وكيك"
+  },
+  {
+    "category": "معجنات فردية",
+    "parentCategory": "كرواسون, باستري وكيك"
+  },
+  {
+    "category": "كعك كبير",
+    "parentCategory": "كرواسون, باستري وكيك"
+  },
+  {
+    "category": "الكعك الجاف",
+    "parentCategory": "كرواسون, باستري وكيك"
+  },
+  {
+    "category": "منتجات ورقيه, صحف وغيرها",
+    "parentCategory": null
+  },
+  {
+    "category": "بطاقات ترحيبيه",
+    "parentCategory": "منتجات ورقيه, صحف وغيرها"
+  },
+  {
+    "category": "لفات ولف اكسسوارات",
+    "parentCategory": "بطاقات ترحيبيه"
+  },
+  {
+    "category": "تبغ",
+    "parentCategory": "منتجات ورقيه, صحف وغيرها"
+  },
+  {
+    "category": "اعواد الثقاب و ولاعات",
+    "parentCategory": "تبغ"
+  },
+  {
+    "category": "الشيشه واكسسواراتها",
+    "parentCategory": "تبغ"
+  },
+  {
+    "category": "كتب",
+    "parentCategory": "منتجات ورقيه, صحف وغيرها"
+  },
+  {
+    "category": "كتب واقعيه",
+    "parentCategory": "كتب"
+  },
+  {
+    "category": "خيالي, غير خيالي",
+    "parentCategory": "كتب"
+  },
+  {
+    "category": "ملابس, اكسسوارات وحقائب",
+    "parentCategory": null
+  },
+  {
+    "category": "حقائب السفر",
+    "parentCategory": "ملابس, اكسسوارات وحقائب"
+  },
+  {
+    "category": "حقائب المكياج",
+    "parentCategory": "حقائب السفر"
+  },
+  {
+    "category": "حقائب المشي لمسافات طويلة وحقائب الظهر",
+    "parentCategory": "حقائب السفر"
+  },
+  {
+    "category": "حقائب كبيرة",
+    "parentCategory": "حقائب السفر"
+  },
+  {
+    "category": "الاطفال",
+    "parentCategory": "ملابس, اكسسوارات وحقائب"
+  },
+  {
+    "category": "حمالة وحزام اطفال",
+    "parentCategory": "الاطفال"
+  },
+  {
+    "category": "جوارب اطفال",
+    "parentCategory": "الاطفال"
+  },
+  {
+    "category": "احذية اطفال",
+    "parentCategory": "الاطفال"
+  },
+  {
+    "category": "مستلزمات الأطفال",
+    "parentCategory": null
+  },
+  {
+    "category": "مستلزمات الاستحمام وغيرها",
+    "parentCategory": "مستلزمات الأطفال"
+  },
+  {
+    "category": "منظفات الاطفال",
+    "parentCategory": "مستلزمات الاستحمام وغيرها"
+  },
+  {
+    "category": "مناشف الجسم واليدين ومستلزمات الاستحمام",
+    "parentCategory": "مستلزمات الاستحمام وغيرها"
+  },
+  {
+    "category": "حقائب ومات لتغيير حفاضات الأطفال",
+    "parentCategory": "مستلزمات الاستحمام وغيرها"
+  },
+  {
+    "category": "حفاضات ، مناديل وكريم حفاضات",
+    "parentCategory": "مستلزمات الاستحمام وغيرها"
+  },
+  {
+    "category": "ألبسة سباحة متنوعة",
+    "parentCategory": "مستلزمات الاستحمام وغيرها"
+  },
+  {
+    "category": "مستلزمات الحضانة",
+    "parentCategory": "مستلزمات الأطفال"
+  },
+  {
+    "category": "مستلزمات حماية الأطفال",
+    "parentCategory": "مستلزمات الحضانة"
+  },
+  {
+    "category": "مستلزمات سفر الاطفال",
+    "parentCategory": "مستلزمات الأطفال"
+  },
+  {
+    "category": "أنظمة السفر",
+    "parentCategory": "مستلزمات سفر الاطفال"
+  },
+  {
+    "category": "عربات الاطفال وغيرها",
+    "parentCategory": "مستلزمات سفر الاطفال"
+  },
+  {
+    "category": "منتجات الحليب والعصير",
+    "parentCategory": "مستلزمات الأطفال"
+  },
+  {
+    "category": "أغذية الأطفال والرضع",
+    "parentCategory": "منتجات الحليب والعصير"
+  },
+  {
+    "category": "حليب الأطفال والرضع",
+    "parentCategory": "منتجات الحليب والعصير"
+  },
+  {
+    "category": "وجبات الأطفال والرضع",
+    "parentCategory": "منتجات الحليب والعصير"
+  },
+  {
+    "category": "منتجات عناية الاطفال",
+    "parentCategory": "مستلزمات الأطفال"
+  },
+  {
+    "category": "الملحقات الطبية",
+    "parentCategory": "منتجات عناية الاطفال"
+  },
+  {
+    "category": "العناية بالفم",
+    "parentCategory": "منتجات عناية الاطفال"
+  },
+  {
+    "category": "ملحقات نمو الأسنان",
+    "parentCategory": "منتجات عناية الاطفال"
+  },
+  {
+    "category": "موبايلات، تابلت وأجهزة اليد الذ",
+    "parentCategory": null
+  },
+  {
+    "category": "اكسسوارات الموبايل",
+    "parentCategory": "موبايلات، تابلت وأجهزة اليد الذ"
+  },
+  {
+    "category": "واقيات الشاشات وغيرها",
+    "parentCategory": "اكسسوارات الموبايل"
+  },
+  {
+    "category": "التابلت والقوارئ الرقمية",
+    "parentCategory": "موبايلات، تابلت وأجهزة اليد الذ"
+  },
+  {
+    "category": "أجهزة لوحية",
+    "parentCategory": "التابلت والقوارئ الرقمية"
+  },
+  {
+    "category": "منتجات المنزل والحدائق",
+    "parentCategory": null
+  },
+  {
+    "category": "التخييم, الشواء وغيرها",
+    "parentCategory": "منتجات المنزل والحدائق"
+  },
+  {
+    "category": "سرير هوائي وكيس نوم",
+    "parentCategory": "التخييم, الشواء وغيرها"
+  },
+  {
+    "category": "اطقم شواء وغيرها",
+    "parentCategory": "التخييم, الشواء وغيرها"
+  },
+  {
+    "category": "اكسسوارات الفحم والشواء",
+    "parentCategory": "التخييم, الشواء وغيرها"
+  },
+  {
+    "category": "الخيام",
+    "parentCategory": "التخييم, الشواء وغيرها"
+  },
+  {
+    "category": "طاولات قابله للطي, كراسي وعربات",
+    "parentCategory": "التخييم, الشواء وغيرها"
+  },
+  {
+    "category": "مبردات, اباريق وادوات طهي",
+    "parentCategory": "التخييم, الشواء وغيرها"
+  },
+  {
+    "category": "الحمام والغسيل",
+    "parentCategory": "منتجات المنزل والحدائق"
+  },
+  {
+    "category": "الاحواض, الدلال والسلال",
+    "parentCategory": "الحمام والغسيل"
+  }
+]
