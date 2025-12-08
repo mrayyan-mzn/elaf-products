@@ -1,0 +1,9442 @@
+[
+  {
+    "id": "100-miles",
+    "name": {
+      "en": "100 Miles",
+      "ar": "100 ميلز"
+    },
+    "original_value": "100 Miles"
+  },
+  {
+    "id": "100-miles",
+    "name": {
+      "en": "100 Miles",
+      "ar": "100 ميلز"
+    },
+    "original_value": "100Miles"
+  },
+  {
+    "id": "3xr",
+    "name": {
+      "en": "3XR",
+      "ar": "3 إكس آر"
+    },
+    "original_value": "3XR"
+  },
+  {
+    "id": "3xr",
+    "name": {
+      "en": "3XR",
+      "ar": "3 إكس آر"
+    },
+    "original_value": "3Xr"
+  },
+  {
+    "id": "3xr",
+    "name": {
+      "en": "3XR",
+      "ar": "3 إكس آر"
+    },
+    "original_value": "3xr"
+  },
+  {
+    "id": "5d",
+    "name": {
+      "en": "5D",
+      "ar": "5 دي"
+    },
+    "original_value": "5D"
+  },
+  {
+    "id": "7days",
+    "name": {
+      "en": "7 Days",
+      "ar": "سفن دايز"
+    },
+    "original_value": "7Days"
+  },
+  {
+    "id": "7up",
+    "name": {
+      "en": "7UP",
+      "ar": "سفن أب"
+    },
+    "original_value": "7Up"
+  },
+  {
+    "id": "a1",
+    "name": {
+      "en": "A1",
+      "ar": "إيه 1"
+    },
+    "original_value": "A1"
+  },
+  {
+    "id": "activia",
+    "name": {
+      "en": "Activia",
+      "ar": "أكتيفيا"
+    },
+    "original_value": "ACTIVIA"
+  },
+  {
+    "id": "agc",
+    "name": {
+      "en": "AGC",
+      "ar": "إيه جي سي"
+    },
+    "original_value": "AGC"
+  },
+  {
+    "id": "air-garya",
+    "name": {
+      "en": "Air Garya",
+      "ar": "إير جاريا"
+    },
+    "original_value": "AIR GARYA"
+  },
+  {
+    "id": "ak-cat-products",
+    "name": {
+      "en": "AK Cat Products",
+      "ar": "منتجات إيه كي للقطط"
+    },
+    "original_value": "AK Cat Products"
+  },
+  {
+    "id": "al-monday",
+    "name": {
+      "en": "Al Monday",
+      "ar": "المانداي"
+    },
+    "original_value": "AL MONDAY"
+  },
+  {
+    "id": "albiero",
+    "name": {
+      "en": "Albiero",
+      "ar": "البيرو"
+    },
+    "original_value": "ALBIERO"
+  },
+  {
+    "id": "alfailaq-althahabi",
+    "name": {
+      "en": "Alfailaq Althahabi",
+      "ar": "الفيلق الذهبي"
+    },
+    "original_value": "ALFAILAQ ALTHAHABI"
+  },
+  {
+    "id": "areon",
+    "name": {
+      "en": "Areon",
+      "ar": "أريون"
+    },
+    "original_value": "AREON X"
+  },
+  {
+    "id": "aroma",
+    "name": {
+      "en": "Aroma",
+      "ar": "أروما"
+    },
+    "original_value": "AROAMA"
+  },
+  {
+    "id": "aatas-cat",
+    "name": {
+      "en": "Aatas Cat",
+      "ar": "أتاس كات"
+    },
+    "original_value": "Aatas Cat"
+  },
+  {
+    "id": "abu-jabal",
+    "name": {
+      "en": "Abu Jabal",
+      "ar": "أبو جبل"
+    },
+    "original_value": "Abu Jabal"
+  },
+  {
+    "id": "abu-auf",
+    "name": {
+      "en": "Abu Auf",
+      "ar": "أبو عوف"
+    },
+    "original_value": "Abu auf"
+  },
+  {
+    "id": "abu-bint",
+    "name": {
+      "en": "Abu Bint",
+      "ar": "أبو بنت"
+    },
+    "original_value": "Abu bint"
+  },
+  {
+    "id": "abu-kass",
+    "name": {
+      "en": "Abu Kass",
+      "ar": "أبو كاس"
+    },
+    "original_value": "Abu kass"
+  },
+  {
+    "id": "abu-sumbulatein",
+    "name": {
+      "en": "Abu Sumbulatein",
+      "ar": "أبو سنبلتين"
+    },
+    "original_value": "Abu sumbulatein"
+  },
+  {
+    "id": "abu-zahra",
+    "name": {
+      "en": "Abu Zahra",
+      "ar": "أبو زهرة"
+    },
+    "original_value": "Abu zahra"
+  },
+  {
+    "id": "acana",
+    "name": {
+      "en": "Acana",
+      "ar": "أكانا"
+    },
+    "original_value": "Acana"
+  },
+  {
+    "id": "acorsa",
+    "name": {
+      "en": "Acorsa",
+      "ar": "أكورسا"
+    },
+    "original_value": "Acorsa"
+  },
+  {
+    "id": "acqua-panna",
+    "name": {
+      "en": "Acqua Panna",
+      "ar": "أكوا بانا"
+    },
+    "original_value": "Acqua panna"
+  },
+  {
+    "id": "actimel",
+    "name": {
+      "en": "Actimel",
+      "ar": "أكتيميل"
+    },
+    "original_value": "Actimel"
+  },
+  {
+    "id": "aero",
+    "name": {
+      "en": "Aero",
+      "ar": "إيرو"
+    },
+    "original_value": "Aero"
+  },
+  {
+    "id": "afia",
+    "name": {
+      "en": "Afia",
+      "ar": "عافية"
+    },
+    "original_value": "Afia"
+  },
+  {
+    "id": "after-eight",
+    "name": {
+      "en": "After Eight",
+      "ar": "أفتر إيت"
+    },
+    "original_value": "After eight"
+  },
+  {
+    "id": "agc",
+    "name": {
+      "en": "AGC",
+      "ar": "إيه جي سي"
+    },
+    "original_value": "Agc"
+  },
+  {
+    "id": "ahmad-tea",
+    "name": {
+      "en": "Ahmad Tea",
+      "ar": "شاي أحمد"
+    },
+    "original_value": "Ahmad Tea"
+  },
+  {
+    "id": "airman",
+    "name": {
+      "en": "AirMan",
+      "ar": "إير مان"
+    },
+    "original_value": "AirMan"
+  },
+  {
+    "id": "aiwa",
+    "name": {
+      "en": "Aiwa",
+      "ar": "أيوا"
+    },
+    "original_value": "Aiwa"
+  },
+  {
+    "id": "ajinomoto",
+    "name": {
+      "en": "Ajinomoto",
+      "ar": "أجينوموتو"
+    },
+    "original_value": "Ajinomoto"
+  },
+  {
+    "id": "al-alali",
+    "name": {
+      "en": "Al Alali",
+      "ar": "العلالي"
+    },
+    "original_value": "Al Alali"
+  },
+  {
+    "id": "al-alali",
+    "name": {
+      "en": "Al Alali",
+      "ar": "العلالي"
+    },
+    "original_value": "Al Alali Chicken Stock 18g Pack Of 24"
+  },
+  {
+    "id": "al-alali",
+    "name": {
+      "en": "Al Alali",
+      "ar": "العلالي"
+    },
+    "original_value": "Al Alali Chicken Stock 18g X24+50%"
+  },
+  {
+    "id": "al-alali",
+    "name": {
+      "en": "Al Alali",
+      "ar": "العلالي"
+    },
+    "original_value": "Al Alali Chicken Stock Cubes 18g"
+  },
+  {
+    "id": "al-alali",
+    "name": {
+      "en": "Al Alali",
+      "ar": "العلالي"
+    },
+    "original_value": "Al Alali Chicken Stock Powder 18g"
+  },
+  {
+    "id": "al-alali",
+    "name": {
+      "en": "Al Alali",
+      "ar": "العلالي"
+    },
+    "original_value": "Al Alali Chicken Stock Powder 18g x30"
+  },
+  {
+    "id": "al-attar",
+    "name": {
+      "en": "Al Attar",
+      "ar": "العطار"
+    },
+    "original_value": "Al Attar"
+  },
+  {
+    "id": "al-kbous",
+    "name": {
+      "en": "Al Kbous",
+      "ar": "الكبوس"
+    },
+    "original_value": "Al Kbous"
+  },
+  {
+    "id": "al-rabie",
+    "name": {
+      "en": "Al Rabie",
+      "ar": "الربيع"
+    },
+    "original_value": "Al Rabie"
+  },
+  {
+    "id": "al-reef",
+    "name": {
+      "en": "Al Reef",
+      "ar": "الريف"
+    },
+    "original_value": "Al Reef"
+  },
+  {
+    "id": "al-suman",
+    "name": {
+      "en": "Al Suman",
+      "ar": "السمان"
+    },
+    "original_value": "Al Suman"
+  },
+  {
+    "id": "al-taie",
+    "name": {
+      "en": "Al Taie",
+      "ar": "الطائي"
+    },
+    "original_value": "Al Taie"
+  },
+  {
+    "id": "al-watania",
+    "name": {
+      "en": "Al Watania",
+      "ar": "الوطنية"
+    },
+    "original_value": "Al Watania Poultry"
+  },
+  {
+    "id": "al-agenda",
+    "name": {
+      "en": "Al Agenda",
+      "ar": "الأجندة"
+    },
+    "original_value": "Al agenda"
+  },
+  {
+    "id": "al-aila",
+    "name": {
+      "en": "Al Aila",
+      "ar": "العائلة"
+    },
+    "original_value": "Al aila"
+  },
+  {
+    "id": "al-alali",
+    "name": {
+      "en": "Al Alali",
+      "ar": "العلالي"
+    },
+    "original_value": "Al alali"
+  },
+  {
+    "id": "al-arabi",
+    "name": {
+      "en": "Al Arabi",
+      "ar": "العربي"
+    },
+    "original_value": "Al arabi"
+  },
+  {
+    "id": "al-asyah",
+    "name": {
+      "en": "Al Asyah",
+      "ar": "الأسياح"
+    },
+    "original_value": "Al asyah"
+  },
+  {
+    "id": "al-baker",
+    "name": {
+      "en": "Al Baker",
+      "ar": "البيكر"
+    },
+    "original_value": "Al baker"
+  },
+  {
+    "id": "al-bakherah",
+    "name": {
+      "en": "Al Bakherah",
+      "ar": "الباخرة"
+    },
+    "original_value": "Al bakherah mark"
+  },
+  {
+    "id": "al-batal",
+    "name": {
+      "en": "Al Batal",
+      "ar": "البطل"
+    },
+    "original_value": "Al batal"
+  },
+  {
+    "id": "al-fares",
+    "name": {
+      "en": "Al Fares",
+      "ar": "الفارس"
+    },
+    "original_value": "Al fares"
+  },
+  {
+    "id": "al-folla",
+    "name": {
+      "en": "Al Folla",
+      "ar": "الفلة"
+    },
+    "original_value": "Al folla"
+  },
+  {
+    "id": "al-jameel",
+    "name": {
+      "en": "Al Jameel",
+      "ar": "الجميل"
+    },
+    "original_value": "Al jameel"
+  },
+  {
+    "id": "al-jouf",
+    "name": {
+      "en": "Al Jouf",
+      "ar": "الجوف"
+    },
+    "original_value": "Al jouf"
+  },
+  {
+    "id": "al-madina",
+    "name": {
+      "en": "Al Madina",
+      "ar": "المدينة"
+    },
+    "original_value": "Al madina"
+  },
+  {
+    "id": "al-maha",
+    "name": {
+      "en": "Al Maha",
+      "ar": "المها"
+    },
+    "original_value": "Al maha"
+  },
+  {
+    "id": "al-mudyaf",
+    "name": {
+      "en": "Al Mudyaf",
+      "ar": "المضياف"
+    },
+    "original_value": "Al mudyaf"
+  },
+  {
+    "id": "al-osra",
+    "name": {
+      "en": "Al Osra",
+      "ar": "الأسرة"
+    },
+    "original_value": "Al osra"
+  },
+  {
+    "id": "al-rabie",
+    "name": {
+      "en": "Al Rabie",
+      "ar": "الربيع"
+    },
+    "original_value": "Al rabie"
+  },
+  {
+    "id": "al-reef",
+    "name": {
+      "en": "Al Reef",
+      "ar": "الريف"
+    },
+    "original_value": "Al reef"
+  },
+  {
+    "id": "al-safeer",
+    "name": {
+      "en": "Al Safeer",
+      "ar": "السفير"
+    },
+    "original_value": "Al safeer"
+  },
+  {
+    "id": "al-safi",
+    "name": {
+      "en": "Al Safi",
+      "ar": "الصافي"
+    },
+    "original_value": "Al safi"
+  },
+  {
+    "id": "al-shalan",
+    "name": {
+      "en": "Al Shalan",
+      "ar": "الشعلان"
+    },
+    "original_value": "Al shalan"
+  },
+  {
+    "id": "al-shifa",
+    "name": {
+      "en": "Al Shifa",
+      "ar": "الشفاء"
+    },
+    "original_value": "Al shifa"
+  },
+  {
+    "id": "al-shorouk",
+    "name": {
+      "en": "Al Shorouk",
+      "ar": "الشروق"
+    },
+    "original_value": "Al shorouk"
+  },
+  {
+    "id": "al-taie",
+    "name": {
+      "en": "Al Taie",
+      "ar": "الطائي"
+    },
+    "original_value": "Al taie"
+  },
+  {
+    "id": "al-taj",
+    "name": {
+      "en": "Al Taj",
+      "ar": "التاج"
+    },
+    "original_value": "Al taj"
+  },
+  {
+    "id": "al-walimah",
+    "name": {
+      "en": "Al Walimah",
+      "ar": "الوليمة"
+    },
+    "original_value": "Al walimah"
+  },
+  {
+    "id": "al-watania",
+    "name": {
+      "en": "Al Watania",
+      "ar": "الوطنية"
+    },
+    "original_value": "Al watania poultry"
+  },
+  {
+    "id": "al-wazir",
+    "name": {
+      "en": "Al Wazir",
+      "ar": "الوزير"
+    },
+    "original_value": "Al wazir"
+  },
+  {
+    "id": "alsamman",
+    "name": {
+      "en": "Al Samman",
+      "ar": "السمان"
+    },
+    "original_value": "AlSamman"
+  },
+  {
+    "id": "ali-tea",
+    "name": {
+      "en": "Ali Tea",
+      "ar": "شاي علي"
+    },
+    "original_value": "Ali Tea"
+  },
+  {
+    "id": "alicafe",
+    "name": {
+      "en": "Alicafe",
+      "ar": "علي كافيه"
+    },
+    "original_value": "Ali cafe"
+  },
+  {
+    "id": "alicafe",
+    "name": {
+      "en": "Alicafe",
+      "ar": "علي كافيه"
+    },
+    "original_value": "Alicafe"
+  },
+  {
+    "id": "alisa",
+    "name": {
+      "en": "Alisa",
+      "ar": "أليسا"
+    },
+    "original_value": "Alisa"
+  },
+  {
+    "id": "aliya",
+    "name": {
+      "en": "Aliya",
+      "ar": "عالية"
+    },
+    "original_value": "Aliya"
+  },
+  {
+    "id": "all-for-paws",
+    "name": {
+      "en": "All For Paws",
+      "ar": "أول فور باوز"
+    },
+    "original_value": "All For Paws"
+  },
+  {
+    "id": "almarai",
+    "name": {
+      "en": "Almarai",
+      "ar": "المراعي"
+    },
+    "original_value": "Almarai"
+  },
+  {
+    "id": "almarai-alyoum",
+    "name": {
+      "en": "Almarai Alyoum",
+      "ar": "المراعي اليوم"
+    },
+    "original_value": "Almarai:alyoum"
+  },
+  {
+    "id": "almawasim",
+    "name": {
+      "en": "Almawasim",
+      "ar": "المواسم"
+    },
+    "original_value": "Almawasim"
+  },
+  {
+    "id": "almufarrej",
+    "name": {
+      "en": "Almufarrej",
+      "ar": "المفرج"
+    },
+    "original_value": "Almufarrej"
+  },
+  {
+    "id": "aloha",
+    "name": {
+      "en": "Aloha",
+      "ar": "ألوها"
+    },
+    "original_value": "Aloha"
+  },
+  {
+    "id": "aloha",
+    "name": {
+      "en": "Aloha",
+      "ar": "ألوها"
+    },
+    "original_value": "Aloha Chicken Stock 20g X24"
+  },
+  {
+    "id": "alpro",
+    "name": {
+      "en": "Alpro",
+      "ar": "ألبرو"
+    },
+    "original_value": "Alpro"
+  },
+  {
+    "id": "al-safi",
+    "name": {
+      "en": "Al Safi",
+      "ar": "الصافي"
+    },
+    "original_value": "Alsafi"
+  },
+  {
+    "id": "alsaif",
+    "name": {
+      "en": "Alsaif",
+      "ar": "السيف"
+    },
+    "original_value": "Alsaif"
+  },
+  {
+    "id": "alsi",
+    "name": {
+      "en": "Alsi",
+      "ar": "السي"
+    },
+    "original_value": "Alsi"
+  },
+  {
+    "id": "altimate-pet",
+    "name": {
+      "en": "Altimate Pet",
+      "ar": "ألتيميت بيت"
+    },
+    "original_value": "Altimate Pet"
+  },
+  {
+    "id": "amada",
+    "name": {
+      "en": "Amada",
+      "ar": "أمادا"
+    },
+    "original_value": "Amada"
+  },
+  {
+    "id": "amal",
+    "name": {
+      "en": "Amal",
+      "ar": "أمل"
+    },
+    "original_value": "Amal"
+  },
+  {
+    "id": "amazon",
+    "name": {
+      "en": "Amazon",
+      "ar": "أمازون"
+    },
+    "original_value": "Amazon"
+  },
+  {
+    "id": "amchi-baby",
+    "name": {
+      "en": "Amchi Baby",
+      "ar": "أمتشي بيبي"
+    },
+    "original_value": "Amchi Baby"
+  },
+  {
+    "id": "american-tourister",
+    "name": {
+      "en": "American Tourister",
+      "ar": "أمريكان توريستر"
+    },
+    "original_value": "American Tourister"
+  },
+  {
+    "id": "american-garden",
+    "name": {
+      "en": "American Garden",
+      "ar": "أميريكان جاردن"
+    },
+    "original_value": "American garden"
+  },
+  {
+    "id": "americana",
+    "name": {
+      "en": "Americana",
+      "ar": "أمريكانا"
+    },
+    "original_value": "Americana"
+  },
+  {
+    "id": "amica",
+    "name": {
+      "en": "Amica",
+      "ar": "أميكا"
+    },
+    "original_value": "Amica"
+  },
+  {
+    "id": "amicelli",
+    "name": {
+      "en": "Amicelli",
+      "ar": "أميتشيلي"
+    },
+    "original_value": "Amicelli"
+  },
+  {
+    "id": "amora",
+    "name": {
+      "en": "Amora",
+      "ar": "أمورا"
+    },
+    "original_value": "Amora"
+  },
+  {
+    "id": "amul",
+    "name": {
+      "en": "Amul",
+      "ar": "أمول"
+    },
+    "original_value": "Amul"
+  },
+  {
+    "id": "anchor",
+    "name": {
+      "en": "Anchor",
+      "ar": "أنكور"
+    },
+    "original_value": "Anchor"
+  },
+  {
+    "id": "anemoss",
+    "name": {
+      "en": "Anemoss",
+      "ar": "انيموس"
+    },
+    "original_value": "Anemoss"
+  },
+  {
+    "id": "anesthesia",
+    "name": {
+      "en": "Anesthesia",
+      "ar": "أنيستيزيا"
+    },
+    "original_value": "Anesthesia"
+  },
+  {
+    "id": "anlene",
+    "name": {
+      "en": "Anlene",
+      "ar": "ألين"
+    },
+    "original_value": "Anlene"
+  },
+  {
+    "id": "any-morning",
+    "name": {
+      "en": "Any Morning",
+      "ar": "أني مورنينج"
+    },
+    "original_value": "Any Morning"
+  },
+  {
+    "id": "applaws",
+    "name": {
+      "en": "Applaws",
+      "ar": "أبلاوز"
+    },
+    "original_value": "Applaws"
+  },
+  {
+    "id": "aptamil",
+    "name": {
+      "en": "Aptamil",
+      "ar": "أبتاميل"
+    },
+    "original_value": "Aptamil"
+  },
+  {
+    "id": "aquafina",
+    "name": {
+      "en": "Aquafina",
+      "ar": "أكوافينا"
+    },
+    "original_value": "Aquafina"
+  },
+  {
+    "id": "areon",
+    "name": {
+      "en": "Areon",
+      "ar": "أريون"
+    },
+    "original_value": "Areon"
+  },
+  {
+    "id": "argo",
+    "name": {
+      "en": "Argo",
+      "ar": "أرجو"
+    },
+    "original_value": "Argo"
+  },
+  {
+    "id": "arizona",
+    "name": {
+      "en": "Arizona",
+      "ar": "أريزونا"
+    },
+    "original_value": "Arizona"
+  },
+  {
+    "id": "arla",
+    "name": {
+      "en": "Arla",
+      "ar": "أرلا"
+    },
+    "original_value": "Arla"
+  },
+  {
+    "id": "armor-all",
+    "name": {
+      "en": "Armor All",
+      "ar": "أرمور أول"
+    },
+    "original_value": "Armor All"
+  },
+  {
+    "id": "aroma",
+    "name": {
+      "en": "Aroma",
+      "ar": "أروما"
+    },
+    "original_value": "Aroma"
+  },
+  {
+    "id": "arrighi",
+    "name": {
+      "en": "Arrighi",
+      "ar": "أريغي"
+    },
+    "original_value": "Arrighi"
+  },
+  {
+    "id": "arrow",
+    "name": {
+      "en": "Arrow",
+      "ar": "أرو"
+    },
+    "original_value": "Arrow"
+  },
+  {
+    "id": "artero",
+    "name": {
+      "en": "Artero",
+      "ar": "أرتيرو"
+    },
+    "original_value": "Artero"
+  },
+  {
+    "id": "arwa",
+    "name": {
+      "en": "Arwa",
+      "ar": "أروى"
+    },
+    "original_value": "Arwa"
+  },
+  {
+    "id": "arya",
+    "name": {
+      "en": "Arya",
+      "ar": "أريا"
+    },
+    "original_value": "Arya"
+  },
+  {
+    "id": "aseel",
+    "name": {
+      "en": "Aseel",
+      "ar": "أصيل"
+    },
+    "original_value": "Aseel"
+  },
+  {
+    "id": "askeys",
+    "name": {
+      "en": "Askeys",
+      "ar": "أسكيز"
+    },
+    "original_value": "Askeys"
+  },
+  {
+    "id": "astro",
+    "name": {
+      "en": "Astro",
+      "ar": "أسترو"
+    },
+    "original_value": "Astro"
+  },
+  {
+    "id": "atlas",
+    "name": {
+      "en": "Atlas",
+      "ar": "أطلس"
+    },
+    "original_value": "Atlas"
+  },
+  {
+    "id": "attack-on-titan",
+    "name": {
+      "en": "Attack On Titan",
+      "ar": "هجوم العمالقة"
+    },
+    "original_value": "Attack On Titans"
+  },
+  {
+    "id": "auto-care",
+    "name": {
+      "en": "Auto Care",
+      "ar": "أوتو كير"
+    },
+    "original_value": "Auto Care"
+  },
+  {
+    "id": "auto-care",
+    "name": {
+      "en": "Auto Care",
+      "ar": "أوتو كير"
+    },
+    "original_value": "Auto care"
+  },
+  {
+    "id": "ava",
+    "name": {
+      "en": "Ava",
+      "ar": "آفا"
+    },
+    "original_value": "Ava"
+  },
+  {
+    "id": "avoo",
+    "name": {
+      "en": "Avoo",
+      "ar": "أفو"
+    },
+    "original_value": "Avoo"
+  },
+  {
+    "id": "balade",
+    "name": {
+      "en": "Balade",
+      "ar": "بلدي"
+    },
+    "original_value": "BALADE"
+  },
+  {
+    "id": "black-odor",
+    "name": {
+      "en": "Black Odor",
+      "ar": "بلاك أودور"
+    },
+    "original_value": "BLACK ODOR"
+  },
+  {
+    "id": "bluey",
+    "name": {
+      "en": "Bluey",
+      "ar": "بلوي"
+    },
+    "original_value": "BLUEY"
+  },
+  {
+    "id": "bragg",
+    "name": {
+      "en": "Bragg",
+      "ar": "براج"
+    },
+    "original_value": "BRAGG"
+  },
+  {
+    "id": "baba",
+    "name": {
+      "en": "Baba",
+      "ar": "بابا"
+    },
+    "original_value": "Baba"
+  },
+  {
+    "id": "baby-jogger",
+    "name": {
+      "en": "Baby Jogger",
+      "ar": "بيبي جوغر"
+    },
+    "original_value": "Baby Jogger"
+  },
+  {
+    "id": "babyjoy",
+    "name": {
+      "en": "BabyJoy",
+      "ar": "بيبي جوي"
+    },
+    "original_value": "Baby Joy"
+  },
+  {
+    "id": "babyzen",
+    "name": {
+      "en": "Babyzen",
+      "ar": "بيبي زن"
+    },
+    "original_value": "Babyzen"
+  },
+  {
+    "id": "badia",
+    "name": {
+      "en": "Badia",
+      "ar": "باديا"
+    },
+    "original_value": "Badia"
+  },
+  {
+    "id": "bahlsen",
+    "name": {
+      "en": "Bahlsen",
+      "ar": "بالسن"
+    },
+    "original_value": "Bahlsen"
+  },
+  {
+    "id": "baidar",
+    "name": {
+      "en": "Baidar",
+      "ar": "بيدر"
+    },
+    "original_value": "Baidar"
+  },
+  {
+    "id": "baja",
+    "name": {
+      "en": "Baja",
+      "ar": "باجة"
+    },
+    "original_value": "Baja"
+  },
+  {
+    "id": "bajaj",
+    "name": {
+      "en": "Bajaj",
+      "ar": "باجاج"
+    },
+    "original_value": "Bajaj"
+  },
+  {
+    "id": "bakalland",
+    "name": {
+      "en": "Bakalland",
+      "ar": "باكالاند"
+    },
+    "original_value": "Bakalland"
+  },
+  {
+    "id": "baker",
+    "name": {
+      "en": "Baker",
+      "ar": "بيكر"
+    },
+    "original_value": "Baker"
+  },
+  {
+    "id": "bambi",
+    "name": {
+      "en": "Bambi",
+      "ar": "بامبي"
+    },
+    "original_value": "Bambi"
+  },
+  {
+    "id": "barbican",
+    "name": {
+      "en": "Barbican",
+      "ar": "بربيكان"
+    },
+    "original_value": "Barbican"
+  },
+  {
+    "id": "barbie",
+    "name": {
+      "en": "Barbie",
+      "ar": "باربي"
+    },
+    "original_value": "Barbie"
+  },
+  {
+    "id": "barilla",
+    "name": {
+      "en": "Barilla",
+      "ar": "باريلا"
+    },
+    "original_value": "Barilla"
+  },
+  {
+    "id": "barrs",
+    "name": {
+      "en": "Barr's",
+      "ar": "بارز"
+    },
+    "original_value": "Barr’s"
+  },
+  {
+    "id": "bart",
+    "name": {
+      "en": "Bart",
+      "ar": "بارت"
+    },
+    "original_value": "Bart"
+  },
+  {
+    "id": "batchelors",
+    "name": {
+      "en": "Batchelors",
+      "ar": "باتشلورز"
+    },
+    "original_value": "Batchelors"
+  },
+  {
+    "id": "batman",
+    "name": {
+      "en": "Batman",
+      "ar": "باتمان"
+    },
+    "original_value": "Batman"
+  },
+  {
+    "id": "baxters",
+    "name": {
+      "en": "Baxters",
+      "ar": "باكسترز"
+    },
+    "original_value": "Baxters"
+  },
+  {
+    "id": "bazooka",
+    "name": {
+      "en": "Bazooka",
+      "ar": "بازوكا"
+    },
+    "original_value": "Bazooka"
+  },
+  {
+    "id": "be-kind",
+    "name": {
+      "en": "Be-Kind",
+      "ar": "بي كايند"
+    },
+    "original_value": "Be-kind"
+  },
+  {
+    "id": "beagles",
+    "name": {
+      "en": "Beagles",
+      "ar": "بيجلز"
+    },
+    "original_value": "Beagles"
+  },
+  {
+    "id": "bebeto",
+    "name": {
+      "en": "Bebeto",
+      "ar": "بيبيتو"
+    },
+    "original_value": "Bebeto"
+  },
+  {
+    "id": "bee",
+    "name": {
+      "en": "Bee",
+      "ar": "بي"
+    },
+    "original_value": "Bee"
+  },
+  {
+    "id": "belgian",
+    "name": {
+      "en": "Belgian",
+      "ar": "بلجيان"
+    },
+    "original_value": "Belgian"
+  },
+  {
+    "id": "belvoir",
+    "name": {
+      "en": "Belvoir",
+      "ar": "بيلفوار"
+    },
+    "original_value": "Belvoir"
+  },
+  {
+    "id": "benifital",
+    "name": {
+      "en": "Benifital",
+      "ar": "بينيفيتال"
+    },
+    "original_value": "Benifital"
+  },
+  {
+    "id": "berain",
+    "name": {
+      "en": "Berain",
+      "ar": "بيرين"
+    },
+    "original_value": "Berain"
+  },
+  {
+    "id": "berry-hills",
+    "name": {
+      "en": "Berry Hills",
+      "ar": "بيري هيلز"
+    },
+    "original_value": "Berry hills"
+  },
+  {
+    "id": "beso",
+    "name": {
+      "en": "Beso",
+      "ar": "بيسو"
+    },
+    "original_value": "Beso"
+  },
+  {
+    "id": "best",
+    "name": {
+      "en": "Best",
+      "ar": "بست"
+    },
+    "original_value": "Best"
+  },
+  {
+    "id": "best-of-minis",
+    "name": {
+      "en": "Best of Minis",
+      "ar": "بست أوف مينيز"
+    },
+    "original_value": "Best of minis"
+  },
+  {
+    "id": "bestway",
+    "name": {
+      "en": "Bestway",
+      "ar": "بيست واي"
+    },
+    "original_value": "Bestway"
+  },
+  {
+    "id": "better",
+    "name": {
+      "en": "Better",
+      "ar": "بيتر"
+    },
+    "original_value": "Better"
+  },
+  {
+    "id": "betty-crocker",
+    "name": {
+      "en": "Betty Crocker",
+      "ar": "بيتي كروكر"
+    },
+    "original_value": "Betty Crocker"
+  },
+  {
+    "id": "beyblade",
+    "name": {
+      "en": "BeyBlade",
+      "ar": "بي بليد"
+    },
+    "original_value": "BeyBlade"
+  },
+  {
+    "id": "bibi",
+    "name": {
+      "en": "Bibi",
+      "ar": "بيبي"
+    },
+    "original_value": "Bibi"
+  },
+  {
+    "id": "biggdesign",
+    "name": {
+      "en": "BiggDesign",
+      "ar": "بيج ديزاين"
+    },
+    "original_value": "BiggDesign"
+  },
+  {
+    "id": "biggdesign",
+    "name": {
+      "en": "BiggDesign",
+      "ar": "بيج ديزاين"
+    },
+    "original_value": "Biggdesign"
+  },
+  {
+    "id": "biki",
+    "name": {
+      "en": "Biki",
+      "ar": "بيكي"
+    },
+    "original_value": "Biki"
+  },
+  {
+    "id": "binggarea",
+    "name": {
+      "en": "Binggarea",
+      "ar": "بينجري"
+    },
+    "original_value": "Binggarea"
+  },
+  {
+    "id": "bingo",
+    "name": {
+      "en": "Bingo",
+      "ar": "بينجو"
+    },
+    "original_value": "Bingo"
+  },
+  {
+    "id": "bint-al-balad",
+    "name": {
+      "en": "Bint Al Balad",
+      "ar": "بنت البلد"
+    },
+    "original_value": "Bint al balad"
+  },
+  {
+    "id": "bio",
+    "name": {
+      "en": "Bio",
+      "ar": "بيو"
+    },
+    "original_value": "Bio"
+  },
+  {
+    "id": "bio-pet-active",
+    "name": {
+      "en": "Bio Pet Active",
+      "ar": "بيو بيت أكتيف"
+    },
+    "original_value": "Bio Pet Active"
+  },
+  {
+    "id": "bioitalia",
+    "name": {
+      "en": "Bioitalia",
+      "ar": "بيو إيطاليا"
+    },
+    "original_value": "Bioitalia"
+  },
+  {
+    "id": "biokats",
+    "name": {
+      "en": "Biokat's",
+      "ar": "بيوكاتس"
+    },
+    "original_value": "Biokat's"
+  },
+  {
+    "id": "bioline",
+    "name": {
+      "en": "Bioline",
+      "ar": "بيولاين"
+    },
+    "original_value": "Bioline"
+  },
+  {
+    "id": "biona",
+    "name": {
+      "en": "Biona",
+      "ar": "بيونا"
+    },
+    "original_value": "Biona"
+  },
+  {
+    "id": "biskrem",
+    "name": {
+      "en": "Biskrem",
+      "ar": "بسكريم"
+    },
+    "original_value": "Biskrem"
+  },
+  {
+    "id": "bisto",
+    "name": {
+      "en": "Bisto",
+      "ar": "بيستو"
+    },
+    "original_value": "Bisto"
+  },
+  {
+    "id": "bisto",
+    "name": {
+      "en": "Bisto",
+      "ar": "بيستو"
+    },
+    "original_value": "Bisto Flavoursome And Delicious Chicken Gravy Granules 190g"
+  },
+  {
+    "id": "black-crystal",
+    "name": {
+      "en": "Black - Crystal",
+      "ar": "بلاك - كريستال"
+    },
+    "original_value": "Black - Crystal"
+  },
+  {
+    "id": "blemil",
+    "name": {
+      "en": "Blemil",
+      "ar": "بليميل"
+    },
+    "original_value": "Blemil"
+  },
+  {
+    "id": "blevit",
+    "name": {
+      "en": "Blevit",
+      "ar": "بليفيت"
+    },
+    "original_value": "Blevit"
+  },
+  {
+    "id": "blue-diamond",
+    "name": {
+      "en": "Blue Diamond",
+      "ar": "بلو دايموند"
+    },
+    "original_value": "Blue diamond"
+  },
+  {
+    "id": "blue-dragon",
+    "name": {
+      "en": "Blue Dragon",
+      "ar": "بلو دراجون"
+    },
+    "original_value": "Blue dragon"
+  },
+  {
+    "id": "bobs-red-mill",
+    "name": {
+      "en": "Bob's Red Mill",
+      "ar": "بوبس ريد ميل"
+    },
+    "original_value": "Bob'S Red Mill"
+  },
+  {
+    "id": "bonne-maman",
+    "name": {
+      "en": "Bonne Maman",
+      "ar": "بون مامان"
+    },
+    "original_value": "Bonne maman"
+  },
+  {
+    "id": "bonny",
+    "name": {
+      "en": "Bonny",
+      "ar": "بوني"
+    },
+    "original_value": "Bonny"
+  },
+  {
+    "id": "bonomi",
+    "name": {
+      "en": "Bonomi",
+      "ar": "بونومي"
+    },
+    "original_value": "Bonomi"
+  },
+  {
+    "id": "bonta-viva",
+    "name": {
+      "en": "Bonta Viva",
+      "ar": "بونتا فيفا"
+    },
+    "original_value": "Bonta viva"
+  },
+  {
+    "id": "boost",
+    "name": {
+      "en": "Boost",
+      "ar": "بوست"
+    },
+    "original_value": "Boost"
+  },
+  {
+    "id": "bordon",
+    "name": {
+      "en": "Bordon",
+      "ar": "بوردون"
+    },
+    "original_value": "Bordon"
+  },
+  {
+    "id": "borgat",
+    "name": {
+      "en": "Borgat",
+      "ar": "بورقات"
+    },
+    "original_value": "Borgat"
+  },
+  {
+    "id": "botan",
+    "name": {
+      "en": "Botan",
+      "ar": "بوطان"
+    },
+    "original_value": "Botan"
+  },
+  {
+    "id": "bounty",
+    "name": {
+      "en": "Bounty",
+      "ar": "باونتي"
+    },
+    "original_value": "Bounty"
+  },
+  {
+    "id": "bragg",
+    "name": {
+      "en": "Bragg",
+      "ar": "براج"
+    },
+    "original_value": "Bragg"
+  },
+  {
+    "id": "brain-blasterz",
+    "name": {
+      "en": "Brain Blasterz",
+      "ar": "برين بلاسترز"
+    },
+    "original_value": "Brain Blasterz"
+  },
+  {
+    "id": "brain-blasterz",
+    "name": {
+      "en": "Brain Blasterz",
+      "ar": "برين بلاسترز"
+    },
+    "original_value": "Brain blasterz"
+  },
+  {
+    "id": "britannia",
+    "name": {
+      "en": "Britannia",
+      "ar": "بريتانيا"
+    },
+    "original_value": "Britannia"
+  },
+  {
+    "id": "brodericks",
+    "name": {
+      "en": "Brodericks",
+      "ar": "برودريكس"
+    },
+    "original_value": "Brodericks"
+  },
+  {
+    "id": "brooke-bond",
+    "name": {
+      "en": "Brooke Bond",
+      "ar": "بروك بوند"
+    },
+    "original_value": "Brooke Bond"
+  },
+  {
+    "id": "brossard",
+    "name": {
+      "en": "Brossard",
+      "ar": "بروسارد"
+    },
+    "original_value": "Brossard"
+  },
+  {
+    "id": "buddy-biscuits",
+    "name": {
+      "en": "Buddy Biscuits",
+      "ar": "بودي بسكويت"
+    },
+    "original_value": "Buddy Biscuits"
+  },
+  {
+    "id": "budweiser",
+    "name": {
+      "en": "Budweiser",
+      "ar": "بدوايذر"
+    },
+    "original_value": "Budweiser"
+  },
+  {
+    "id": "bugles",
+    "name": {
+      "en": "Bugles",
+      "ar": "بيوقلز"
+    },
+    "original_value": "Bugles"
+  },
+  {
+    "id": "bukhoor",
+    "name": {
+      "en": "Bukhoor",
+      "ar": "بخور"
+    },
+    "original_value": "Bukhoor"
+  },
+  {
+    "id": "bundi",
+    "name": {
+      "en": "Bundi",
+      "ar": "بوندي"
+    },
+    "original_value": "Bundi"
+  },
+  {
+    "id": "butchers",
+    "name": {
+      "en": "Butcher's",
+      "ar": "بوتشرز"
+    },
+    "original_value": "Butcher'S"
+  },
+  {
+    "id": "cocobee",
+    "name": {
+      "en": "Cocobee",
+      "ar": "كوكوبي"
+    },
+    "original_value": "COCOBEE"
+  },
+  {
+    "id": "crc",
+    "name": {
+      "en": "CRC",
+      "ar": "سي أر سي"
+    },
+    "original_value": "CRC"
+  },
+  {
+    "id": "cadbury",
+    "name": {
+      "en": "Cadbury",
+      "ar": "كادبوري"
+    },
+    "original_value": "Cadbury"
+  },
+  {
+    "id": "cafe-najjar",
+    "name": {
+      "en": "Cafe Najjar",
+      "ar": "بن نجار"
+    },
+    "original_value": "Cafe najjar"
+  },
+  {
+    "id": "camel",
+    "name": {
+      "en": "Camel",
+      "ar": "الجمل"
+    },
+    "original_value": "Camel"
+  },
+  {
+    "id": "camille",
+    "name": {
+      "en": "Camille",
+      "ar": "كاميل"
+    },
+    "original_value": "Camille"
+  },
+  {
+    "id": "camlile",
+    "name": {
+      "en": "Camille",
+      "ar": "كاميل"
+    },
+    "original_value": "Camlile"
+  },
+  {
+    "id": "campbells",
+    "name": {
+      "en": "Campbell's",
+      "ar": "كامبلز"
+    },
+    "original_value": "Campbells"
+  },
+  {
+    "id": "campfire",
+    "name": {
+      "en": "Campfire",
+      "ar": "كامب فاير"
+    },
+    "original_value": "Campfire"
+  },
+  {
+    "id": "camping-family",
+    "name": {
+      "en": "Camping Family",
+      "ar": "كامبينج فاميلي"
+    },
+    "original_value": "Camping Family"
+  },
+  {
+    "id": "campmate",
+    "name": {
+      "en": "Campmate",
+      "ar": "كامب ميت"
+    },
+    "original_value": "Campmate"
+  },
+  {
+    "id": "canderel",
+    "name": {
+      "en": "Canderel",
+      "ar": "كاندريل"
+    },
+    "original_value": "Canderel"
+  },
+  {
+    "id": "cantina",
+    "name": {
+      "en": "Cantina",
+      "ar": "كانتينا"
+    },
+    "original_value": "Cantina"
+  },
+  {
+    "id": "canvit",
+    "name": {
+      "en": "Canvit",
+      "ar": "كانفيت"
+    },
+    "original_value": "Canvit"
+  },
+  {
+    "id": "captain",
+    "name": {
+      "en": "Captain",
+      "ar": "كابتن"
+    },
+    "original_value": "Captain"
+  },
+  {
+    "id": "carg7",
+    "name": {
+      "en": "Carg7",
+      "ar": "كارج 7"
+    },
+    "original_value": "Carg7"
+  },
+  {
+    "id": "carlton",
+    "name": {
+      "en": "Carlton",
+      "ar": "كارلتون"
+    },
+    "original_value": "Carlton"
+  },
+  {
+    "id": "carnilove",
+    "name": {
+      "en": "Carnilove",
+      "ar": "كارنيلوف"
+    },
+    "original_value": "Carnilove"
+  },
+  {
+    "id": "carrefour",
+    "name": {
+      "en": "Carrefour",
+      "ar": "كارفور"
+    },
+    "original_value": "Carrefour"
+  },
+  {
+    "id": "cars",
+    "name": {
+      "en": "Cars",
+      "ar": "كارز"
+    },
+    "original_value": "Cars"
+  },
+  {
+    "id": "cartier",
+    "name": {
+      "en": "Cartier",
+      "ar": "كارتييه"
+    },
+    "original_value": "Cartier"
+  },
+  {
+    "id": "castania",
+    "name": {
+      "en": "Castania",
+      "ar": "كاستانيا"
+    },
+    "original_value": "Castania"
+  },
+  {
+    "id": "cat-fest",
+    "name": {
+      "en": "Cat Fest",
+      "ar": "كات فيست"
+    },
+    "original_value": "Cat Fest"
+  },
+  {
+    "id": "catit",
+    "name": {
+      "en": "Catit",
+      "ar": "كاتيت"
+    },
+    "original_value": "Cat It"
+  },
+  {
+    "id": "cat-plus",
+    "name": {
+      "en": "Cat Plus",
+      "ar": "كات بلس"
+    },
+    "original_value": "Cat Plus"
+  },
+  {
+    "id": "cats-pride",
+    "name": {
+      "en": "Cat's Pride",
+      "ar": "كاتس برايد"
+    },
+    "original_value": "Cat's Pride"
+  },
+  {
+    "id": "cavendish-harvey",
+    "name": {
+      "en": "Cavendish & Harvey",
+      "ar": "كافنديش وهارفي"
+    },
+    "original_value": "Cavendish&harvey"
+  },
+  {
+    "id": "caviara",
+    "name": {
+      "en": "Caviara",
+      "ar": "كافيارا"
+    },
+    "original_value": "Caviara"
+  },
+  {
+    "id": "centurion",
+    "name": {
+      "en": "Centurion",
+      "ar": "سينتوريون"
+    },
+    "original_value": "Centurion"
+  },
+  {
+    "id": "cerelac",
+    "name": {
+      "en": "Cerelac",
+      "ar": "سيريلاك"
+    },
+    "original_value": "Cerelac"
+  },
+  {
+    "id": "changan",
+    "name": {
+      "en": "Changan",
+      "ar": "شانجان"
+    },
+    "original_value": "Changan"
+  },
+  {
+    "id": "cheerios",
+    "name": {
+      "en": "Cheerios",
+      "ar": "شيريوز"
+    },
+    "original_value": "Cheerios"
+  },
+  {
+    "id": "cheetos",
+    "name": {
+      "en": "Cheetos",
+      "ar": "شيتوس"
+    },
+    "original_value": "Cheetos"
+  },
+  {
+    "id": "cheez-it",
+    "name": {
+      "en": "Cheez-It",
+      "ar": "شيز إت"
+    },
+    "original_value": "Cheez-it"
+  },
+  {
+    "id": "chevrolet",
+    "name": {
+      "en": "Chevrolet",
+      "ar": "شيفروليه"
+    },
+    "original_value": "Chevrolet"
+  },
+  {
+    "id": "chewits",
+    "name": {
+      "en": "Chewits",
+      "ar": "تشيويتس"
+    },
+    "original_value": "Chewits"
+  },
+  {
+    "id": "chicco",
+    "name": {
+      "en": "Chicco",
+      "ar": "شيكو"
+    },
+    "original_value": "Chicco"
+  },
+  {
+    "id": "child-toy",
+    "name": {
+      "en": "Child Toy",
+      "ar": "ألعاب أطفال"
+    },
+    "original_value": "Child Toy"
+  },
+  {
+    "id": "child-toy",
+    "name": {
+      "en": "Child Toy",
+      "ar": "ألعاب أطفال"
+    },
+    "original_value": "ChildToy"
+  },
+  {
+    "id": "china",
+    "name": {
+      "en": "China",
+      "ar": "الصين"
+    },
+    "original_value": "China"
+  },
+  {
+    "id": "chocapic",
+    "name": {
+      "en": "Chocapic",
+      "ar": "شوكابيك"
+    },
+    "original_value": "Chocapic"
+  },
+  {
+    "id": "choco-mello",
+    "name": {
+      "en": "Choco Mello",
+      "ar": "شوكو ميلو"
+    },
+    "original_value": "Choco mello"
+  },
+  {
+    "id": "christis",
+    "name": {
+      "en": "Christis",
+      "ar": "كريستيس"
+    },
+    "original_value": "Christis"
+  },
+  {
+    "id": "chtoura-garden",
+    "name": {
+      "en": "Chtoura Garden",
+      "ar": "حدائق شتورة"
+    },
+    "original_value": "Chtoura garden"
+  },
+  {
+    "id": "chubs",
+    "name": {
+      "en": "Chubs",
+      "ar": "تشبس"
+    },
+    "original_value": "Chubs"
+  },
+  {
+    "id": "chung-jung",
+    "name": {
+      "en": "Chung Jung",
+      "ar": "تشونج جونج"
+    },
+    "original_value": "Chung Jung"
+  },
+  {
+    "id": "chupa-chups",
+    "name": {
+      "en": "Chupa Chups",
+      "ar": "تشوبا تشوبس"
+    },
+    "original_value": "Chupa Chups"
+  },
+  {
+    "id": "chupa-chups",
+    "name": {
+      "en": "Chupa Chups",
+      "ar": "تشوبا تشوبس"
+    },
+    "original_value": "Chupa chups"
+  },
+  {
+    "id": "clearspring",
+    "name": {
+      "en": "Clearspring",
+      "ar": "كلير سبرينج"
+    },
+    "original_value": "Clearspring"
+  },
+  {
+    "id": "clipper",
+    "name": {
+      "en": "Clipper",
+      "ar": "كليبر"
+    },
+    "original_value": "Clipper"
+  },
+  {
+    "id": "clown",
+    "name": {
+      "en": "Clown",
+      "ar": "مهرج"
+    },
+    "original_value": "Clown"
+  },
+  {
+    "id": "coca-cola",
+    "name": {
+      "en": "Coca Cola",
+      "ar": "كوكا كولا"
+    },
+    "original_value": "Coca cola"
+  },
+  {
+    "id": "cocoa-land",
+    "name": {
+      "en": "Cocoa Land",
+      "ar": "كوكوا لاند"
+    },
+    "original_value": "Cocoa land"
+  },
+  {
+    "id": "code-red",
+    "name": {
+      "en": "Code Red",
+      "ar": "كود ريد"
+    },
+    "original_value": "Code Red"
+  },
+  {
+    "id": "coffee-planet",
+    "name": {
+      "en": "Coffee Planet",
+      "ar": "كوفي بلانيت"
+    },
+    "original_value": "Coffee planet"
+  },
+  {
+    "id": "coffeemate",
+    "name": {
+      "en": "Coffee-Mate",
+      "ar": "كوفي ميت"
+    },
+    "original_value": "Coffeemate"
+  },
+  {
+    "id": "cofique",
+    "name": {
+      "en": "Cofique",
+      "ar": "كوفيك"
+    },
+    "original_value": "Cofique"
+  },
+  {
+    "id": "coghlans",
+    "name": {
+      "en": "Coghlans",
+      "ar": "كوجلانز"
+    },
+    "original_value": "Coghlans"
+  },
+  {
+    "id": "colmans",
+    "name": {
+      "en": "Colman's",
+      "ar": "كولمانز"
+    },
+    "original_value": "Colman's"
+  },
+  {
+    "id": "complan",
+    "name": {
+      "en": "Complan",
+      "ar": "كومبلان"
+    },
+    "original_value": "Complan"
+  },
+  {
+    "id": "coockoo",
+    "name": {
+      "en": "Coockoo",
+      "ar": "كوكو"
+    },
+    "original_value": "Coockoo"
+  },
+  {
+    "id": "cool-cool",
+    "name": {
+      "en": "Cool & Cool",
+      "ar": "كول آند كول"
+    },
+    "original_value": "Cool & Cool"
+  },
+  {
+    "id": "coopoliva",
+    "name": {
+      "en": "Coopoliva",
+      "ar": "كوبوليفا"
+    },
+    "original_value": "Coopoliva"
+  },
+  {
+    "id": "cosmoplast",
+    "name": {
+      "en": "Cosmoplast",
+      "ar": "كوزموبلاست"
+    },
+    "original_value": "Cosmoplast"
+  },
+  {
+    "id": "country",
+    "name": {
+      "en": "Country",
+      "ar": "كانتري"
+    },
+    "original_value": "Country"
+  },
+  {
+    "id": "crispy",
+    "name": {
+      "en": "Crispy",
+      "ar": "كريسبي"
+    },
+    "original_value": "Crispy"
+  },
+  {
+    "id": "crush",
+    "name": {
+      "en": "Crush",
+      "ar": "كراش"
+    },
+    "original_value": "Crush"
+  },
+  {
+    "id": "crystal",
+    "name": {
+      "en": "Crystal",
+      "ar": "كريستال"
+    },
+    "original_value": "Crystal"
+  },
+  {
+    "id": "cuetara",
+    "name": {
+      "en": "Cuetara",
+      "ar": "كويتارا"
+    },
+    "original_value": "Cuetara"
+  },
+  {
+    "id": "cup-a-soup",
+    "name": {
+      "en": "Cup-a-Soup",
+      "ar": "كب أ سوب"
+    },
+    "original_value": "Cup a soup"
+  },
+  {
+    "id": "cute",
+    "name": {
+      "en": "Cute",
+      "ar": "كيوت"
+    },
+    "original_value": "Cute"
+  },
+  {
+    "id": "desperados",
+    "name": {
+      "en": "Desperados",
+      "ar": "ديسبيرادوس"
+    },
+    "original_value": "DESPERADOS"
+  },
+  {
+    "id": "dlc",
+    "name": {
+      "en": "DLC",
+      "ar": "دي إل سي"
+    },
+    "original_value": "DLC"
+  },
+  {
+    "id": "doms",
+    "name": {
+      "en": "DOMS",
+      "ar": "دومز"
+    },
+    "original_value": "DOMS"
+  },
+  {
+    "id": "dr-marcus",
+    "name": {
+      "en": "Dr. Marcus",
+      "ar": "دكتور ماركوس"
+    },
+    "original_value": "DR.MARCUS"
+  },
+  {
+    "id": "damico",
+    "name": {
+      "en": "D'Amico",
+      "ar": "داميكو"
+    },
+    "original_value": "Damico"
+  },
+  {
+    "id": "danao",
+    "name": {
+      "en": "Danao",
+      "ar": "دناو"
+    },
+    "original_value": "Danao"
+  },
+  {
+    "id": "danette",
+    "name": {
+      "en": "Danette",
+      "ar": "دانيت"
+    },
+    "original_value": "Danette"
+  },
+  {
+    "id": "danya",
+    "name": {
+      "en": "Danya",
+      "ar": "دانية"
+    },
+    "original_value": "Danya"
+  },
+  {
+    "id": "darbo",
+    "name": {
+      "en": "Darbo",
+      "ar": "داربو"
+    },
+    "original_value": "Darbo"
+  },
+  {
+    "id": "dari",
+    "name": {
+      "en": "Dari",
+      "ar": "داري"
+    },
+    "original_value": "Dari"
+  },
+  {
+    "id": "datu-puti",
+    "name": {
+      "en": "Datu Puti",
+      "ar": "داتو بوتي"
+    },
+    "original_value": "Datu puti"
+  },
+  {
+    "id": "davidoff",
+    "name": {
+      "en": "Davidoff",
+      "ar": "دافيدوف"
+    },
+    "original_value": "Davidoff"
+  },
+  {
+    "id": "decdeal",
+    "name": {
+      "en": "Decdeal",
+      "ar": "ديكديل"
+    },
+    "original_value": "Decdeal"
+  },
+  {
+    "id": "deemah",
+    "name": {
+      "en": "Deemah",
+      "ar": "ديمة"
+    },
+    "original_value": "Deemah"
+  },
+  {
+    "id": "deli",
+    "name": {
+      "en": "Deli",
+      "ar": "ديلي"
+    },
+    "original_value": "Deli"
+  },
+  {
+    "id": "delices",
+    "name": {
+      "en": "Delices",
+      "ar": "ديليس"
+    },
+    "original_value": "Delices"
+  },
+  {
+    "id": "delicio",
+    "name": {
+      "en": "Delicio",
+      "ar": "ديليسيو"
+    },
+    "original_value": "Delicio"
+  },
+  {
+    "id": "deliciously",
+    "name": {
+      "en": "Deliciously",
+      "ar": "ديليشوسلي"
+    },
+    "original_value": "Deliciously"
+  },
+  {
+    "id": "delita",
+    "name": {
+      "en": "Delita",
+      "ar": "ديليتا"
+    },
+    "original_value": "Delita"
+  },
+  {
+    "id": "delita-dunes",
+    "name": {
+      "en": "Delita Dunes",
+      "ar": "ديليتا ديونز"
+    },
+    "original_value": "Delita Dunes"
+  },
+  {
+    "id": "delsey",
+    "name": {
+      "en": "Delsey",
+      "ar": "دلسي"
+    },
+    "original_value": "Delsey"
+  },
+  {
+    "id": "delta-dunes",
+    "name": {
+      "en": "Delta Dunes",
+      "ar": "دلتا ديونز"
+    },
+    "original_value": "Delta dunes"
+  },
+  {
+    "id": "dibaq",
+    "name": {
+      "en": "Dibaq",
+      "ar": "ديباك"
+    },
+    "original_value": "Dibaq Red Can"
+  },
+  {
+    "id": "dilmah",
+    "name": {
+      "en": "Dilmah",
+      "ar": "ديلما"
+    },
+    "original_value": "Dilmah"
+  },
+  {
+    "id": "disney",
+    "name": {
+      "en": "Disney",
+      "ar": "ديزني"
+    },
+    "original_value": "Disney"
+  },
+  {
+    "id": "dlc",
+    "name": {
+      "en": "DLC",
+      "ar": "دي إل سي"
+    },
+    "original_value": "Dlc"
+  },
+  {
+    "id": "dolce-gusto",
+    "name": {
+      "en": "Dolce Gusto",
+      "ar": "دولتشي قوستو"
+    },
+    "original_value": "Dolce gusto"
+  },
+  {
+    "id": "dole",
+    "name": {
+      "en": "Dole",
+      "ar": "دول"
+    },
+    "original_value": "Dole"
+  },
+  {
+    "id": "domty",
+    "name": {
+      "en": "Domty",
+      "ar": "دومتي"
+    },
+    "original_value": "Domty"
+  },
+  {
+    "id": "donelli",
+    "name": {
+      "en": "Donelli",
+      "ar": "دونيلي"
+    },
+    "original_value": "Donelli"
+  },
+  {
+    "id": "dongato",
+    "name": {
+      "en": "Don Gato",
+      "ar": "دون جاتو"
+    },
+    "original_value": "Dongato"
+  },
+  {
+    "id": "donia",
+    "name": {
+      "en": "Donia",
+      "ar": "دنيا"
+    },
+    "original_value": "Donia"
+  },
+  {
+    "id": "doritos",
+    "name": {
+      "en": "Doritos",
+      "ar": "دوريتوس"
+    },
+    "original_value": "Doritos"
+  },
+  {
+    "id": "dorset-cereals",
+    "name": {
+      "en": "Dorset Cereals",
+      "ar": "دورست سيريالز"
+    },
+    "original_value": "Dorset cereals"
+  },
+  {
+    "id": "double-a",
+    "name": {
+      "en": "Double A",
+      "ar": "دبل إيه"
+    },
+    "original_value": "Double A"
+  },
+  {
+    "id": "dr-oetker",
+    "name": {
+      "en": "Dr. Oetker",
+      "ar": "دكتور أوتكر"
+    },
+    "original_value": "Dr oetker"
+  },
+  {
+    "id": "dr-clauders",
+    "name": {
+      "en": "Dr. Clauder's",
+      "ar": "دكتور كلودرز"
+    },
+    "original_value": "Dr. Clauder'S"
+  },
+  {
+    "id": "dr-clauders",
+    "name": {
+      "en": "Dr. Clauder's",
+      "ar": "دكتور كلودرز"
+    },
+    "original_value": "Dr. Clauder's"
+  },
+  {
+    "id": "dr-elseys",
+    "name": {
+      "en": "Dr. Elsey's",
+      "ar": "دكتور إلسيز"
+    },
+    "original_value": "Dr. Elsey's"
+  },
+  {
+    "id": "dr-marcus",
+    "name": {
+      "en": "Dr. Marcus",
+      "ar": "دكتور ماركوس"
+    },
+    "original_value": "Dr. Marcus"
+  },
+  {
+    "id": "drcafe",
+    "name": {
+      "en": "Dr. Cafe",
+      "ar": "دكتور كيف"
+    },
+    "original_value": "Dr.Cafe"
+  },
+  {
+    "id": "dr-pepper",
+    "name": {
+      "en": "Dr Pepper",
+      "ar": "دكتور بيبر"
+    },
+    "original_value": "Dr.pepper"
+  },
+  {
+    "id": "dream-whip",
+    "name": {
+      "en": "Dream Whip",
+      "ar": "دريم ويب"
+    },
+    "original_value": "Dream whip"
+  },
+  {
+    "id": "duna",
+    "name": {
+      "en": "Duna",
+      "ar": "دونا"
+    },
+    "original_value": "Duna"
+  },
+  {
+    "id": "dunkin-donuts",
+    "name": {
+      "en": "Dunkin' Donuts",
+      "ar": "دانكن دونتس"
+    },
+    "original_value": "Dunkin donuts"
+  },
+  {
+    "id": "dura",
+    "name": {
+      "en": "Dura",
+      "ar": "دورا"
+    },
+    "original_value": "Dura"
+  },
+  {
+    "id": "evo",
+    "name": {
+      "en": "EVO",
+      "ar": "إيفو"
+    },
+    "original_value": "EVO"
+  },
+  {
+    "id": "evoc",
+    "name": {
+      "en": "EVOC",
+      "ar": "إيفوك"
+    },
+    "original_value": "EVOC"
+  },
+  {
+    "id": "ezi",
+    "name": {
+      "en": "EZI",
+      "ar": "إيزي"
+    },
+    "original_value": "EZI"
+  },
+  {
+    "id": "eagle",
+    "name": {
+      "en": "Eagle",
+      "ar": "إيجل"
+    },
+    "original_value": "Eagle"
+  },
+  {
+    "id": "earthbath",
+    "name": {
+      "en": "Earthbath",
+      "ar": "إيرث باث"
+    },
+    "original_value": "Earthbath"
+  },
+  {
+    "id": "eastern",
+    "name": {
+      "en": "Eastern",
+      "ar": "إيسترن"
+    },
+    "original_value": "Eastern"
+  },
+  {
+    "id": "easy-kids",
+    "name": {
+      "en": "Easy Kids",
+      "ar": "إيزي كيدز"
+    },
+    "original_value": "Easy KIds"
+  },
+  {
+    "id": "eazy-kids",
+    "name": {
+      "en": "Eazy Kids",
+      "ar": "إيزي كيدز"
+    },
+    "original_value": "Eazy Kids"
+  },
+  {
+    "id": "ecuador",
+    "name": {
+      "en": "Ecuador",
+      "ar": "الإكوادور"
+    },
+    "original_value": "Ecuador"
+  },
+  {
+    "id": "eezy",
+    "name": {
+      "en": "Eezy",
+      "ar": "إيزي"
+    },
+    "original_value": "Eezy"
+  },
+  {
+    "id": "el-basha",
+    "name": {
+      "en": "El Basha",
+      "ar": "الباشا"
+    },
+    "original_value": "El basha"
+  },
+  {
+    "id": "emperor",
+    "name": {
+      "en": "Emperor",
+      "ar": "إمبيرور"
+    },
+    "original_value": "Emperor"
+  },
+  {
+    "id": "energen",
+    "name": {
+      "en": "Energen",
+      "ar": "إنرجن"
+    },
+    "original_value": "Energen"
+  },
+  {
+    "id": "entaj",
+    "name": {
+      "en": "Entaj",
+      "ar": "إنتاج"
+    },
+    "original_value": "Entaj"
+  },
+  {
+    "id": "epsilon",
+    "name": {
+      "en": "Epsilon",
+      "ar": "إبسيلون"
+    },
+    "original_value": "Epsilon"
+  },
+  {
+    "id": "erika",
+    "name": {
+      "en": "Erika",
+      "ar": "إريكا"
+    },
+    "original_value": "Erika"
+  },
+  {
+    "id": "esnad",
+    "name": {
+      "en": "Esnad",
+      "ar": "إسناد"
+    },
+    "original_value": "Esnad"
+  },
+  {
+    "id": "esnad",
+    "name": {
+      "en": "Esnad",
+      "ar": "إسناد"
+    },
+    "original_value": "Esnad Chicken Stock Cubes 20g"
+  },
+  {
+    "id": "esnad",
+    "name": {
+      "en": "Esnad",
+      "ar": "إسناد"
+    },
+    "original_value": "Esnad Chicken Stock With 7 Spices 20g X24"
+  },
+  {
+    "id": "estrella",
+    "name": {
+      "en": "Estrella",
+      "ar": "إستريلا"
+    },
+    "original_value": "Estrella"
+  },
+  {
+    "id": "eti",
+    "name": {
+      "en": "Eti",
+      "ar": "إيتي"
+    },
+    "original_value": "Eti"
+  },
+  {
+    "id": "european-garden",
+    "name": {
+      "en": "European Garden",
+      "ar": "يوروبيان جاردن"
+    },
+    "original_value": "European Garden"
+  },
+  {
+    "id": "evervess",
+    "name": {
+      "en": "Evervess",
+      "ar": "إيفرفيس"
+    },
+    "original_value": "Evervess"
+  },
+  {
+    "id": "evian",
+    "name": {
+      "en": "Evian",
+      "ar": "إيفيان"
+    },
+    "original_value": "Evian"
+  },
+  {
+    "id": "excellence",
+    "name": {
+      "en": "Excellence",
+      "ar": "إكسيلانس"
+    },
+    "original_value": "Excellence"
+  },
+  {
+    "id": "excellence",
+    "name": {
+      "en": "Excellence",
+      "ar": "إكسيلانس"
+    },
+    "original_value": "Excellence sauce"
+  },
+  {
+    "id": "exo-terra",
+    "name": {
+      "en": "Exo Terra",
+      "ar": "إكسو تيرا"
+    },
+    "original_value": "Exo Terra"
+  },
+  {
+    "id": "exotic-food",
+    "name": {
+      "en": "Exotic Food",
+      "ar": "إكزوتيك فود"
+    },
+    "original_value": "Exotic food"
+  },
+  {
+    "id": "extra",
+    "name": {
+      "en": "Extra",
+      "ar": "اكسترا"
+    },
+    "original_value": "Extra"
+  },
+  {
+    "id": "ezra",
+    "name": {
+      "en": "Ezra",
+      "ar": "إزرا"
+    },
+    "original_value": "Ezra"
+  },
+  {
+    "id": "faj",
+    "name": {
+      "en": "FAJ",
+      "ar": "فاج"
+    },
+    "original_value": "FAJ"
+  },
+  {
+    "id": "fantasti",
+    "name": {
+      "en": "Fantasti",
+      "ar": "فانتاستي"
+    },
+    "original_value": "FANTASTI"
+  },
+  {
+    "id": "feraah",
+    "name": {
+      "en": "Feraah",
+      "ar": "فرح"
+    },
+    "original_value": "FERAAH"
+  },
+  {
+    "id": "fifa",
+    "name": {
+      "en": "FIFA",
+      "ar": "فيفا"
+    },
+    "original_value": "FIFA"
+  },
+  {
+    "id": "fabianelli",
+    "name": {
+      "en": "Fabianelli",
+      "ar": "فابيانيلي"
+    },
+    "original_value": "Fabianelli"
+  },
+  {
+    "id": "fairco",
+    "name": {
+      "en": "Fairco",
+      "ar": "فيركو"
+    },
+    "original_value": "Fairco"
+  },
+  {
+    "id": "faj",
+    "name": {
+      "en": "FAJ",
+      "ar": "فاج"
+    },
+    "original_value": "Faj"
+  },
+  {
+    "id": "falcon",
+    "name": {
+      "en": "Falcon",
+      "ar": "فالكون"
+    },
+    "original_value": "Falcon"
+  },
+  {
+    "id": "fancy-feast",
+    "name": {
+      "en": "Fancy Feast",
+      "ar": "فانسي فيست"
+    },
+    "original_value": "Fancy Feast"
+  },
+  {
+    "id": "fancy-feast",
+    "name": {
+      "en": "Fancy Feast",
+      "ar": "فانسي فيست"
+    },
+    "original_value": "Fancy feast"
+  },
+  {
+    "id": "fanta",
+    "name": {
+      "en": "Fanta",
+      "ar": "فانتا"
+    },
+    "original_value": "Fanta"
+  },
+  {
+    "id": "fantazee",
+    "name": {
+      "en": "Fantazee",
+      "ar": "فانتازي"
+    },
+    "original_value": "Fantazee"
+  },
+  {
+    "id": "farfasha",
+    "name": {
+      "en": "Farfasha",
+      "ar": "فرفشة"
+    },
+    "original_value": "Farfasha"
+  },
+  {
+    "id": "farm",
+    "name": {
+      "en": "Farm",
+      "ar": "فارم"
+    },
+    "original_value": "Farm"
+  },
+  {
+    "id": "farmina",
+    "name": {
+      "en": "Farmina",
+      "ar": "فارمينا"
+    },
+    "original_value": "Farmina"
+  },
+  {
+    "id": "fattoria",
+    "name": {
+      "en": "Fattoria",
+      "ar": "فاتوريا"
+    },
+    "original_value": "Fattoria"
+  },
+  {
+    "id": "feema",
+    "name": {
+      "en": "Feema",
+      "ar": "فيما"
+    },
+    "original_value": "Feema"
+  },
+  {
+    "id": "felix",
+    "name": {
+      "en": "Felix",
+      "ar": "فيليكس"
+    },
+    "original_value": "Felix"
+  },
+  {
+    "id": "felix",
+    "name": {
+      "en": "Felix",
+      "ar": "فيليكس"
+    },
+    "original_value": "Felix Freshy"
+  },
+  {
+    "id": "felyn-go",
+    "name": {
+      "en": "Felyn Go",
+      "ar": "فيلين جو"
+    },
+    "original_value": "Felyn Go"
+  },
+  {
+    "id": "ferrero",
+    "name": {
+      "en": "Ferrero",
+      "ar": "فيريرو"
+    },
+    "original_value": "Ferrero"
+  },
+  {
+    "id": "fever",
+    "name": {
+      "en": "Fever",
+      "ar": "فيفر"
+    },
+    "original_value": "Fever"
+  },
+  {
+    "id": "fibrecycle",
+    "name": {
+      "en": "Fibrecycle",
+      "ar": "فايبر سايكل"
+    },
+    "original_value": "Fibrecycle"
+  },
+  {
+    "id": "field-day",
+    "name": {
+      "en": "Field Day",
+      "ar": "فيلد داي"
+    },
+    "original_value": "Field Day"
+  },
+  {
+    "id": "fiesta-pinoy",
+    "name": {
+      "en": "Fiesta Pinoy",
+      "ar": "فييستا بينوي"
+    },
+    "original_value": "Fiesta pinoy"
+  },
+  {
+    "id": "fiji",
+    "name": {
+      "en": "Fiji",
+      "ar": "فيجي"
+    },
+    "original_value": "Fiji"
+  },
+  {
+    "id": "finah",
+    "name": {
+      "en": "Finah",
+      "ar": "فينا"
+    },
+    "original_value": "Finah"
+  },
+  {
+    "id": "fine",
+    "name": {
+      "en": "Fine",
+      "ar": "فاين"
+    },
+    "original_value": "Fine"
+  },
+  {
+    "id": "fine-baby",
+    "name": {
+      "en": "Fine Baby",
+      "ar": "فاين بيبي"
+    },
+    "original_value": "Fine Baby"
+  },
+  {
+    "id": "fita",
+    "name": {
+      "en": "Fita",
+      "ar": "فيتا"
+    },
+    "original_value": "Fita"
+  },
+  {
+    "id": "fitch-leedes",
+    "name": {
+      "en": "Fitch & Leedes",
+      "ar": "فيتش أند ليدز"
+    },
+    "original_value": "Fitch&Leedes"
+  },
+  {
+    "id": "flamingo",
+    "name": {
+      "en": "Flamingo",
+      "ar": "فلامينغو"
+    },
+    "original_value": "Flamingo"
+  },
+  {
+    "id": "flexoffice",
+    "name": {
+      "en": "FlexOffice",
+      "ar": "فليكس أوفيس"
+    },
+    "original_value": "FlexOffice"
+  },
+  {
+    "id": "flexi",
+    "name": {
+      "en": "Flexi",
+      "ar": "فليكسي"
+    },
+    "original_value": "Flexi"
+  },
+  {
+    "id": "floridas-natural",
+    "name": {
+      "en": "Florida's Natural",
+      "ar": "فلوريداز ناتشورال"
+    },
+    "original_value": "Florida'S Natural"
+  },
+  {
+    "id": "floridas-natural",
+    "name": {
+      "en": "Florida's Natural",
+      "ar": "فلوريداز ناتشورال"
+    },
+    "original_value": "Florida's natural"
+  },
+  {
+    "id": "flory",
+    "name": {
+      "en": "Flory",
+      "ar": "فلوري"
+    },
+    "original_value": "Flory"
+  },
+  {
+    "id": "flutes",
+    "name": {
+      "en": "Flutes",
+      "ar": "فلوتس"
+    },
+    "original_value": "Flutes"
+  },
+  {
+    "id": "foldermate",
+    "name": {
+      "en": "Foldermate",
+      "ar": "فولدر ميت"
+    },
+    "original_value": "Foldermate"
+  },
+  {
+    "id": "fonte",
+    "name": {
+      "en": "Fonte",
+      "ar": "فونتي"
+    },
+    "original_value": "Fonte"
+  },
+  {
+    "id": "fooey",
+    "name": {
+      "en": "Fooey",
+      "ar": "فوي"
+    },
+    "original_value": "Fooey"
+  },
+  {
+    "id": "foom",
+    "name": {
+      "en": "Foom",
+      "ar": "فوم"
+    },
+    "original_value": "Foom"
+  },
+  {
+    "id": "ford",
+    "name": {
+      "en": "Ford",
+      "ar": "فورد"
+    },
+    "original_value": "Ford"
+  },
+  {
+    "id": "forsana",
+    "name": {
+      "en": "Forsana",
+      "ar": "فرسانا"
+    },
+    "original_value": "Forsana"
+  },
+  {
+    "id": "foster-clarks",
+    "name": {
+      "en": "Foster Clark's",
+      "ar": "فوستر كلاركس"
+    },
+    "original_value": "Foster clarks"
+  },
+  {
+    "id": "franks",
+    "name": {
+      "en": "Frank's",
+      "ar": "فرانكس"
+    },
+    "original_value": "Frank's"
+  },
+  {
+    "id": "freixenet",
+    "name": {
+      "en": "Freixenet",
+      "ar": "فريكشينت"
+    },
+    "original_value": "Freixenet"
+  },
+  {
+    "id": "frenchs",
+    "name": {
+      "en": "French's",
+      "ar": "فرينشز"
+    },
+    "original_value": "French's"
+  },
+  {
+    "id": "fresh",
+    "name": {
+      "en": "Fresh",
+      "ar": "فريش"
+    },
+    "original_value": "Fresh"
+  },
+  {
+    "id": "fresh-kitty",
+    "name": {
+      "en": "Fresh Kitty",
+      "ar": "فريش كيتي"
+    },
+    "original_value": "Fresh Kitty"
+  },
+  {
+    "id": "freshco",
+    "name": {
+      "en": "Freshco",
+      "ar": "فريشكو"
+    },
+    "original_value": "Freshco"
+  },
+  {
+    "id": "freshly",
+    "name": {
+      "en": "Freshly",
+      "ar": "فرشلي"
+    },
+    "original_value": "Freshly"
+  },
+  {
+    "id": "frico",
+    "name": {
+      "en": "Frico",
+      "ar": "فريكو"
+    },
+    "original_value": "Frico"
+  },
+  {
+    "id": "frida",
+    "name": {
+      "en": "Frida",
+      "ar": "فريدا"
+    },
+    "original_value": "Frida"
+  },
+  {
+    "id": "friskies",
+    "name": {
+      "en": "Friskies",
+      "ar": "فريسكيس"
+    },
+    "original_value": "Friskies"
+  },
+  {
+    "id": "fritolay",
+    "name": {
+      "en": "Frito-Lay",
+      "ar": "فريتو لاي"
+    },
+    "original_value": "Fritolay"
+  },
+  {
+    "id": "fritos",
+    "name": {
+      "en": "Fritos",
+      "ar": "فريتوس"
+    },
+    "original_value": "Fritos"
+  },
+  {
+    "id": "frozen",
+    "name": {
+      "en": "Frozen",
+      "ar": "فروزن"
+    },
+    "original_value": "Frozen"
+  },
+  {
+    "id": "fruits-basket",
+    "name": {
+      "en": "Fruits Basket",
+      "ar": "سلة الفواكه"
+    },
+    "original_value": "Fruits Basket"
+  },
+  {
+    "id": "fruto",
+    "name": {
+      "en": "Fruto",
+      "ar": "فروتو"
+    },
+    "original_value": "Fruto"
+  },
+  {
+    "id": "fuchsia",
+    "name": {
+      "en": "Fuchsia",
+      "ar": "فوشية"
+    },
+    "original_value": "Fuchsia"
+  },
+  {
+    "id": "futzuki",
+    "name": {
+      "en": "Futzuki",
+      "ar": "فوتزوكي"
+    },
+    "original_value": "Futzuki"
+  },
+  {
+    "id": "garfield",
+    "name": {
+      "en": "Garfield",
+      "ar": "جارفيلد"
+    },
+    "original_value": "GARFIELD"
+  },
+  {
+    "id": "generic",
+    "name": {
+      "en": "Generic",
+      "ar": "عام"
+    },
+    "original_value": "GENERIC"
+  },
+  {
+    "id": "getsun",
+    "name": {
+      "en": "Getsun",
+      "ar": "جيتسون"
+    },
+    "original_value": "GETSUN"
+  },
+  {
+    "id": "gmc",
+    "name": {
+      "en": "GMC",
+      "ar": "جي إم سي"
+    },
+    "original_value": "GMC"
+  },
+  {
+    "id": "golden",
+    "name": {
+      "en": "Golden",
+      "ar": "جولدن"
+    },
+    "original_value": "GOLDEN"
+  },
+  {
+    "id": "gunk",
+    "name": {
+      "en": "Gunk",
+      "ar": "جانك"
+    },
+    "original_value": "GUNK"
+  },
+  {
+    "id": "getsun",
+    "name": {
+      "en": "Getsun",
+      "ar": "جيتسون"
+    },
+    "original_value": "GUTSUN"
+  },
+  {
+    "id": "galaxy",
+    "name": {
+      "en": "Galaxy",
+      "ar": "جالكسي"
+    },
+    "original_value": "Galaxy"
+  },
+  {
+    "id": "galbusera",
+    "name": {
+      "en": "Galbusera",
+      "ar": "جالبوسيرا"
+    },
+    "original_value": "Galbusera"
+  },
+  {
+    "id": "gandour",
+    "name": {
+      "en": "Gandour",
+      "ar": "غندور"
+    },
+    "original_value": "Gandour"
+  },
+  {
+    "id": "garameesh",
+    "name": {
+      "en": "Garameesh",
+      "ar": "قراميش"
+    },
+    "original_value": "Garameesh"
+  },
+  {
+    "id": "garconne",
+    "name": {
+      "en": "Garconne",
+      "ar": "غاركون"
+    },
+    "original_value": "Garconne"
+  },
+  {
+    "id": "garfield",
+    "name": {
+      "en": "Garfield",
+      "ar": "جارفيلد"
+    },
+    "original_value": "Garfield"
+  },
+  {
+    "id": "garofalo",
+    "name": {
+      "en": "Garofalo",
+      "ar": "جاروفالو"
+    },
+    "original_value": "Garofalo"
+  },
+  {
+    "id": "gatorade",
+    "name": {
+      "en": "Gatorade",
+      "ar": "جاتوريد"
+    },
+    "original_value": "Gatorade"
+  },
+  {
+    "id": "geely",
+    "name": {
+      "en": "Geely",
+      "ar": "جيلي"
+    },
+    "original_value": "Geely"
+  },
+  {
+    "id": "geepas",
+    "name": {
+      "en": "Geepas",
+      "ar": "جيباس"
+    },
+    "original_value": "Geepas"
+  },
+  {
+    "id": "gemon",
+    "name": {
+      "en": "Gemon",
+      "ar": "جيمون"
+    },
+    "original_value": "Gemon"
+  },
+  {
+    "id": "general-mills",
+    "name": {
+      "en": "General Mills",
+      "ar": "جنرال ميلز"
+    },
+    "original_value": "General mills"
+  },
+  {
+    "id": "generic",
+    "name": {
+      "en": "Generic",
+      "ar": "عام"
+    },
+    "original_value": "Generic"
+  },
+  {
+    "id": "genesis",
+    "name": {
+      "en": "Genesis",
+      "ar": "جينيسيس"
+    },
+    "original_value": "Genesis"
+  },
+  {
+    "id": "georgias",
+    "name": {
+      "en": "Georgia's",
+      "ar": "جورجياز"
+    },
+    "original_value": "Georgia's"
+  },
+  {
+    "id": "getsun",
+    "name": {
+      "en": "Getsun",
+      "ar": "جيتسون"
+    },
+    "original_value": "Getsun"
+  },
+  {
+    "id": "gimcat",
+    "name": {
+      "en": "GimCat",
+      "ar": "جيم كات"
+    },
+    "original_value": "GimCat"
+  },
+  {
+    "id": "gimdog",
+    "name": {
+      "en": "GimDog",
+      "ar": "جيم دوج"
+    },
+    "original_value": "GimDog"
+  },
+  {
+    "id": "gimcat",
+    "name": {
+      "en": "GimCat",
+      "ar": "جيم كات"
+    },
+    "original_value": "Gimcat"
+  },
+  {
+    "id": "gingerbon",
+    "name": {
+      "en": "Gingerbon",
+      "ar": "جينجربون"
+    },
+    "original_value": "Gingerbon"
+  },
+  {
+    "id": "giordano",
+    "name": {
+      "en": "Giordano",
+      "ar": "جيوردانو"
+    },
+    "original_value": "Giordano"
+  },
+  {
+    "id": "gloria",
+    "name": {
+      "en": "Gloria",
+      "ar": "جلوريا"
+    },
+    "original_value": "Gloria"
+  },
+  {
+    "id": "glucovita",
+    "name": {
+      "en": "Glucovita",
+      "ar": "جلوكوفيتا"
+    },
+    "original_value": "Glucovita"
+  },
+  {
+    "id": "goldkids",
+    "name": {
+      "en": "GoldKids",
+      "ar": "جولد كيدز"
+    },
+    "original_value": "GoldKids"
+  },
+  {
+    "id": "golden-chicken",
+    "name": {
+      "en": "Golden Chicken",
+      "ar": "الدجاج الذهبي"
+    },
+    "original_value": "Golden chicken"
+  },
+  {
+    "id": "goldfish",
+    "name": {
+      "en": "Goldfish",
+      "ar": "جولد فيش"
+    },
+    "original_value": "Goldfish"
+  },
+  {
+    "id": "goody",
+    "name": {
+      "en": "Goody",
+      "ar": "قودي"
+    },
+    "original_value": "Goody"
+  },
+  {
+    "id": "gourmet",
+    "name": {
+      "en": "Gourmet",
+      "ar": "جورميه"
+    },
+    "original_value": "Gourmet"
+  },
+  {
+    "id": "graci",
+    "name": {
+      "en": "Graci",
+      "ar": "جراسي"
+    },
+    "original_value": "Graci"
+  },
+  {
+    "id": "grandluxe",
+    "name": {
+      "en": "Grandluxe",
+      "ar": "جراند لوكس"
+    },
+    "original_value": "Grandluxe"
+  },
+  {
+    "id": "granja-san-francisco",
+    "name": {
+      "en": "Granja San Francisco",
+      "ar": "جرانجا سان فرانسيسكو"
+    },
+    "original_value": "Granja San Francisco"
+  },
+  {
+    "id": "granja-san-francisco",
+    "name": {
+      "en": "Granja San Francisco",
+      "ar": "جرانجا سان فرانسيسكو"
+    },
+    "original_value": "Granja san francisco"
+  },
+  {
+    "id": "granoro",
+    "name": {
+      "en": "Granoro",
+      "ar": "جرانورو"
+    },
+    "original_value": "Granoro"
+  },
+  {
+    "id": "grants",
+    "name": {
+      "en": "Grant's",
+      "ar": "جرانتس"
+    },
+    "original_value": "Grant'S"
+  },
+  {
+    "id": "grante",
+    "name": {
+      "en": "Grante",
+      "ar": "جرانتي"
+    },
+    "original_value": "Grante"
+  },
+  {
+    "id": "green-cola",
+    "name": {
+      "en": "Green Cola",
+      "ar": "جرين كولا"
+    },
+    "original_value": "Green cola"
+  },
+  {
+    "id": "green-farms",
+    "name": {
+      "en": "Green Farms",
+      "ar": "مزارع خضراء"
+    },
+    "original_value": "Green farms"
+  },
+  {
+    "id": "green-giant",
+    "name": {
+      "en": "Green Giant",
+      "ar": "العملاق الأخضر"
+    },
+    "original_value": "Green giant"
+  },
+  {
+    "id": "greens",
+    "name": {
+      "en": "Green's",
+      "ar": "جرينز"
+    },
+    "original_value": "Green's"
+  },
+  {
+    "id": "grey",
+    "name": {
+      "en": "Grey",
+      "ar": "جراي"
+    },
+    "original_value": "Grey"
+  },
+  {
+    "id": "gullon",
+    "name": {
+      "en": "Gullon",
+      "ar": "جولون"
+    },
+    "original_value": "Gullon"
+  },
+  {
+    "id": "hex",
+    "name": {
+      "en": "HEX",
+      "ar": "هيكس"
+    },
+    "original_value": "HEX"
+  },
+  {
+    "id": "honda",
+    "name": {
+      "en": "Honda",
+      "ar": "هوندا"
+    },
+    "original_value": "HONDA"
+  },
+  {
+    "id": "hydrobrew",
+    "name": {
+      "en": "Hydrobrew",
+      "ar": "هيدروبرو"
+    },
+    "original_value": "HYDROBREW"
+  },
+  {
+    "id": "hai-tai",
+    "name": {
+      "en": "Hai Tai",
+      "ar": "هاي تاي"
+    },
+    "original_value": "Hai tai"
+  },
+  {
+    "id": "halah",
+    "name": {
+      "en": "Halah",
+      "ar": "هالة"
+    },
+    "original_value": "Halah"
+  },
+  {
+    "id": "haldirams",
+    "name": {
+      "en": "Haldiram's",
+      "ar": "هالديرامز"
+    },
+    "original_value": "Haldiram's"
+  },
+  {
+    "id": "halley",
+    "name": {
+      "en": "Halley",
+      "ar": "هالي"
+    },
+    "original_value": "Halley"
+  },
+  {
+    "id": "halls",
+    "name": {
+      "en": "Halls",
+      "ar": "هولز"
+    },
+    "original_value": "Halls"
+  },
+  {
+    "id": "halwani-tahhan",
+    "name": {
+      "en": "Halwani & Tahhan",
+      "ar": "حلواني وطحان"
+    },
+    "original_value": "Halwani & Tahhan"
+  },
+  {
+    "id": "halwani-tahhan",
+    "name": {
+      "en": "Halwani & Tahhan",
+      "ar": "حلواني وطحان"
+    },
+    "original_value": "Halwani & tahhan"
+  },
+  {
+    "id": "halwani-bros",
+    "name": {
+      "en": "Halwani Bros",
+      "ar": "حلواني إخوان"
+    },
+    "original_value": "Halwani Bros"
+  },
+  {
+    "id": "halwani-bros",
+    "name": {
+      "en": "Halwani Bros",
+      "ar": "حلواني إخوان"
+    },
+    "original_value": "Halwani bros"
+  },
+  {
+    "id": "hamlet",
+    "name": {
+      "en": "Hamlet",
+      "ar": "هاملت"
+    },
+    "original_value": "Hamlet"
+  },
+  {
+    "id": "hanaa",
+    "name": {
+      "en": "Hanaa",
+      "ar": "هناء"
+    },
+    "original_value": "Hanaa"
+  },
+  {
+    "id": "hanaa",
+    "name": {
+      "en": "Hanaa",
+      "ar": "هناء"
+    },
+    "original_value": "Hanaa Oat Granola Nutty Delight 50g"
+  },
+  {
+    "id": "hanaa",
+    "name": {
+      "en": "Hanaa",
+      "ar": "هناء"
+    },
+    "original_value": "Hanaa Oats Granola Fruit Mix 400g"
+  },
+  {
+    "id": "hanaa",
+    "name": {
+      "en": "Hanaa",
+      "ar": "هناء"
+    },
+    "original_value": "Hanaa Oats Granola Tutti Fruity 50g"
+  },
+  {
+    "id": "haribo",
+    "name": {
+      "en": "Haribo",
+      "ar": "هاريبو"
+    },
+    "original_value": "Haribo"
+  },
+  {
+    "id": "harmonica",
+    "name": {
+      "en": "Harmonica",
+      "ar": "هارمونيكا"
+    },
+    "original_value": "Harmonica"
+  },
+  {
+    "id": "hawaii",
+    "name": {
+      "en": "Hawaii",
+      "ar": "هاواي"
+    },
+    "original_value": "Hawaii"
+  },
+  {
+    "id": "hayat",
+    "name": {
+      "en": "Hayat",
+      "ar": "حياة"
+    },
+    "original_value": "Hayat"
+  },
+  {
+    "id": "hazer-baba",
+    "name": {
+      "en": "Hazer Baba",
+      "ar": "هزر بابا"
+    },
+    "original_value": "Hazer baba"
+  },
+  {
+    "id": "healthy-boy",
+    "name": {
+      "en": "Healthy Boy",
+      "ar": "هيلثي بوي"
+    },
+    "original_value": "Healthy boy"
+  },
+  {
+    "id": "heineken",
+    "name": {
+      "en": "Heineken",
+      "ar": "هاينكن"
+    },
+    "original_value": "Heineken"
+  },
+  {
+    "id": "heinz",
+    "name": {
+      "en": "Heinz",
+      "ar": "هاينز"
+    },
+    "original_value": "Heinz"
+  },
+  {
+    "id": "hellmanns",
+    "name": {
+      "en": "Hellmann's",
+      "ar": "هيلمانز"
+    },
+    "original_value": "Hellmann's"
+  },
+  {
+    "id": "hello",
+    "name": {
+      "en": "Hello",
+      "ar": "هلو"
+    },
+    "original_value": "Hello"
+  },
+  {
+    "id": "hello-kitty",
+    "name": {
+      "en": "Hello Kitty",
+      "ar": "هالو كيتي"
+    },
+    "original_value": "Hello Kitty"
+  },
+  {
+    "id": "hello-kitty",
+    "name": {
+      "en": "Hello Kitty",
+      "ar": "هالو كيتي"
+    },
+    "original_value": "Hello kitty"
+  },
+  {
+    "id": "herfy",
+    "name": {
+      "en": "Herfy",
+      "ar": "هرفي"
+    },
+    "original_value": "Herfy"
+  },
+  {
+    "id": "hero",
+    "name": {
+      "en": "Hero",
+      "ar": "هيرو"
+    },
+    "original_value": "Hero"
+  },
+  {
+    "id": "hersheys",
+    "name": {
+      "en": "Hershey's",
+      "ar": "هرشيز"
+    },
+    "original_value": "Hershey's"
+  },
+  {
+    "id": "heys",
+    "name": {
+      "en": "Heys",
+      "ar": "هيز"
+    },
+    "original_value": "Heys"
+  },
+  {
+    "id": "hi-homey",
+    "name": {
+      "en": "Hi Homey",
+      "ar": "هاي هومي"
+    },
+    "original_value": "Hi Homey"
+  },
+  {
+    "id": "hiba",
+    "name": {
+      "en": "Hiba",
+      "ar": "هبة"
+    },
+    "original_value": "Hiba"
+  },
+  {
+    "id": "higher-living",
+    "name": {
+      "en": "Higher Living",
+      "ar": "هاير ليفينج"
+    },
+    "original_value": "Higher Living"
+  },
+  {
+    "id": "hills",
+    "name": {
+      "en": "Hill's",
+      "ar": "هيلز"
+    },
+    "original_value": "Hill'S"
+  },
+  {
+    "id": "himalaya",
+    "name": {
+      "en": "Himalaya",
+      "ar": "هيمالايا"
+    },
+    "original_value": "Himalaya"
+  },
+  {
+    "id": "hintz",
+    "name": {
+      "en": "Hintz",
+      "ar": "هينتز"
+    },
+    "original_value": "Hintz"
+  },
+  {
+    "id": "hoco",
+    "name": {
+      "en": "Hoco",
+      "ar": "هوكو"
+    },
+    "original_value": "Hoco"
+  },
+  {
+    "id": "holsten",
+    "name": {
+      "en": "Holsten",
+      "ar": "هولستن"
+    },
+    "original_value": "Holsten"
+  },
+  {
+    "id": "horayra",
+    "name": {
+      "en": "Horayra",
+      "ar": "هريرة"
+    },
+    "original_value": "Horayra"
+  },
+  {
+    "id": "hp",
+    "name": {
+      "en": "HP",
+      "ar": "إتش بي"
+    },
+    "original_value": "Hp"
+  },
+  {
+    "id": "hubba-bubba",
+    "name": {
+      "en": "Hubba Bubba",
+      "ar": "هوبا بوبا"
+    },
+    "original_value": "Hubba bubba"
+  },
+  {
+    "id": "huggies",
+    "name": {
+      "en": "Huggies",
+      "ar": "هجيز"
+    },
+    "original_value": "Huggies"
+  },
+  {
+    "id": "huggles",
+    "name": {
+      "en": "Huggles",
+      "ar": "هجلز"
+    },
+    "original_value": "Huggles"
+  },
+  {
+    "id": "hunters",
+    "name": {
+      "en": "Hunter's",
+      "ar": "هنترز"
+    },
+    "original_value": "Hunter'S"
+  },
+  {
+    "id": "hunters",
+    "name": {
+      "en": "Hunter's",
+      "ar": "هنترز"
+    },
+    "original_value": "Hunter's"
+  },
+  {
+    "id": "hybrid-solutions",
+    "name": {
+      "en": "Hybrid Solutions",
+      "ar": "هايبرد سوليوشنز"
+    },
+    "original_value": "Hybrid Solutions"
+  },
+  {
+    "id": "ideal",
+    "name": {
+      "en": "Ideal",
+      "ar": "أيديل"
+    },
+    "original_value": "Ideal"
+  },
+  {
+    "id": "igloo",
+    "name": {
+      "en": "Igloo",
+      "ar": "إيجلو"
+    },
+    "original_value": "Igloo"
+  },
+  {
+    "id": "indofood",
+    "name": {
+      "en": "Indofood",
+      "ar": "إندوفود"
+    },
+    "original_value": "Indofood"
+  },
+  {
+    "id": "indomie",
+    "name": {
+      "en": "Indomie",
+      "ar": "إندومي"
+    },
+    "original_value": "Indomie"
+  },
+  {
+    "id": "ingco",
+    "name": {
+      "en": "Ingco",
+      "ar": "إنجكو"
+    },
+    "original_value": "Ingco"
+  },
+  {
+    "id": "intersand",
+    "name": {
+      "en": "Intersand",
+      "ar": "إنترساند"
+    },
+    "original_value": "Intersand"
+  },
+  {
+    "id": "ival",
+    "name": {
+      "en": "Ival",
+      "ar": "إيفال"
+    },
+    "original_value": "Ival"
+  },
+  {
+    "id": "jc",
+    "name": {
+      "en": "JC",
+      "ar": "جي سي"
+    },
+    "original_value": "JC"
+  },
+  {
+    "id": "jonny-cat",
+    "name": {
+      "en": "Jonny Cat",
+      "ar": "جوني كات"
+    },
+    "original_value": "JONNY CAT"
+  },
+  {
+    "id": "jack-links",
+    "name": {
+      "en": "Jack Link's",
+      "ar": "جاك لينكس"
+    },
+    "original_value": "Jack links"
+  },
+  {
+    "id": "james-white",
+    "name": {
+      "en": "James White",
+      "ar": "جيمس وايت"
+    },
+    "original_value": "James White"
+  },
+  {
+    "id": "jamie-oliver",
+    "name": {
+      "en": "Jamie Oliver",
+      "ar": "جيمي أوليفر"
+    },
+    "original_value": "Jamie oliver"
+  },
+  {
+    "id": "jimi",
+    "name": {
+      "en": "Jimi",
+      "ar": "جيمي"
+    },
+    "original_value": "Jimi"
+  },
+  {
+    "id": "jingo",
+    "name": {
+      "en": "Jingo",
+      "ar": "جينجو"
+    },
+    "original_value": "Jingo"
+  },
+  {
+    "id": "johnsons",
+    "name": {
+      "en": "Johnson's",
+      "ar": "جونسونز"
+    },
+    "original_value": "Johnson'S"
+  },
+  {
+    "id": "jolly-rancher",
+    "name": {
+      "en": "Jolly Rancher",
+      "ar": "جولي رانشر"
+    },
+    "original_value": "Jolly rancher"
+  },
+  {
+    "id": "jordans",
+    "name": {
+      "en": "Jordans",
+      "ar": "جوردانز"
+    },
+    "original_value": "Jordan Crunchy Oat Granola with Raisin & Almond 370g"
+  },
+  {
+    "id": "jordans",
+    "name": {
+      "en": "Jordans",
+      "ar": "جوردانز"
+    },
+    "original_value": "Jordans"
+  },
+  {
+    "id": "jordans",
+    "name": {
+      "en": "Jordans",
+      "ar": "جوردانز"
+    },
+    "original_value": "Jordans Country Crisp Chocolate Granola 500g"
+  },
+  {
+    "id": "jordans",
+    "name": {
+      "en": "Jordans",
+      "ar": "جوردانز"
+    },
+    "original_value": "Jordans Simply Honey Granola 370g"
+  },
+  {
+    "id": "josera",
+    "name": {
+      "en": "Josera",
+      "ar": "جوسيرا"
+    },
+    "original_value": "Josera"
+  },
+  {
+    "id": "juhayna",
+    "name": {
+      "en": "Juhayna",
+      "ar": "جهينة"
+    },
+    "original_value": "Juhayna"
+  },
+  {
+    "id": "junior",
+    "name": {
+      "en": "Junior",
+      "ar": "جونيور"
+    },
+    "original_value": "Junior"
+  },
+  {
+    "id": "just-chill",
+    "name": {
+      "en": "Just Chill",
+      "ar": "جاست تشيل"
+    },
+    "original_value": "Just Chill"
+  },
+  {
+    "id": "k2",
+    "name": {
+      "en": "K2",
+      "ar": "كي 2"
+    },
+    "original_value": "K2"
+  },
+  {
+    "id": "kjsa701",
+    "name": {
+      "en": "KJSA701",
+      "ar": "كي جي إس إيه 701"
+    },
+    "original_value": "KJSA701"
+  },
+  {
+    "id": "kodak",
+    "name": {
+      "en": "Kodak",
+      "ar": "كوداك"
+    },
+    "original_value": "KODAK"
+  },
+  {
+    "id": "kong",
+    "name": {
+      "en": "KONG",
+      "ar": "كونج"
+    },
+    "original_value": "KONG"
+  },
+  {
+    "id": "kagi",
+    "name": {
+      "en": "Kagi",
+      "ar": "كاجي"
+    },
+    "original_value": "Kagi"
+  },
+  {
+    "id": "kaif-al-shiouokh",
+    "name": {
+      "en": "Kaif Al Shiouokh",
+      "ar": "كيف الشيوخ"
+    },
+    "original_value": "Kaif Al Shiouokh"
+  },
+  {
+    "id": "kaif-al-shiouokh",
+    "name": {
+      "en": "Kaif Al Shiouokh",
+      "ar": "كيف الشيوخ"
+    },
+    "original_value": "Kaif alshiuokh"
+  },
+  {
+    "id": "kamiliant",
+    "name": {
+      "en": "Kamiliant",
+      "ar": "كاميليانت"
+    },
+    "original_value": "Kamiliant"
+  },
+  {
+    "id": "kaserei-champignon",
+    "name": {
+      "en": "Kaserei Champignon",
+      "ar": "كازري شامبنيون"
+    },
+    "original_value": "Kaserei champignon"
+  },
+  {
+    "id": "kasih",
+    "name": {
+      "en": "Kasih",
+      "ar": "الكسيح"
+    },
+    "original_value": "Kasih"
+  },
+  {
+    "id": "kassatly-chtaura",
+    "name": {
+      "en": "Kassatly Chtaura",
+      "ar": "كساتلي شتورة"
+    },
+    "original_value": "Kassatly chtaura"
+  },
+  {
+    "id": "kdd",
+    "name": {
+      "en": "KDD",
+      "ar": "كي دي دي"
+    },
+    "original_value": "Kdd"
+  },
+  {
+    "id": "kelima",
+    "name": {
+      "en": "Kelima",
+      "ar": "كيليما"
+    },
+    "original_value": "Kelima"
+  },
+  {
+    "id": "kelloggs",
+    "name": {
+      "en": "Kellogg's",
+      "ar": "كلوقز"
+    },
+    "original_value": "Kellogg'S"
+  },
+  {
+    "id": "kelloggs",
+    "name": {
+      "en": "Kellogg's",
+      "ar": "كلوقز"
+    },
+    "original_value": "Kellogg's"
+  },
+  {
+    "id": "kelloggs",
+    "name": {
+      "en": "Kellogg's",
+      "ar": "كلوقز"
+    },
+    "original_value": "Kellogg's White Chocolate With Pistachio Granola 320g"
+  },
+  {
+    "id": "kelloggs",
+    "name": {
+      "en": "Kellogg's",
+      "ar": "كلوقز"
+    },
+    "original_value": "Kelloggs Granola With White Chocolate And Pistachio 540g"
+  },
+  {
+    "id": "kenz",
+    "name": {
+      "en": "Kenz",
+      "ar": "كنز"
+    },
+    "original_value": "Kenz"
+  },
+  {
+    "id": "khadeer-tea",
+    "name": {
+      "en": "Khadeer Tea",
+      "ar": "شاي خدير"
+    },
+    "original_value": "Khadeer Tea"
+  },
+  {
+    "id": "kia",
+    "name": {
+      "en": "Kia",
+      "ar": "كيا"
+    },
+    "original_value": "Kia"
+  },
+  {
+    "id": "kidspro",
+    "name": {
+      "en": "Kidspro",
+      "ar": "كيدز برو"
+    },
+    "original_value": "Kidspro"
+  },
+  {
+    "id": "kidzpro",
+    "name": {
+      "en": "Kidzpro",
+      "ar": "كيدز برو"
+    },
+    "original_value": "Kidzpro"
+  },
+  {
+    "id": "kidzy",
+    "name": {
+      "en": "Kidzy",
+      "ar": "كيدزي"
+    },
+    "original_value": "Kidzy"
+  },
+  {
+    "id": "kikibebe",
+    "name": {
+      "en": "Kikibebe",
+      "ar": "كيكي بيبي"
+    },
+    "original_value": "Kikibebe"
+  },
+  {
+    "id": "kinder",
+    "name": {
+      "en": "Kinder",
+      "ar": "كيندر"
+    },
+    "original_value": "Kinder"
+  },
+  {
+    "id": "king",
+    "name": {
+      "en": "King",
+      "ar": "كينج"
+    },
+    "original_value": "King"
+  },
+  {
+    "id": "kinga",
+    "name": {
+      "en": "Kinga",
+      "ar": "كينجا"
+    },
+    "original_value": "Kinga"
+  },
+  {
+    "id": "kinza",
+    "name": {
+      "en": "Kinza",
+      "ar": "كينزا"
+    },
+    "original_value": "Kinza"
+  },
+  {
+    "id": "kiri",
+    "name": {
+      "en": "Kiri",
+      "ar": "كيري"
+    },
+    "original_value": "Kiri"
+  },
+  {
+    "id": "kisonli",
+    "name": {
+      "en": "Kisonli",
+      "ar": "كيسونلي"
+    },
+    "original_value": "Kisonli"
+  },
+  {
+    "id": "kisses",
+    "name": {
+      "en": "Kisses",
+      "ar": "كيسز"
+    },
+    "original_value": "Kisses"
+  },
+  {
+    "id": "kit-cat",
+    "name": {
+      "en": "Kit Cat",
+      "ar": "كيت كات"
+    },
+    "original_value": "Kit Cat"
+  },
+  {
+    "id": "kitco",
+    "name": {
+      "en": "Kitco",
+      "ar": "كيتكو"
+    },
+    "original_value": "Kitco"
+  },
+  {
+    "id": "kitekat",
+    "name": {
+      "en": "Kitekat",
+      "ar": "كيت كات"
+    },
+    "original_value": "Kitekat"
+  },
+  {
+    "id": "kitkat",
+    "name": {
+      "en": "KitKat",
+      "ar": "كيت كات"
+    },
+    "original_value": "Kitkat"
+  },
+  {
+    "id": "klasse",
+    "name": {
+      "en": "Klasse",
+      "ar": "كلاس"
+    },
+    "original_value": "Klasse"
+  },
+  {
+    "id": "klassno",
+    "name": {
+      "en": "Klassno",
+      "ar": "كلاسو"
+    },
+    "original_value": "Klassno"
+  },
+  {
+    "id": "klast",
+    "name": {
+      "en": "Klast",
+      "ar": "كلاست"
+    },
+    "original_value": "Klast"
+  },
+  {
+    "id": "knorr",
+    "name": {
+      "en": "Knorr",
+      "ar": "كنور"
+    },
+    "original_value": "Knorr"
+  },
+  {
+    "id": "kokola",
+    "name": {
+      "en": "Kokola",
+      "ar": "كوكولا"
+    },
+    "original_value": "Kokola"
+  },
+  {
+    "id": "korean",
+    "name": {
+      "en": "Korean",
+      "ar": "كوري"
+    },
+    "original_value": "Korean"
+  },
+  {
+    "id": "kraft",
+    "name": {
+      "en": "Kraft",
+      "ar": "كرافت"
+    },
+    "original_value": "Kraft"
+  },
+  {
+    "id": "kras",
+    "name": {
+      "en": "Kras",
+      "ar": "كراس"
+    },
+    "original_value": "Kras"
+  },
+  {
+    "id": "krawn",
+    "name": {
+      "en": "Krawn",
+      "ar": "كراون"
+    },
+    "original_value": "Krawn"
+  },
+  {
+    "id": "krypton",
+    "name": {
+      "en": "Krypton",
+      "ar": "كريبتون"
+    },
+    "original_value": "Krypton"
+  },
+  {
+    "id": "lelefante",
+    "name": {
+      "en": "L'Elefante",
+      "ar": "ليفانتي"
+    },
+    "original_value": "L'Elefante"
+  },
+  {
+    "id": "lor",
+    "name": {
+      "en": "L'OR",
+      "ar": "لور"
+    },
+    "original_value": "L'OR"
+  },
+  {
+    "id": "lw",
+    "name": {
+      "en": "LW",
+      "ar": "إل دبليو"
+    },
+    "original_value": "LW"
+  },
+  {
+    "id": "la-costena",
+    "name": {
+      "en": "La Costena",
+      "ar": "لا كوستينيا"
+    },
+    "original_value": "La costena"
+  },
+  {
+    "id": "ladys-choice",
+    "name": {
+      "en": "Lady's Choice",
+      "ar": "ليديز تشويس"
+    },
+    "original_value": "Lady's choice"
+  },
+  {
+    "id": "lamar",
+    "name": {
+      "en": "Lamar",
+      "ar": "لمار"
+    },
+    "original_value": "Lamar"
+  },
+  {
+    "id": "langnese",
+    "name": {
+      "en": "Langnese",
+      "ar": "لانجنيز"
+    },
+    "original_value": "Langnese"
+  },
+  {
+    "id": "laperva",
+    "name": {
+      "en": "Laperva",
+      "ar": "لابيرفا"
+    },
+    "original_value": "Laperva"
+  },
+  {
+    "id": "latheeth",
+    "name": {
+      "en": "Latheeth",
+      "ar": "لذيذ"
+    },
+    "original_value": "Latheeth"
+  },
+  {
+    "id": "lays",
+    "name": {
+      "en": "Lays",
+      "ar": "ليز"
+    },
+    "original_value": "Lays"
+  },
+  {
+    "id": "ldnio",
+    "name": {
+      "en": "Ldnio",
+      "ar": "لدنيو"
+    },
+    "original_value": "Ldnio"
+  },
+  {
+    "id": "lee-kum-kee",
+    "name": {
+      "en": "Lee Kum Kee",
+      "ar": "لي كوم كي"
+    },
+    "original_value": "Lee kum kee"
+  },
+  {
+    "id": "lens-me",
+    "name": {
+      "en": "Lens Me",
+      "ar": "لينس مي"
+    },
+    "original_value": "Lens me"
+  },
+  {
+    "id": "leucillin",
+    "name": {
+      "en": "Leucillin",
+      "ar": "لوسيلين"
+    },
+    "original_value": "Leucillin"
+  },
+  {
+    "id": "libbys",
+    "name": {
+      "en": "Libby's",
+      "ar": "ليبيز"
+    },
+    "original_value": "Libby's"
+  },
+  {
+    "id": "life-cat",
+    "name": {
+      "en": "Life Cat",
+      "ar": "لايف كات"
+    },
+    "original_value": "Life Cat"
+  },
+  {
+    "id": "ligo",
+    "name": {
+      "en": "Ligo",
+      "ar": "ليجو"
+    },
+    "original_value": "Ligo"
+  },
+  {
+    "id": "lilo-stitch",
+    "name": {
+      "en": "Lilo & Stitch",
+      "ar": "ليلو وستيتش"
+    },
+    "original_value": "Lilo & Stitch"
+  },
+  {
+    "id": "lindam",
+    "name": {
+      "en": "Lindam",
+      "ar": "ليندام"
+    },
+    "original_value": "Lindam"
+  },
+  {
+    "id": "lindor",
+    "name": {
+      "en": "Lindor",
+      "ar": "ليندور"
+    },
+    "original_value": "Lindor"
+  },
+  {
+    "id": "lindt",
+    "name": {
+      "en": "Lindt",
+      "ar": "ليندت"
+    },
+    "original_value": "Lindt"
+  },
+  {
+    "id": "lion",
+    "name": {
+      "en": "Lion",
+      "ar": "لايون"
+    },
+    "original_value": "Lion"
+  },
+  {
+    "id": "lipton",
+    "name": {
+      "en": "Lipton",
+      "ar": "ليبتون"
+    },
+    "original_value": "Lipton"
+  },
+  {
+    "id": "lipton",
+    "name": {
+      "en": "Lipton",
+      "ar": "ليبتون"
+    },
+    "original_value": "Lipton Ice Tea"
+  },
+  {
+    "id": "little-angel",
+    "name": {
+      "en": "Little Angel",
+      "ar": "ليتل إنجل"
+    },
+    "original_value": "Little Angel"
+  },
+  {
+    "id": "little-story",
+    "name": {
+      "en": "Little Story",
+      "ar": "ليتل ستوري"
+    },
+    "original_value": "Little Story"
+  },
+  {
+    "id": "loacker",
+    "name": {
+      "en": "Loacker",
+      "ar": "لواكر"
+    },
+    "original_value": "Loacker"
+  },
+  {
+    "id": "lol",
+    "name": {
+      "en": "LOL",
+      "ar": "إل أو إل"
+    },
+    "original_value": "Lol"
+  },
+  {
+    "id": "lolo",
+    "name": {
+      "en": "Lolo",
+      "ar": "لولو"
+    },
+    "original_value": "Lolo"
+  },
+  {
+    "id": "longkou",
+    "name": {
+      "en": "Longkou",
+      "ar": "لونجكو"
+    },
+    "original_value": "Longkou"
+  },
+  {
+    "id": "lonka",
+    "name": {
+      "en": "Lonka",
+      "ar": "لونكا"
+    },
+    "original_value": "Lonka"
+  },
+  {
+    "id": "looney-tunes",
+    "name": {
+      "en": "Looney Tunes",
+      "ar": "لوني تونز"
+    },
+    "original_value": "Looney Tunes"
+  },
+  {
+    "id": "loqma",
+    "name": {
+      "en": "Loqma",
+      "ar": "لقمة"
+    },
+    "original_value": "Loqma"
+  },
+  {
+    "id": "lorenz",
+    "name": {
+      "en": "Lorenz",
+      "ar": "لورينز"
+    },
+    "original_value": "Lorenz"
+  },
+  {
+    "id": "lorf",
+    "name": {
+      "en": "Lorf",
+      "ar": "لورف"
+    },
+    "original_value": "Lorf"
+  },
+  {
+    "id": "lotte",
+    "name": {
+      "en": "Lotte",
+      "ar": "لوتي"
+    },
+    "original_value": "Lotte"
+  },
+  {
+    "id": "lotus",
+    "name": {
+      "en": "Lotus",
+      "ar": "لوتس"
+    },
+    "original_value": "Lotus"
+  },
+  {
+    "id": "lu",
+    "name": {
+      "en": "Lu",
+      "ar": "لو"
+    },
+    "original_value": "Lu"
+  },
+  {
+    "id": "lu",
+    "name": {
+      "en": "Lu",
+      "ar": "لو"
+    },
+    "original_value": "Lu Croustile Wafers"
+  },
+  {
+    "id": "lucky-me",
+    "name": {
+      "en": "Lucky Me",
+      "ar": "لاكي مي"
+    },
+    "original_value": "Lucky me"
+  },
+  {
+    "id": "luna",
+    "name": {
+      "en": "Luna",
+      "ar": "لونا"
+    },
+    "original_value": "Luna"
+  },
+  {
+    "id": "luppo",
+    "name": {
+      "en": "Luppo",
+      "ar": "لوبو"
+    },
+    "original_value": "Luppo"
+  },
+  {
+    "id": "luqu",
+    "name": {
+      "en": "Luqu",
+      "ar": "لوكو"
+    },
+    "original_value": "Luqu"
+  },
+  {
+    "id": "luqubaby",
+    "name": {
+      "en": "Luqubaby",
+      "ar": "لوكو بيبي"
+    },
+    "original_value": "Luqubaby"
+  },
+  {
+    "id": "lurpak",
+    "name": {
+      "en": "Lurpak",
+      "ar": "لورباك"
+    },
+    "original_value": "Lurpak"
+  },
+  {
+    "id": "lusine",
+    "name": {
+      "en": "Lusine",
+      "ar": "لوزين"
+    },
+    "original_value": "Lusine"
+  },
+  {
+    "id": "lussory",
+    "name": {
+      "en": "Lussory",
+      "ar": "لوسوري"
+    },
+    "original_value": "Lussory"
+  },
+  {
+    "id": "m-ms",
+    "name": {
+      "en": "M&M's",
+      "ar": "إم أند إمز"
+    },
+    "original_value": "M&m's"
+  },
+  {
+    "id": "m-spirit",
+    "name": {
+      "en": "M-Spirit",
+      "ar": "إم سبيريت"
+    },
+    "original_value": "M-Spirit"
+  },
+  {
+    "id": "mafra",
+    "name": {
+      "en": "MAFRA",
+      "ar": "مافرا"
+    },
+    "original_value": "MAFRA"
+  },
+  {
+    "id": "maizena",
+    "name": {
+      "en": "Maizena",
+      "ar": "مايزينا"
+    },
+    "original_value": "MAIZENA"
+  },
+  {
+    "id": "masc",
+    "name": {
+      "en": "MASC",
+      "ar": "ماسك"
+    },
+    "original_value": "MASC"
+  },
+  {
+    "id": "masco",
+    "name": {
+      "en": "MASCO",
+      "ar": "ماسكو"
+    },
+    "original_value": "MASCO"
+  },
+  {
+    "id": "mnuk",
+    "name": {
+      "en": "MNUK",
+      "ar": "إم إن يو كي"
+    },
+    "original_value": "MNUK"
+  },
+  {
+    "id": "mob",
+    "name": {
+      "en": "MOB",
+      "ar": "موب"
+    },
+    "original_value": "MOB"
+  },
+  {
+    "id": "my-lubei-neo",
+    "name": {
+      "en": "My Lubei Neo",
+      "ar": "ماي لوبي نيو"
+    },
+    "original_value": "MY LUBEI NEO"
+  },
+  {
+    "id": "maggi",
+    "name": {
+      "en": "Maggi",
+      "ar": "ماجي"
+    },
+    "original_value": "Maggi"
+  },
+  {
+    "id": "maggi",
+    "name": {
+      "en": "Maggi",
+      "ar": "ماجي"
+    },
+    "original_value": "Maggi - Chicken stock 18g x16"
+  },
+  {
+    "id": "maggi",
+    "name": {
+      "en": "Maggi",
+      "ar": "ماجي"
+    },
+    "original_value": "Maggi Chicken Stock 18g"
+  },
+  {
+    "id": "maggi",
+    "name": {
+      "en": "Maggi",
+      "ar": "ماجي"
+    },
+    "original_value": "Maggi Saffron Stock Cube 20g"
+  },
+  {
+    "id": "maggi",
+    "name": {
+      "en": "Maggi",
+      "ar": "ماجي"
+    },
+    "original_value": "Maggi Shawarma Mix 40g"
+  },
+  {
+    "id": "magna-cart",
+    "name": {
+      "en": "Magna Cart",
+      "ar": "ماجنا كارت"
+    },
+    "original_value": "Magna Cart"
+  },
+  {
+    "id": "majdi",
+    "name": {
+      "en": "Majdi",
+      "ar": "مجدي"
+    },
+    "original_value": "Majdi"
+  },
+  {
+    "id": "majorico",
+    "name": {
+      "en": "Majorico",
+      "ar": "ماجوريكو"
+    },
+    "original_value": "Majorico"
+  },
+  {
+    "id": "makati",
+    "name": {
+      "en": "Makati",
+      "ar": "ماكاتي"
+    },
+    "original_value": "Makati"
+  },
+  {
+    "id": "maltesers",
+    "name": {
+      "en": "Maltesers",
+      "ar": "مالتيزرز"
+    },
+    "original_value": "Maltesers"
+  },
+  {
+    "id": "mang-tomas",
+    "name": {
+      "en": "Mang Tomas",
+      "ar": "مانج توماس"
+    },
+    "original_value": "Mang Tomas"
+  },
+  {
+    "id": "maped",
+    "name": {
+      "en": "Maped",
+      "ar": "مابد"
+    },
+    "original_value": "Maped"
+  },
+  {
+    "id": "marami",
+    "name": {
+      "en": "Marami",
+      "ar": "مرامي"
+    },
+    "original_value": "Marami"
+  },
+  {
+    "id": "marina",
+    "name": {
+      "en": "Marina",
+      "ar": "مارينا"
+    },
+    "original_value": "Marina"
+  },
+  {
+    "id": "marmite",
+    "name": {
+      "en": "Marmite",
+      "ar": "مارمايت"
+    },
+    "original_value": "Marmite"
+  },
+  {
+    "id": "mars",
+    "name": {
+      "en": "Mars",
+      "ar": "مارس"
+    },
+    "original_value": "Mars"
+  },
+  {
+    "id": "marvel",
+    "name": {
+      "en": "Marvel",
+      "ar": "مارفل"
+    },
+    "original_value": "Marvel"
+  },
+  {
+    "id": "masco",
+    "name": {
+      "en": "Masco",
+      "ar": "ماسكو"
+    },
+    "original_value": "Masco"
+  },
+  {
+    "id": "master-chef",
+    "name": {
+      "en": "Master Chef",
+      "ar": "ماستر شيف"
+    },
+    "original_value": "Master chef"
+  },
+  {
+    "id": "maxwell-house",
+    "name": {
+      "en": "Maxwell House",
+      "ar": "ماكسويل هاوس"
+    },
+    "original_value": "Maxwell house"
+  },
+  {
+    "id": "mazola",
+    "name": {
+      "en": "Mazola",
+      "ar": "مازولا"
+    },
+    "original_value": "Mazola"
+  },
+  {
+    "id": "mcvities",
+    "name": {
+      "en": "Mcvitie's",
+      "ar": "ماكفيتيز"
+    },
+    "original_value": "Mcvities"
+  },
+  {
+    "id": "mehran",
+    "name": {
+      "en": "Mehran",
+      "ar": "مهران"
+    },
+    "original_value": "Mehran"
+  },
+  {
+    "id": "mehtap",
+    "name": {
+      "en": "Mehtap",
+      "ar": "مهتاب"
+    },
+    "original_value": "Mehtap"
+  },
+  {
+    "id": "memories",
+    "name": {
+      "en": "Memories",
+      "ar": "ميموريز"
+    },
+    "original_value": "Memories"
+  },
+  {
+    "id": "mentos",
+    "name": {
+      "en": "Mentos",
+      "ar": "منتوس"
+    },
+    "original_value": "Mentos"
+  },
+  {
+    "id": "menzerna",
+    "name": {
+      "en": "Menzerna",
+      "ar": "مينزيرنا"
+    },
+    "original_value": "Menzerna"
+  },
+  {
+    "id": "mera",
+    "name": {
+      "en": "Mera",
+      "ar": "ميرا"
+    },
+    "original_value": "Mera"
+  },
+  {
+    "id": "merba",
+    "name": {
+      "en": "Merba",
+      "ar": "ميربا"
+    },
+    "original_value": "Merba"
+  },
+  {
+    "id": "merci",
+    "name": {
+      "en": "Merci",
+      "ar": "ميرسي"
+    },
+    "original_value": "Merci"
+  },
+  {
+    "id": "mervue",
+    "name": {
+      "en": "Mervue",
+      "ar": "ميرفيو"
+    },
+    "original_value": "Mervue"
+  },
+  {
+    "id": "mickey-friends",
+    "name": {
+      "en": "Mickey & Friends",
+      "ar": "ميكي والأصدقاء"
+    },
+    "original_value": "Mickey & Friends"
+  },
+  {
+    "id": "mickey-mouse",
+    "name": {
+      "en": "Mickey Mouse",
+      "ar": "ميكي ماوس"
+    },
+    "original_value": "Mickey Mouse"
+  },
+  {
+    "id": "microplus",
+    "name": {
+      "en": "Microplus",
+      "ar": "مايكروبلس"
+    },
+    "original_value": "Microplus"
+  },
+  {
+    "id": "midwest",
+    "name": {
+      "en": "Midwest",
+      "ar": "ميدويست"
+    },
+    "original_value": "Midwest"
+  },
+  {
+    "id": "midwest",
+    "name": {
+      "en": "Midwest",
+      "ar": "ميدويست"
+    },
+    "original_value": "Midwest Homes For Pets"
+  },
+  {
+    "id": "mie-sedaap",
+    "name": {
+      "en": "Mie Sedaap",
+      "ar": "مي سيداب"
+    },
+    "original_value": "Mie sedaap"
+  },
+  {
+    "id": "miglior",
+    "name": {
+      "en": "Miglior",
+      "ar": "ميغليور"
+    },
+    "original_value": "Miglior"
+  },
+  {
+    "id": "milaf",
+    "name": {
+      "en": "Milaf",
+      "ar": "ميلاف"
+    },
+    "original_value": "Milaf"
+  },
+  {
+    "id": "milagrosa",
+    "name": {
+      "en": "Milagrosa",
+      "ar": "ميلاغروسا"
+    },
+    "original_value": "Milagrosa"
+  },
+  {
+    "id": "milk-moo",
+    "name": {
+      "en": "Milk & Moo",
+      "ar": "ميلك آند مو"
+    },
+    "original_value": "Milk & Moo"
+  },
+  {
+    "id": "milk-moo",
+    "name": {
+      "en": "Milk & Moo",
+      "ar": "ميلك آند مو"
+    },
+    "original_value": "Milk&Moo"
+  },
+  {
+    "id": "milka",
+    "name": {
+      "en": "Milka",
+      "ar": "ميلكا"
+    },
+    "original_value": "Milka"
+  },
+  {
+    "id": "milky-way",
+    "name": {
+      "en": "Milky Way",
+      "ar": "ميلكي واي"
+    },
+    "original_value": "Milky way"
+  },
+  {
+    "id": "milo",
+    "name": {
+      "en": "Milo",
+      "ar": "ميلو"
+    },
+    "original_value": "Milo"
+  },
+  {
+    "id": "milton",
+    "name": {
+      "en": "Milton",
+      "ar": "ميلتون"
+    },
+    "original_value": "Milton"
+  },
+  {
+    "id": "minnie-friends",
+    "name": {
+      "en": "Minnie & Friends",
+      "ar": "ميني والأصدقاء"
+    },
+    "original_value": "Minnie & Friends"
+  },
+  {
+    "id": "minnie-mouse",
+    "name": {
+      "en": "Minnie Mouse",
+      "ar": "ميني ماوس"
+    },
+    "original_value": "Minnie Mouse"
+  },
+  {
+    "id": "miocane",
+    "name": {
+      "en": "Miocane",
+      "ar": "ميوكان"
+    },
+    "original_value": "Miocane"
+  },
+  {
+    "id": "miogatto",
+    "name": {
+      "en": "Miogatto",
+      "ar": "ميوجاتو"
+    },
+    "original_value": "Miogatto"
+  },
+  {
+    "id": "miracle",
+    "name": {
+      "en": "Miracle",
+      "ar": "ميراكل"
+    },
+    "original_value": "Miracle"
+  },
+  {
+    "id": "mirinda",
+    "name": {
+      "en": "Mirinda",
+      "ar": "ميرندا"
+    },
+    "original_value": "Mirinda"
+  },
+  {
+    "id": "mission",
+    "name": {
+      "en": "Mission",
+      "ar": "ميشن"
+    },
+    "original_value": "Mission"
+  },
+  {
+    "id": "mitchell",
+    "name": {
+      "en": "Mitchell",
+      "ar": "ميتشل"
+    },
+    "original_value": "Mitchell"
+  },
+  {
+    "id": "mito",
+    "name": {
+      "en": "Mito",
+      "ar": "ميتو"
+    },
+    "original_value": "Mito"
+  },
+  {
+    "id": "mix-princess",
+    "name": {
+      "en": "Mix Princess",
+      "ar": "ميكس برنسيس"
+    },
+    "original_value": "Mix Princess"
+  },
+  {
+    "id": "mixmax",
+    "name": {
+      "en": "Mixmax",
+      "ar": "ميكس ماكس"
+    },
+    "original_value": "Mixmax"
+  },
+  {
+    "id": "mob",
+    "name": {
+      "en": "Mob",
+      "ar": "موب"
+    },
+    "original_value": "Mob"
+  },
+  {
+    "id": "moderna",
+    "name": {
+      "en": "Moderna",
+      "ar": "موديرنا"
+    },
+    "original_value": "Moderna"
+  },
+  {
+    "id": "monini",
+    "name": {
+      "en": "Monini",
+      "ar": "مونيني"
+    },
+    "original_value": "Monini"
+  },
+  {
+    "id": "monster",
+    "name": {
+      "en": "Monster",
+      "ar": "مونستر"
+    },
+    "original_value": "Monster"
+  },
+  {
+    "id": "moochie",
+    "name": {
+      "en": "Moochie",
+      "ar": "موتشي"
+    },
+    "original_value": "Moochie"
+  },
+  {
+    "id": "morando",
+    "name": {
+      "en": "Morando",
+      "ar": "موراندو"
+    },
+    "original_value": "Morando"
+  },
+  {
+    "id": "more-power",
+    "name": {
+      "en": "More Power",
+      "ar": "مور باور"
+    },
+    "original_value": "More Power"
+  },
+  {
+    "id": "mountain-dew",
+    "name": {
+      "en": "Mountain Dew",
+      "ar": "ماونتن ديو"
+    },
+    "original_value": "Mountain dew"
+  },
+  {
+    "id": "moussy",
+    "name": {
+      "en": "Moussy",
+      "ar": "موسي"
+    },
+    "original_value": "Moussy"
+  },
+  {
+    "id": "mr-organic",
+    "name": {
+      "en": "Mr Organic",
+      "ar": "مستر أورجانيك"
+    },
+    "original_value": "Mr organic"
+  },
+  {
+    "id": "mr-cat",
+    "name": {
+      "en": "Mr. Cat",
+      "ar": "مستر كات"
+    },
+    "original_value": "Mr. Cat"
+  },
+  {
+    "id": "mrbite",
+    "name": {
+      "en": "Mr. Bite",
+      "ar": "مستر بايت"
+    },
+    "original_value": "Mr.bite"
+  },
+  {
+    "id": "mrhorn",
+    "name": {
+      "en": "Mrhorn",
+      "ar": "مستر هورن"
+    },
+    "original_value": "Mrhorn"
+  },
+  {
+    "id": "mtool",
+    "name": {
+      "en": "Mtool",
+      "ar": "إم تول"
+    },
+    "original_value": "Mtool"
+  },
+  {
+    "id": "mtr",
+    "name": {
+      "en": "MTR",
+      "ar": "إم تي آر"
+    },
+    "original_value": "Mtr"
+  },
+  {
+    "id": "munchkin",
+    "name": {
+      "en": "Munchkin",
+      "ar": "مانشكين"
+    },
+    "original_value": "Munchkin"
+  },
+  {
+    "id": "myfamily",
+    "name": {
+      "en": "MyFamily",
+      "ar": "ماي فاميلي"
+    },
+    "original_value": "MyFamily"
+  },
+  {
+    "id": "nestle",
+    "name": {
+      "en": "Nestlé",
+      "ar": "نستله"
+    },
+    "original_value": "NESTLE"
+  },
+  {
+    "id": "nestle-fitness",
+    "name": {
+      "en": "Nestlé Fitness",
+      "ar": "نستله فيتنس"
+    },
+    "original_value": "NESTLE FITNESS - Chocolate Breakfast Cereal 600g"
+  },
+  {
+    "id": "nestle-fitness",
+    "name": {
+      "en": "Nestlé Fitness",
+      "ar": "نستله فيتنس"
+    },
+    "original_value": "NESTLE FITNESS - Granola With Honey Breakfast Cereal 600g"
+  },
+  {
+    "id": "nestle-fitness",
+    "name": {
+      "en": "Nestlé Fitness",
+      "ar": "نستله فيتنس"
+    },
+    "original_value": "NESTLE:FITNESS"
+  },
+  {
+    "id": "nox3",
+    "name": {
+      "en": "NO.X3",
+      "ar": "نو.إكس 3"
+    },
+    "original_value": "NO.X3"
+  },
+  {
+    "id": "nabati",
+    "name": {
+      "en": "Nabati",
+      "ar": "نباتي"
+    },
+    "original_value": "Nabati"
+  },
+  {
+    "id": "nabil",
+    "name": {
+      "en": "Nabil",
+      "ar": "نبيل"
+    },
+    "original_value": "Nabil"
+  },
+  {
+    "id": "nabisco",
+    "name": {
+      "en": "Nabisco",
+      "ar": "نابيسكو"
+    },
+    "original_value": "Nabisco"
+  },
+  {
+    "id": "nada",
+    "name": {
+      "en": "Nada",
+      "ar": "ندى"
+    },
+    "original_value": "Nada"
+  },
+  {
+    "id": "nadec",
+    "name": {
+      "en": "Nadec",
+      "ar": "نادك"
+    },
+    "original_value": "Nadec"
+  },
+  {
+    "id": "nahla",
+    "name": {
+      "en": "Nahla",
+      "ar": "نحلة"
+    },
+    "original_value": "Nahla"
+  },
+  {
+    "id": "nahool",
+    "name": {
+      "en": "Nahool",
+      "ar": "نحول"
+    },
+    "original_value": "Nahool"
+  },
+  {
+    "id": "nakheel",
+    "name": {
+      "en": "Nakheel",
+      "ar": "نخيل"
+    },
+    "original_value": "Nakheel"
+  },
+  {
+    "id": "nakhlatain",
+    "name": {
+      "en": "Nakhlatain",
+      "ar": "نخلتين"
+    },
+    "original_value": "Nakhlatain"
+  },
+  {
+    "id": "namson",
+    "name": {
+      "en": "Namson",
+      "ar": "نامسون"
+    },
+    "original_value": "Namson"
+  },
+  {
+    "id": "nan",
+    "name": {
+      "en": "NAN",
+      "ar": "نان"
+    },
+    "original_value": "Nan"
+  },
+  {
+    "id": "naruto",
+    "name": {
+      "en": "Naruto",
+      "ar": "ناروتو"
+    },
+    "original_value": "Naruto"
+  },
+  {
+    "id": "national",
+    "name": {
+      "en": "National",
+      "ar": "ناشونال"
+    },
+    "original_value": "National"
+  },
+  {
+    "id": "natua",
+    "name": {
+      "en": "Natua",
+      "ar": "ناتوا"
+    },
+    "original_value": "Natua"
+  },
+  {
+    "id": "natural-kitty",
+    "name": {
+      "en": "Natural Kitty",
+      "ar": "ناتشورال كيتي"
+    },
+    "original_value": "Natural Kitty"
+  },
+  {
+    "id": "nature-valley",
+    "name": {
+      "en": "Nature Valley",
+      "ar": "نيتشر فالي"
+    },
+    "original_value": "Nature Valley"
+  },
+  {
+    "id": "nature-valley",
+    "name": {
+      "en": "Nature Valley",
+      "ar": "نيتشر فالي"
+    },
+    "original_value": "Nature valley"
+  },
+  {
+    "id": "natures-path",
+    "name": {
+      "en": "Nature's Path",
+      "ar": "ناتشورز باث"
+    },
+    "original_value": "Nature'S Path"
+  },
+  {
+    "id": "natureland",
+    "name": {
+      "en": "Natureland",
+      "ar": "أرض الطبيعة"
+    },
+    "original_value": "Natureland"
+  },
+  {
+    "id": "natureland",
+    "name": {
+      "en": "Natureland",
+      "ar": "أرض الطبيعة"
+    },
+    "original_value": "Natureland Vegetable Broth No Salt Cubes 66g"
+  },
+  {
+    "id": "nec",
+    "name": {
+      "en": "NEC",
+      "ar": "إن إي سي"
+    },
+    "original_value": "Nec"
+  },
+  {
+    "id": "nerve",
+    "name": {
+      "en": "Nerve",
+      "ar": "نيرف"
+    },
+    "original_value": "Nerve"
+  },
+  {
+    "id": "nescafe",
+    "name": {
+      "en": "Nescafe",
+      "ar": "نسكافيه"
+    },
+    "original_value": "Nescafe"
+  },
+  {
+    "id": "nesquik",
+    "name": {
+      "en": "Nesquik",
+      "ar": "نسكويك"
+    },
+    "original_value": "Nesquik"
+  },
+  {
+    "id": "nestle",
+    "name": {
+      "en": "Nestlé",
+      "ar": "نستله"
+    },
+    "original_value": "Nestle"
+  },
+  {
+    "id": "nestle-fitness",
+    "name": {
+      "en": "Nestlé Fitness",
+      "ar": "نستله فيتنس"
+    },
+    "original_value": "Nestle Fitness Crunchy Oats Granola With Corn Flakes 300g"
+  },
+  {
+    "id": "nestle-fitness",
+    "name": {
+      "en": "Nestlé Fitness",
+      "ar": "نستله فيتنس"
+    },
+    "original_value": "Nestle Fitness Quinoa Almonds And Chocolate Granola 450g"
+  },
+  {
+    "id": "nestle-maggi",
+    "name": {
+      "en": "Nestlé Maggi",
+      "ar": "نستله ماجي"
+    },
+    "original_value": "Nestle Maggi Beef Flavoured Stock 18g"
+  },
+  {
+    "id": "nestle-maggi",
+    "name": {
+      "en": "Nestlé Maggi",
+      "ar": "نستله ماجي"
+    },
+    "original_value": "Nestle Maggi Beef Flavoured Stock 20g Pack of 24"
+  },
+  {
+    "id": "nestle-maggi",
+    "name": {
+      "en": "Nestlé Maggi",
+      "ar": "نستله ماجي"
+    },
+    "original_value": "Nestle Maggi Chicken Less Salt Stock 18g x24"
+  },
+  {
+    "id": "nestle-maggi",
+    "name": {
+      "en": "Nestlé Maggi",
+      "ar": "نستله ماجي"
+    },
+    "original_value": "Nestle Maggi Low Salt Chicken Stock Cubes 18g"
+  },
+  {
+    "id": "nestle-maggi",
+    "name": {
+      "en": "Nestlé Maggi",
+      "ar": "نستله ماجي"
+    },
+    "original_value": "Nestle Maggi Safron Stock 20g Pack of 24"
+  },
+  {
+    "id": "nestle-maggi",
+    "name": {
+      "en": "Nestlé Maggi",
+      "ar": "نستله ماجي"
+    },
+    "original_value": "Nestle Maggi Vegetable Flavour Bouillon 20g"
+  },
+  {
+    "id": "nestle-cereals",
+    "name": {
+      "en": "Nestlé Cereals",
+      "ar": "نستله سيريالز"
+    },
+    "original_value": "Nestle cereals"
+  },
+  {
+    "id": "nestle-cream",
+    "name": {
+      "en": "Nestlé Cream",
+      "ar": "نستله قشطة"
+    },
+    "original_value": "Nestle cream"
+  },
+  {
+    "id": "new-car",
+    "name": {
+      "en": "New Car",
+      "ar": "نيو كار"
+    },
+    "original_value": "New Car"
+  },
+  {
+    "id": "new-spider",
+    "name": {
+      "en": "New Spider",
+      "ar": "نيو سبايدر"
+    },
+    "original_value": "New Spider"
+  },
+  {
+    "id": "new-spider-plus",
+    "name": {
+      "en": "New Spider Plus",
+      "ar": "نيو سبايدر بلس"
+    },
+    "original_value": "New Spider Plus"
+  },
+  {
+    "id": "nido",
+    "name": {
+      "en": "Nido",
+      "ar": "نيدو"
+    },
+    "original_value": "Nido"
+  },
+  {
+    "id": "nobleza",
+    "name": {
+      "en": "Nobleza",
+      "ar": "نوبليزا"
+    },
+    "original_value": "Nobleza"
+  },
+  {
+    "id": "nohoo",
+    "name": {
+      "en": "Nohoo",
+      "ar": "نوهو"
+    },
+    "original_value": "Nohoo"
+  },
+  {
+    "id": "noor",
+    "name": {
+      "en": "Noor",
+      "ar": "نور"
+    },
+    "original_value": "Noor"
+  },
+  {
+    "id": "nora",
+    "name": {
+      "en": "Nora",
+      "ar": "نورا"
+    },
+    "original_value": "Nora"
+  },
+  {
+    "id": "nova",
+    "name": {
+      "en": "Nova",
+      "ar": "نوفا"
+    },
+    "original_value": "Nova"
+  },
+  {
+    "id": "nova-kids",
+    "name": {
+      "en": "Nova Kids",
+      "ar": "نوفا كيدز"
+    },
+    "original_value": "Nova Kids"
+  },
+  {
+    "id": "nuralac",
+    "name": {
+      "en": "Nuralac",
+      "ar": "نيورالاك"
+    },
+    "original_value": "Nuralac"
+  },
+  {
+    "id": "nutella",
+    "name": {
+      "en": "Nutella",
+      "ar": "نوتيلا"
+    },
+    "original_value": "Nutella"
+  },
+  {
+    "id": "nutri-vet",
+    "name": {
+      "en": "Nutri-Vet",
+      "ar": "نوتري فيت"
+    },
+    "original_value": "Nutri-Vet"
+  },
+  {
+    "id": "olite",
+    "name": {
+      "en": "O'lite",
+      "ar": "أولايت"
+    },
+    "original_value": "O'lite"
+  },
+  {
+    "id": "o2pro",
+    "name": {
+      "en": "O2PRO",
+      "ar": "أو 2 برو"
+    },
+    "original_value": "O2PRO"
+  },
+  {
+    "id": "oxo",
+    "name": {
+      "en": "OXO",
+      "ar": "أوكسو"
+    },
+    "original_value": "OXO Cooks Mate Beef Cubes 71g"
+  },
+  {
+    "id": "oxo",
+    "name": {
+      "en": "OXO",
+      "ar": "أوكسو"
+    },
+    "original_value": "OXO Vegan Beef Cubes 71g"
+  },
+  {
+    "id": "oasy",
+    "name": {
+      "en": "Oasy",
+      "ar": "أواسي"
+    },
+    "original_value": "Oasy"
+  },
+  {
+    "id": "old-el-paso",
+    "name": {
+      "en": "Old El Paso",
+      "ar": "أولد إل باسو"
+    },
+    "original_value": "Old el paso"
+  },
+  {
+    "id": "olsenmark",
+    "name": {
+      "en": "Olsenmark",
+      "ar": "أولسن مارك"
+    },
+    "original_value": "Olsenmark"
+  },
+  {
+    "id": "omela",
+    "name": {
+      "en": "Omela",
+      "ar": "أوميلا"
+    },
+    "original_value": "Omela"
+  },
+  {
+    "id": "oorganics",
+    "name": {
+      "en": "O Organics",
+      "ar": "أو أورجانيكس"
+    },
+    "original_value": "Oorganics"
+  },
+  {
+    "id": "oral-b",
+    "name": {
+      "en": "Oral-B",
+      "ar": "أورال بي"
+    },
+    "original_value": "Oral b"
+  },
+  {
+    "id": "oralade",
+    "name": {
+      "en": "Oralade",
+      "ar": "أورالايد"
+    },
+    "original_value": "Oralade"
+  },
+  {
+    "id": "oreo",
+    "name": {
+      "en": "Oreo",
+      "ar": "أوريو"
+    },
+    "original_value": "Oreo"
+  },
+  {
+    "id": "organic-larder",
+    "name": {
+      "en": "Organic Larder",
+      "ar": "أورجانيك لاردر"
+    },
+    "original_value": "Organic Larder"
+  },
+  {
+    "id": "organic-larder",
+    "name": {
+      "en": "Organic Larder",
+      "ar": "أورجانيك لاردر"
+    },
+    "original_value": "Organic larder"
+  },
+  {
+    "id": "orient-gardens",
+    "name": {
+      "en": "Orient Gardens",
+      "ar": "حدائق أورينت"
+    },
+    "original_value": "Orient Gardens"
+  },
+  {
+    "id": "orient-pet",
+    "name": {
+      "en": "Orient Pet",
+      "ar": "أورينت بيت"
+    },
+    "original_value": "Orient Pet"
+  },
+  {
+    "id": "orient-gardens",
+    "name": {
+      "en": "Orient Gardens",
+      "ar": "حدائق أورينت"
+    },
+    "original_value": "Orient gardens"
+  },
+  {
+    "id": "oriental",
+    "name": {
+      "en": "Oriental",
+      "ar": "أورينتال"
+    },
+    "original_value": "Oriental"
+  },
+  {
+    "id": "original",
+    "name": {
+      "en": "Original",
+      "ar": "أوريجينال"
+    },
+    "original_value": "Original"
+  },
+  {
+    "id": "original-waffles",
+    "name": {
+      "en": "Original Waffles",
+      "ar": "أوريجينال وافلز"
+    },
+    "original_value": "Original waffles"
+  },
+  {
+    "id": "orinex",
+    "name": {
+      "en": "Orinex",
+      "ar": "أورينكس"
+    },
+    "original_value": "Orinex"
+  },
+  {
+    "id": "orion",
+    "name": {
+      "en": "Orion",
+      "ar": "أوريون"
+    },
+    "original_value": "Orion"
+  },
+  {
+    "id": "oshee",
+    "name": {
+      "en": "Oshee",
+      "ar": "أوشي"
+    },
+    "original_value": "Oshee"
+  },
+  {
+    "id": "oska",
+    "name": {
+      "en": "Oska",
+      "ar": "أوسكا"
+    },
+    "original_value": "Oska"
+  },
+  {
+    "id": "owala",
+    "name": {
+      "en": "Owala",
+      "ar": "أوالا"
+    },
+    "original_value": "Owala"
+  },
+  {
+    "id": "oxo",
+    "name": {
+      "en": "OXO",
+      "ar": "أوكسو"
+    },
+    "original_value": "Oxo"
+  },
+  {
+    "id": "pakmaya",
+    "name": {
+      "en": "Pakmaya",
+      "ar": "باكمايا"
+    },
+    "original_value": "Pakmaya"
+  },
+  {
+    "id": "paldo",
+    "name": {
+      "en": "Paldo",
+      "ar": "بالدو"
+    },
+    "original_value": "Paldo"
+  },
+  {
+    "id": "pam",
+    "name": {
+      "en": "PAM",
+      "ar": "بام"
+    },
+    "original_value": "Pam"
+  },
+  {
+    "id": "pampers",
+    "name": {
+      "en": "Pampers",
+      "ar": "بامبرز"
+    },
+    "original_value": "Pampers"
+  },
+  {
+    "id": "panko",
+    "name": {
+      "en": "Panko",
+      "ar": "بانكو"
+    },
+    "original_value": "Panko"
+  },
+  {
+    "id": "panzani",
+    "name": {
+      "en": "Panzani",
+      "ar": "بانزاني"
+    },
+    "original_value": "Panzani"
+  },
+  {
+    "id": "papadopoulos",
+    "name": {
+      "en": "Papadopoulos",
+      "ar": "بابادوبولوس"
+    },
+    "original_value": "Papadopoulos"
+  },
+  {
+    "id": "para-john",
+    "name": {
+      "en": "Para John",
+      "ar": "بارا جون"
+    },
+    "original_value": "Para John"
+  },
+  {
+    "id": "parachute",
+    "name": {
+      "en": "Parachute",
+      "ar": "باراشوت"
+    },
+    "original_value": "Parachute"
+  },
+  {
+    "id": "parajohn",
+    "name": {
+      "en": "Para John",
+      "ar": "بارا جون"
+    },
+    "original_value": "Parajohn"
+  },
+  {
+    "id": "parle",
+    "name": {
+      "en": "Parle",
+      "ar": "بارلي"
+    },
+    "original_value": "Parle"
+  },
+  {
+    "id": "pasta-zara",
+    "name": {
+      "en": "Pasta Zara",
+      "ar": "باستا زارا"
+    },
+    "original_value": "Pasta zara"
+  },
+  {
+    "id": "pato",
+    "name": {
+      "en": "Pato",
+      "ar": "باتو"
+    },
+    "original_value": "Pato"
+  },
+  {
+    "id": "pawise",
+    "name": {
+      "en": "Pawise",
+      "ar": "باوايز"
+    },
+    "original_value": "Pawise"
+  },
+  {
+    "id": "pawta",
+    "name": {
+      "en": "Pawta",
+      "ar": "باوتا"
+    },
+    "original_value": "Pawta"
+  },
+  {
+    "id": "pediasure",
+    "name": {
+      "en": "Pediasure",
+      "ar": "بيدياشور"
+    },
+    "original_value": "Pediasure"
+  },
+  {
+    "id": "pedigree",
+    "name": {
+      "en": "Pedigree",
+      "ar": "بيديجري"
+    },
+    "original_value": "Pedigree"
+  },
+  {
+    "id": "peep",
+    "name": {
+      "en": "Peep",
+      "ar": "بيب"
+    },
+    "original_value": "Peep"
+  },
+  {
+    "id": "penny",
+    "name": {
+      "en": "Penny",
+      "ar": "بيني"
+    },
+    "original_value": "Penny"
+  },
+  {
+    "id": "pepsi",
+    "name": {
+      "en": "Pepsi",
+      "ar": "بيبسي"
+    },
+    "original_value": "Pepsi cola"
+  },
+  {
+    "id": "perrier",
+    "name": {
+      "en": "Perrier",
+      "ar": "بيرييه"
+    },
+    "original_value": "Perrier"
+  },
+  {
+    "id": "persil",
+    "name": {
+      "en": "Persil",
+      "ar": "برسيل"
+    },
+    "original_value": "Persil"
+  },
+  {
+    "id": "petlinks",
+    "name": {
+      "en": "Petlinks",
+      "ar": "بيتلينكس"
+    },
+    "original_value": "Petlinks"
+  },
+  {
+    "id": "petmate",
+    "name": {
+      "en": "Petmate",
+      "ar": "بيتميت"
+    },
+    "original_value": "Petmate"
+  },
+  {
+    "id": "pets-republic",
+    "name": {
+      "en": "Pets Republic",
+      "ar": "بيتس ريبابليك"
+    },
+    "original_value": "Pets Republic"
+  },
+  {
+    "id": "petstages",
+    "name": {
+      "en": "Petstages",
+      "ar": "بيتستيجز"
+    },
+    "original_value": "Petstages"
+  },
+  {
+    "id": "petzone",
+    "name": {
+      "en": "Petzone",
+      "ar": "بيت زون"
+    },
+    "original_value": "Petzone"
+  },
+  {
+    "id": "pez",
+    "name": {
+      "en": "Pez",
+      "ar": "بيز"
+    },
+    "original_value": "Pez"
+  },
+  {
+    "id": "pezzullo",
+    "name": {
+      "en": "Pezzullo",
+      "ar": "بيزولو"
+    },
+    "original_value": "Pezzullo"
+  },
+  {
+    "id": "philadelphia",
+    "name": {
+      "en": "Philadelphia",
+      "ar": "فيلادلفيا"
+    },
+    "original_value": "Philadelphia"
+  },
+  {
+    "id": "picon",
+    "name": {
+      "en": "Picon",
+      "ar": "بيكون"
+    },
+    "original_value": "Picon"
+  },
+  {
+    "id": "pigeon",
+    "name": {
+      "en": "Pigeon",
+      "ar": "بيجون"
+    },
+    "original_value": "Pigeon"
+  },
+  {
+    "id": "pillsbury",
+    "name": {
+      "en": "Pillsbury",
+      "ar": "بيلسبيري"
+    },
+    "original_value": "Pillsbury"
+  },
+  {
+    "id": "pistachino",
+    "name": {
+      "en": "Pistachino",
+      "ar": "بيستاشينو"
+    },
+    "original_value": "Pistachino"
+  },
+  {
+    "id": "plyms",
+    "name": {
+      "en": "Plyms",
+      "ar": "بليمز"
+    },
+    "original_value": "Plyms"
+  },
+  {
+    "id": "pokka",
+    "name": {
+      "en": "Pokka",
+      "ar": "بوكا"
+    },
+    "original_value": "Pokka"
+  },
+  {
+    "id": "poppins",
+    "name": {
+      "en": "Poppins",
+      "ar": "بوبينز"
+    },
+    "original_value": "Poppins"
+  },
+  {
+    "id": "post-it",
+    "name": {
+      "en": "Post-it",
+      "ar": "بوست إت"
+    },
+    "original_value": "Post-it"
+  },
+  {
+    "id": "power-horse",
+    "name": {
+      "en": "Power Horse",
+      "ar": "باور هورس"
+    },
+    "original_value": "Power horse"
+  },
+  {
+    "id": "pran",
+    "name": {
+      "en": "Pran",
+      "ar": "بران"
+    },
+    "original_value": "Pran"
+  },
+  {
+    "id": "prego",
+    "name": {
+      "en": "Prego",
+      "ar": "بريجو"
+    },
+    "original_value": "Prego"
+  },
+  {
+    "id": "premia",
+    "name": {
+      "en": "Premia",
+      "ar": "بريميا"
+    },
+    "original_value": "Premia"
+  },
+  {
+    "id": "president",
+    "name": {
+      "en": "President",
+      "ar": "بريزيدنت"
+    },
+    "original_value": "President"
+  },
+  {
+    "id": "pride",
+    "name": {
+      "en": "Pride",
+      "ar": "برايد"
+    },
+    "original_value": "Pride"
+  },
+  {
+    "id": "primadog",
+    "name": {
+      "en": "PrimaDog",
+      "ar": "بريما دوج"
+    },
+    "original_value": "PrimaDog"
+  },
+  {
+    "id": "primadog",
+    "name": {
+      "en": "PrimaDog",
+      "ar": "بريما دوج"
+    },
+    "original_value": "Primadog"
+  },
+  {
+    "id": "primo",
+    "name": {
+      "en": "Primo",
+      "ar": "بريمو"
+    },
+    "original_value": "Primo"
+  },
+  {
+    "id": "pringles",
+    "name": {
+      "en": "Pringles",
+      "ar": "برينجلز"
+    },
+    "original_value": "Pringles"
+  },
+  {
+    "id": "ppp",
+    "name": {
+      "en": "Professional Pet Products",
+      "ar": "بروفيشينال بيت برودكتس"
+    },
+    "original_value": "Professional Pet Products"
+  },
+  {
+    "id": "progresso",
+    "name": {
+      "en": "Progresso",
+      "ar": "بروجرسو"
+    },
+    "original_value": "Progresso"
+  },
+  {
+    "id": "pronto",
+    "name": {
+      "en": "Pronto",
+      "ar": "برونتو"
+    },
+    "original_value": "Pronto"
+  },
+  {
+    "id": "puck",
+    "name": {
+      "en": "Puck",
+      "ar": "بوك"
+    },
+    "original_value": "Puck"
+  },
+  {
+    "id": "punjab",
+    "name": {
+      "en": "Punjab",
+      "ar": "بنجاب"
+    },
+    "original_value": "Punjab"
+  },
+  {
+    "id": "punjabi-al-muhaidib",
+    "name": {
+      "en": "Punjabi Al Muhaidib",
+      "ar": "بنجابي المهيدب"
+    },
+    "original_value": "Punjabi al muhaidib"
+  },
+  {
+    "id": "pura",
+    "name": {
+      "en": "Pura",
+      "ar": "بيورا"
+    },
+    "original_value": "Pura"
+  },
+  {
+    "id": "pure-life",
+    "name": {
+      "en": "Pure Life",
+      "ar": "بيور لايف"
+    },
+    "original_value": "Pure life"
+  },
+  {
+    "id": "purevet",
+    "name": {
+      "en": "Purevet",
+      "ar": "بيور فيت"
+    },
+    "original_value": "Purevet"
+  },
+  {
+    "id": "purina",
+    "name": {
+      "en": "Purina",
+      "ar": "بورينا"
+    },
+    "original_value": "Purina"
+  },
+  {
+    "id": "purina-pro-plan",
+    "name": {
+      "en": "Purina Pro Plan",
+      "ar": "بورينا برو بلان"
+    },
+    "original_value": "Purina Pro Plan"
+  },
+  {
+    "id": "q",
+    "name": {
+      "en": "Q",
+      "ar": "كيو"
+    },
+    "original_value": "Q"
+  },
+  {
+    "id": "q-v",
+    "name": {
+      "en": "Q&V",
+      "ar": "كيو آند في"
+    },
+    "original_value": "Q&V"
+  },
+  {
+    "id": "quanta",
+    "name": {
+      "en": "Quanta",
+      "ar": "كوانتا"
+    },
+    "original_value": "Quanta"
+  },
+  {
+    "id": "quest",
+    "name": {
+      "en": "Quest",
+      "ar": "كويست"
+    },
+    "original_value": "Quest"
+  },
+  {
+    "id": "qunxing",
+    "name": {
+      "en": "Qunxing",
+      "ar": "كونشينج"
+    },
+    "original_value": "Qunxing"
+  },
+  {
+    "id": "rs",
+    "name": {
+      "en": "R.S",
+      "ar": "آر إس"
+    },
+    "original_value": "R.s"
+  },
+  {
+    "id": "rebune",
+    "name": {
+      "en": "Rebune",
+      "ar": "ريبون"
+    },
+    "original_value": "REBUNE"
+  },
+  {
+    "id": "relish",
+    "name": {
+      "en": "Relish",
+      "ar": "ريليش"
+    },
+    "original_value": "RElish"
+  },
+  {
+    "id": "rabea-tea",
+    "name": {
+      "en": "Rabea Tea",
+      "ar": "شاي ربيع"
+    },
+    "original_value": "Rabea Tea"
+  },
+  {
+    "id": "rachels",
+    "name": {
+      "en": "Rachel's",
+      "ar": "ريتشلز"
+    },
+    "original_value": "Rachel's"
+  },
+  {
+    "id": "radwa",
+    "name": {
+      "en": "Radwa",
+      "ar": "رضوى"
+    },
+    "original_value": "Radwa"
+  },
+  {
+    "id": "ragu",
+    "name": {
+      "en": "Ragu",
+      "ar": "راجو"
+    },
+    "original_value": "Ragu"
+  },
+  {
+    "id": "rahal",
+    "name": {
+      "en": "Rahal",
+      "ar": "رحال"
+    },
+    "original_value": "Rahal"
+  },
+  {
+    "id": "rahima",
+    "name": {
+      "en": "Rahima",
+      "ar": "رحيمة"
+    },
+    "original_value": "Rahima"
+  },
+  {
+    "id": "rahma",
+    "name": {
+      "en": "Rahma",
+      "ar": "رحمة"
+    },
+    "original_value": "Rahma"
+  },
+  {
+    "id": "rainbow",
+    "name": {
+      "en": "Rainbow",
+      "ar": "رينبو"
+    },
+    "original_value": "Rainbow"
+  },
+  {
+    "id": "raji",
+    "name": {
+      "en": "Raji",
+      "ar": "راجي"
+    },
+    "original_value": "Raji"
+  },
+  {
+    "id": "rally",
+    "name": {
+      "en": "Rally",
+      "ar": "رالي"
+    },
+    "original_value": "Rally"
+  },
+  {
+    "id": "rani",
+    "name": {
+      "en": "Rani",
+      "ar": "راني"
+    },
+    "original_value": "Rani"
+  },
+  {
+    "id": "rauch",
+    "name": {
+      "en": "Rauch",
+      "ar": "راوخ"
+    },
+    "original_value": "Rauch"
+  },
+  {
+    "id": "rawaa",
+    "name": {
+      "en": "Rawaa",
+      "ar": "روعة"
+    },
+    "original_value": "Rawaa"
+  },
+  {
+    "id": "rayners",
+    "name": {
+      "en": "Rayner's",
+      "ar": "رينرز"
+    },
+    "original_value": "Rayner's"
+  },
+  {
+    "id": "raz",
+    "name": {
+      "en": "Raz",
+      "ar": "راز"
+    },
+    "original_value": "Raz"
+  },
+  {
+    "id": "rebune",
+    "name": {
+      "en": "Rebune",
+      "ar": "ريبون"
+    },
+    "original_value": "Rebune"
+  },
+  {
+    "id": "red",
+    "name": {
+      "en": "Red",
+      "ar": "ريد"
+    },
+    "original_value": "Red"
+  },
+  {
+    "id": "red-band",
+    "name": {
+      "en": "Red Band",
+      "ar": "ريد باند"
+    },
+    "original_value": "Red Band"
+  },
+  {
+    "id": "red-bull",
+    "name": {
+      "en": "Red Bull",
+      "ar": "ريد بول"
+    },
+    "original_value": "Red bull"
+  },
+  {
+    "id": "red-rooster",
+    "name": {
+      "en": "Red Rooster",
+      "ar": "ريد روستر"
+    },
+    "original_value": "Red rooster"
+  },
+  {
+    "id": "reem",
+    "name": {
+      "en": "Reem",
+      "ar": "ريم"
+    },
+    "original_value": "Reem"
+  },
+  {
+    "id": "reeses",
+    "name": {
+      "en": "Reese's",
+      "ar": "ريزيز"
+    },
+    "original_value": "Reese's"
+  },
+  {
+    "id": "refura",
+    "name": {
+      "en": "Refura",
+      "ar": "رفيورا"
+    },
+    "original_value": "Refura"
+  },
+  {
+    "id": "regal",
+    "name": {
+      "en": "Regal",
+      "ar": "ريجال"
+    },
+    "original_value": "Regal"
+  },
+  {
+    "id": "relish",
+    "name": {
+      "en": "Relish",
+      "ar": "ريليش"
+    },
+    "original_value": "Relish"
+  },
+  {
+    "id": "rio-mare",
+    "name": {
+      "en": "Rio Mare",
+      "ar": "ريو ماري"
+    },
+    "original_value": "Rio mare"
+  },
+  {
+    "id": "riso-scotti",
+    "name": {
+      "en": "Riso Scotti",
+      "ar": "ريزو سكوتي"
+    },
+    "original_value": "Riso Scotti"
+  },
+  {
+    "id": "riso-scotti",
+    "name": {
+      "en": "Riso Scotti",
+      "ar": "ريزو سكوتي"
+    },
+    "original_value": "Riso scotti"
+  },
+  {
+    "id": "rita",
+    "name": {
+      "en": "Rita",
+      "ar": "ريتا"
+    },
+    "original_value": "Rita"
+  },
+  {
+    "id": "ritter-sport",
+    "name": {
+      "en": "Ritter Sport",
+      "ar": "ريتر سبورت"
+    },
+    "original_value": "Ritter sport"
+  },
+  {
+    "id": "ritz",
+    "name": {
+      "en": "Ritz",
+      "ar": "ريتز"
+    },
+    "original_value": "Ritz"
+  },
+  {
+    "id": "riyadh-food",
+    "name": {
+      "en": "Riyadh Food",
+      "ar": "أغذية الرياض"
+    },
+    "original_value": "Riyadh Food"
+  },
+  {
+    "id": "riyadh-food",
+    "name": {
+      "en": "Riyadh Food",
+      "ar": "أغذية الرياض"
+    },
+    "original_value": "Riyadh food"
+  },
+  {
+    "id": "rkg",
+    "name": {
+      "en": "RKG",
+      "ar": "آر كي جي"
+    },
+    "original_value": "Rkg"
+  },
+  {
+    "id": "robert",
+    "name": {
+      "en": "Robert",
+      "ar": "روبرت"
+    },
+    "original_value": "Robert"
+  },
+  {
+    "id": "robinsons",
+    "name": {
+      "en": "Robinsons",
+      "ar": "روبنسونز"
+    },
+    "original_value": "Robinsons"
+  },
+  {
+    "id": "rocher",
+    "name": {
+      "en": "Rocher",
+      "ar": "روشيه"
+    },
+    "original_value": "Rocher"
+  },
+  {
+    "id": "rockstar",
+    "name": {
+      "en": "Rockstar",
+      "ar": "روك ستار"
+    },
+    "original_value": "Rockstar"
+  },
+  {
+    "id": "roco",
+    "name": {
+      "en": "Roco",
+      "ar": "روكو"
+    },
+    "original_value": "Roco"
+  },
+  {
+    "id": "rolly-toys",
+    "name": {
+      "en": "Rolly Toys",
+      "ar": "رولي تويز"
+    },
+    "original_value": "Rolly Toys"
+  },
+  {
+    "id": "rosewood",
+    "name": {
+      "en": "Rosewood",
+      "ar": "روز وود"
+    },
+    "original_value": "Rosewood"
+  },
+  {
+    "id": "royal-canin",
+    "name": {
+      "en": "Royal Canin",
+      "ar": "رويال كانين"
+    },
+    "original_value": "Royal Canin"
+  },
+  {
+    "id": "royal-pet",
+    "name": {
+      "en": "Royal Pet",
+      "ar": "رويال بيت"
+    },
+    "original_value": "Royal Pet"
+  },
+  {
+    "id": "royal-club",
+    "name": {
+      "en": "Royal Club",
+      "ar": "رويال كلوب"
+    },
+    "original_value": "Royal club"
+  },
+  {
+    "id": "royal-umbrella",
+    "name": {
+      "en": "Royal Umbrella",
+      "ar": "رويال أمبريلا"
+    },
+    "original_value": "Royal umbrella"
+  },
+  {
+    "id": "royalford",
+    "name": {
+      "en": "Royalford",
+      "ar": "رويال فورد"
+    },
+    "original_value": "Royalford"
+  },
+  {
+    "id": "royalist",
+    "name": {
+      "en": "Royalist",
+      "ar": "روياليست"
+    },
+    "original_value": "Royalist"
+  },
+  {
+    "id": "rubicon",
+    "name": {
+      "en": "Rubicon",
+      "ar": "روبيكون"
+    },
+    "original_value": "Rubicon"
+  },
+  {
+    "id": "rude-health",
+    "name": {
+      "en": "Rude Health",
+      "ar": "رود هيلث"
+    },
+    "original_value": "Rude Health"
+  },
+  {
+    "id": "ryvita",
+    "name": {
+      "en": "Ryvita",
+      "ar": "ريفايتا"
+    },
+    "original_value": "Ryvita"
+  },
+  {
+    "id": "s-cook",
+    "name": {
+      "en": "S/Cook",
+      "ar": "إس كوك"
+    },
+    "original_value": "S/cook"
+  },
+  {
+    "id": "safi-wax",
+    "name": {
+      "en": "Safi Wax",
+      "ar": "صافي واكس"
+    },
+    "original_value": "SAFI WAX"
+  },
+  {
+    "id": "samyang",
+    "name": {
+      "en": "Samyang",
+      "ar": "ساميانج"
+    },
+    "original_value": "SAMYANG"
+  },
+  {
+    "id": "sempio",
+    "name": {
+      "en": "Sempio",
+      "ar": "سيمبيو"
+    },
+    "original_value": "SEMPIO"
+  },
+  {
+    "id": "smy",
+    "name": {
+      "en": "SMY",
+      "ar": "إس إم واي"
+    },
+    "original_value": "SMY"
+  },
+  {
+    "id": "sonax",
+    "name": {
+      "en": "Sonax",
+      "ar": "سوناكس"
+    },
+    "original_value": "SONAX"
+  },
+  {
+    "id": "sriracha",
+    "name": {
+      "en": "Sriracha",
+      "ar": "سريراتشا"
+    },
+    "original_value": "SRIRACHA"
+  },
+  {
+    "id": "storck",
+    "name": {
+      "en": "Storck",
+      "ar": "ستورك"
+    },
+    "original_value": "STORCK:EUKA MENTHOL"
+  },
+  {
+    "id": "sword-pro",
+    "name": {
+      "en": "Sword Pro",
+      "ar": "سورد برو"
+    },
+    "original_value": "SWORD PRO"
+  },
+  {
+    "id": "sabah",
+    "name": {
+      "en": "Sabah",
+      "ar": "صباح"
+    },
+    "original_value": "Sabah"
+  },
+  {
+    "id": "sacla",
+    "name": {
+      "en": "Sacla",
+      "ar": "ساكلا"
+    },
+    "original_value": "Sacla"
+  },
+  {
+    "id": "sadia",
+    "name": {
+      "en": "Sadia",
+      "ar": "ساديا"
+    },
+    "original_value": "Sadia"
+  },
+  {
+    "id": "saf-levure",
+    "name": {
+      "en": "Saf-levure",
+      "ar": "ساف ليفيور"
+    },
+    "original_value": "Saf-levure"
+  },
+  {
+    "id": "safa",
+    "name": {
+      "en": "Safa",
+      "ar": "صفا"
+    },
+    "original_value": "Safa"
+  },
+  {
+    "id": "safari",
+    "name": {
+      "en": "Safari",
+      "ar": "سفاري"
+    },
+    "original_value": "Safari"
+  },
+  {
+    "id": "safi",
+    "name": {
+      "en": "Safi",
+      "ar": "صافي"
+    },
+    "original_value": "Safi"
+  },
+  {
+    "id": "saha",
+    "name": {
+      "en": "Saha",
+      "ar": "صحة"
+    },
+    "original_value": "Saha"
+  },
+  {
+    "id": "saida",
+    "name": {
+      "en": "Saida",
+      "ar": "صيدا"
+    },
+    "original_value": "Saida"
+  },
+  {
+    "id": "saitaku",
+    "name": {
+      "en": "Saitaku",
+      "ar": "سايتاكو"
+    },
+    "original_value": "Saitaku"
+  },
+  {
+    "id": "san-benedetto",
+    "name": {
+      "en": "San Benedetto",
+      "ar": "سان بينيديتو"
+    },
+    "original_value": "San benedetto"
+  },
+  {
+    "id": "san-pellegrino",
+    "name": {
+      "en": "San Pellegrino",
+      "ar": "سان بيليغرينو"
+    },
+    "original_value": "San pellegrino"
+  },
+  {
+    "id": "sanford",
+    "name": {
+      "en": "Sanford",
+      "ar": "سانفورد"
+    },
+    "original_value": "Sanford"
+  },
+  {
+    "id": "sanicat",
+    "name": {
+      "en": "Sanicat",
+      "ar": "سانيكات"
+    },
+    "original_value": "Sanicat"
+  },
+  {
+    "id": "sanrio",
+    "name": {
+      "en": "Sanrio",
+      "ar": "سانريو"
+    },
+    "original_value": "Sanrio"
+  },
+  {
+    "id": "sary",
+    "name": {
+      "en": "Sary",
+      "ar": "ساري"
+    },
+    "original_value": "Sary"
+  },
+  {
+    "id": "sasa",
+    "name": {
+      "en": "Sasa",
+      "ar": "ساسا"
+    },
+    "original_value": "Sasa"
+  },
+  {
+    "id": "sasi",
+    "name": {
+      "en": "Sasi",
+      "ar": "ساسي"
+    },
+    "original_value": "Sasi"
+  },
+  {
+    "id": "sassi",
+    "name": {
+      "en": "Sassi",
+      "ar": "ساسي"
+    },
+    "original_value": "Sassi"
+  },
+  {
+    "id": "sasso",
+    "name": {
+      "en": "Sasso",
+      "ar": "ساسو"
+    },
+    "original_value": "Sasso"
+  },
+  {
+    "id": "saudia",
+    "name": {
+      "en": "Saudia",
+      "ar": "السعودية"
+    },
+    "original_value": "Saudi Arabia"
+  },
+  {
+    "id": "saudia",
+    "name": {
+      "en": "Saudia",
+      "ar": "السعودية"
+    },
+    "original_value": "Saudia"
+  },
+  {
+    "id": "schwartz",
+    "name": {
+      "en": "Schwartz",
+      "ar": "شوارتز"
+    },
+    "original_value": "Schwartz"
+  },
+  {
+    "id": "schweppes",
+    "name": {
+      "en": "Schweppes",
+      "ar": "شويبس"
+    },
+    "original_value": "Schweppes"
+  },
+  {
+    "id": "scratch-wax",
+    "name": {
+      "en": "Scratch Wax",
+      "ar": "سكراتش واكس"
+    },
+    "original_value": "Scratch Wax"
+  },
+  {
+    "id": "seara",
+    "name": {
+      "en": "Seara",
+      "ar": "سيارا"
+    },
+    "original_value": "Seara"
+  },
+  {
+    "id": "seeberger",
+    "name": {
+      "en": "Seeberger",
+      "ar": "سيبرجر"
+    },
+    "original_value": "Seeberger"
+  },
+  {
+    "id": "septona",
+    "name": {
+      "en": "Septona",
+      "ar": "سيبتونا"
+    },
+    "original_value": "Septona Daily Clean Cotton Chamomile 70 Pads"
+  },
+  {
+    "id": "shahea",
+    "name": {
+      "en": "Shahea",
+      "ar": "شاهيه"
+    },
+    "original_value": "Shahea"
+  },
+  {
+    "id": "shami",
+    "name": {
+      "en": "Shami",
+      "ar": "شامي"
+    },
+    "original_value": "Shami"
+  },
+  {
+    "id": "shams",
+    "name": {
+      "en": "Shams",
+      "ar": "شمس"
+    },
+    "original_value": "Shams"
+  },
+  {
+    "id": "shan",
+    "name": {
+      "en": "Shan",
+      "ar": "شان"
+    },
+    "original_value": "Shan"
+  },
+  {
+    "id": "shani",
+    "name": {
+      "en": "Shani",
+      "ar": "شاني"
+    },
+    "original_value": "Shani"
+  },
+  {
+    "id": "sharwoods",
+    "name": {
+      "en": "Sharwood's",
+      "ar": "شاروودز"
+    },
+    "original_value": "Sharwoods"
+  },
+  {
+    "id": "sheba",
+    "name": {
+      "en": "Sheba",
+      "ar": "شيبا"
+    },
+    "original_value": "Sheba"
+  },
+  {
+    "id": "sherpa",
+    "name": {
+      "en": "Sherpa",
+      "ar": "شيربا"
+    },
+    "original_value": "Sherpa"
+  },
+  {
+    "id": "signature-7",
+    "name": {
+      "en": "Signature 7",
+      "ar": "سيجنتشر 7"
+    },
+    "original_value": "Signature 7"
+  },
+  {
+    "id": "simba",
+    "name": {
+      "en": "Simba",
+      "ar": "سيمبا"
+    },
+    "original_value": "Simba"
+  },
+  {
+    "id": "similac",
+    "name": {
+      "en": "Similac",
+      "ar": "سيميلاك"
+    },
+    "original_value": "Similac"
+  },
+  {
+    "id": "simply-7",
+    "name": {
+      "en": "Simply 7",
+      "ar": "سيمبلي 7"
+    },
+    "original_value": "Simply 7"
+  },
+  {
+    "id": "siniora",
+    "name": {
+      "en": "Siniora",
+      "ar": "سنيورة"
+    },
+    "original_value": "Siniora"
+  },
+  {
+    "id": "sipa",
+    "name": {
+      "en": "Sipa",
+      "ar": "سيبا"
+    },
+    "original_value": "Sipa"
+  },
+  {
+    "id": "sis",
+    "name": {
+      "en": "SIS",
+      "ar": "إس آي إس"
+    },
+    "original_value": "Sis"
+  },
+  {
+    "id": "sizzle",
+    "name": {
+      "en": "Sizzle",
+      "ar": "سيزل"
+    },
+    "original_value": "Sizzle"
+  },
+  {
+    "id": "skip-hop",
+    "name": {
+      "en": "Skip Hop",
+      "ar": "سكيب هوب"
+    },
+    "original_value": "Skip Hop"
+  },
+  {
+    "id": "skittles",
+    "name": {
+      "en": "Skittles",
+      "ar": "سكيتلز"
+    },
+    "original_value": "Skittles"
+  },
+  {
+    "id": "smarties",
+    "name": {
+      "en": "Smarties",
+      "ar": "سمارتيز"
+    },
+    "original_value": "Smarties"
+  },
+  {
+    "id": "smartykat",
+    "name": {
+      "en": "SmartyKat",
+      "ar": "سمارتي كات"
+    },
+    "original_value": "SmartyKat"
+  },
+  {
+    "id": "smuckers",
+    "name": {
+      "en": "Smucker's",
+      "ar": "سمكرز"
+    },
+    "original_value": "Smuckers"
+  },
+  {
+    "id": "snapple",
+    "name": {
+      "en": "Snapple",
+      "ar": "سنابل"
+    },
+    "original_value": "Snapple"
+  },
+  {
+    "id": "snickers",
+    "name": {
+      "en": "Snickers",
+      "ar": "سنيكرز"
+    },
+    "original_value": "Snickers"
+  },
+  {
+    "id": "solen",
+    "name": {
+      "en": "Solen",
+      "ar": "سولين"
+    },
+    "original_value": "Solen"
+  },
+  {
+    "id": "solid-gold",
+    "name": {
+      "en": "Solid Gold",
+      "ar": "سوليد جولد"
+    },
+    "original_value": "Solid Gold"
+  },
+  {
+    "id": "somagic",
+    "name": {
+      "en": "Somagic",
+      "ar": "سوماجيك"
+    },
+    "original_value": "Somagic"
+  },
+  {
+    "id": "sonic",
+    "name": {
+      "en": "Sonic",
+      "ar": "سونيك"
+    },
+    "original_value": "Sonic"
+  },
+  {
+    "id": "souroti",
+    "name": {
+      "en": "Souroti",
+      "ar": "سوروتي"
+    },
+    "original_value": "Souroti"
+  },
+  {
+    "id": "space-car",
+    "name": {
+      "en": "Space Car",
+      "ar": "سبيس كار"
+    },
+    "original_value": "Space Car"
+  },
+  {
+    "id": "spider",
+    "name": {
+      "en": "Spider",
+      "ar": "سبايدر"
+    },
+    "original_value": "Spider"
+  },
+  {
+    "id": "spider-plus",
+    "name": {
+      "en": "Spider Plus",
+      "ar": "سبايدر بلس"
+    },
+    "original_value": "Spider Plus"
+  },
+  {
+    "id": "spiderman",
+    "name": {
+      "en": "Spiderman",
+      "ar": "سبايدر مان"
+    },
+    "original_value": "Spiderman"
+  },
+  {
+    "id": "spotty",
+    "name": {
+      "en": "Spotty",
+      "ar": "سبوتي"
+    },
+    "original_value": "Spotty"
+  },
+  {
+    "id": "spring-bouquet",
+    "name": {
+      "en": "Spring Bouquet",
+      "ar": "سبرينج بوكيه"
+    },
+    "original_value": "Spring Bouquet"
+  },
+  {
+    "id": "sprite",
+    "name": {
+      "en": "Sprite",
+      "ar": "سبرايت"
+    },
+    "original_value": "Sprite"
+  },
+  {
+    "id": "st-dalfour",
+    "name": {
+      "en": "St. Dalfour",
+      "ar": "سان دالفور"
+    },
+    "original_value": "St dalfour"
+  },
+  {
+    "id": "star",
+    "name": {
+      "en": "Star",
+      "ar": "ستار"
+    },
+    "original_value": "Star"
+  },
+  {
+    "id": "starbucks",
+    "name": {
+      "en": "Starbucks",
+      "ar": "ستاربكس"
+    },
+    "original_value": "Starbucks"
+  },
+  {
+    "id": "starburst",
+    "name": {
+      "en": "Starburst",
+      "ar": "ستار برست"
+    },
+    "original_value": "Starburst"
+  },
+  {
+    "id": "stargold",
+    "name": {
+      "en": "Stargold",
+      "ar": "ستار جولد"
+    },
+    "original_value": "Stargold"
+  },
+  {
+    "id": "starlife",
+    "name": {
+      "en": "Starlife",
+      "ar": "ستار لايف"
+    },
+    "original_value": "Starlife"
+  },
+  {
+    "id": "stefanplast",
+    "name": {
+      "en": "Stefanplast",
+      "ar": "ستيفان بلاست"
+    },
+    "original_value": "Stefanplast"
+  },
+  {
+    "id": "stevia",
+    "name": {
+      "en": "Stevia",
+      "ar": "ستيفيا"
+    },
+    "original_value": "Stevia"
+  },
+  {
+    "id": "steviana",
+    "name": {
+      "en": "Steviana",
+      "ar": "ستيفيانا"
+    },
+    "original_value": "Steviana"
+  },
+  {
+    "id": "sting",
+    "name": {
+      "en": "Sting",
+      "ar": "ستينج"
+    },
+    "original_value": "Sting"
+  },
+  {
+    "id": "storck",
+    "name": {
+      "en": "Storck",
+      "ar": "ستورك"
+    },
+    "original_value": "Storck"
+  },
+  {
+    "id": "stp",
+    "name": {
+      "en": "STP",
+      "ar": "إس تي بي"
+    },
+    "original_value": "Stp"
+  },
+  {
+    "id": "stream",
+    "name": {
+      "en": "Stream",
+      "ar": "ستريم"
+    },
+    "original_value": "Stream"
+  },
+  {
+    "id": "sun-cola",
+    "name": {
+      "en": "Sun Cola",
+      "ar": "سن كولا"
+    },
+    "original_value": "Sun cola"
+  },
+  {
+    "id": "sunbites",
+    "name": {
+      "en": "Sunbites",
+      "ar": "صن بايتس"
+    },
+    "original_value": "Sunbites"
+  },
+  {
+    "id": "sunblast",
+    "name": {
+      "en": "Sunblast",
+      "ar": "سن بلاست"
+    },
+    "original_value": "Sunblast"
+  },
+  {
+    "id": "sunbulah",
+    "name": {
+      "en": "Sunbulah",
+      "ar": "السنبلة"
+    },
+    "original_value": "Sunbulah"
+  },
+  {
+    "id": "sunny",
+    "name": {
+      "en": "Sunny",
+      "ar": "صني"
+    },
+    "original_value": "Sunny"
+  },
+  {
+    "id": "suntop",
+    "name": {
+      "en": "Suntop",
+      "ar": "سن توب"
+    },
+    "original_value": "Suntop"
+  },
+  {
+    "id": "sunveno",
+    "name": {
+      "en": "Sunveno",
+      "ar": "سانفينو"
+    },
+    "original_value": "Sunveno"
+  },
+  {
+    "id": "sunwhite",
+    "name": {
+      "en": "Sunwhite",
+      "ar": "صن وايت"
+    },
+    "original_value": "Sunwhite"
+  },
+  {
+    "id": "suoer",
+    "name": {
+      "en": "Suoer",
+      "ar": "سوير"
+    },
+    "original_value": "Suoer"
+  },
+  {
+    "id": "super-tasty",
+    "name": {
+      "en": "Super Tasty",
+      "ar": "سوبر تيستي"
+    },
+    "original_value": "Super Tasty"
+  },
+  {
+    "id": "superman",
+    "name": {
+      "en": "Superman",
+      "ar": "سوبرمان"
+    },
+    "original_value": "Superman"
+  },
+  {
+    "id": "switz",
+    "name": {
+      "en": "Switz",
+      "ar": "سويتز"
+    },
+    "original_value": "Switz"
+  },
+  {
+    "id": "sword-pro",
+    "name": {
+      "en": "Sword Pro",
+      "ar": "سورد برو"
+    },
+    "original_value": "Sword Pro"
+  },
+  {
+    "id": "t-time",
+    "name": {
+      "en": "T-Time",
+      "ar": "تي تايم"
+    },
+    "original_value": "T-time"
+  },
+  {
+    "id": "tim",
+    "name": {
+      "en": "TIM",
+      "ar": "تيم"
+    },
+    "original_value": "TIM"
+  },
+  {
+    "id": "titanio",
+    "name": {
+      "en": "Titanio",
+      "ar": "تيتانيو"
+    },
+    "original_value": "TITANIO"
+  },
+  {
+    "id": "tutti-frutti",
+    "name": {
+      "en": "Tutti Frutti",
+      "ar": "توتي فروتي"
+    },
+    "original_value": "TUTTI FRUTTI"
+  },
+  {
+    "id": "tabasco",
+    "name": {
+      "en": "Tabasco",
+      "ar": "تاباسكو"
+    },
+    "original_value": "Tabasco"
+  },
+  {
+    "id": "taj-mahal",
+    "name": {
+      "en": "Taj Mahal",
+      "ar": "تاج محل"
+    },
+    "original_value": "Taj mahal"
+  },
+  {
+    "id": "tamam",
+    "name": {
+      "en": "Tamam",
+      "ar": "تمام"
+    },
+    "original_value": "Tamam"
+  },
+  {
+    "id": "tamrita",
+    "name": {
+      "en": "Tamrita",
+      "ar": "تمره"
+    },
+    "original_value": "Tamrita"
+  },
+  {
+    "id": "tanay",
+    "name": {
+      "en": "Tanay",
+      "ar": "تاناي"
+    },
+    "original_value": "Tanay"
+  },
+  {
+    "id": "tang",
+    "name": {
+      "en": "Tang",
+      "ar": "تانج"
+    },
+    "original_value": "Tang"
+  },
+  {
+    "id": "tango",
+    "name": {
+      "en": "Tango",
+      "ar": "تانجو"
+    },
+    "original_value": "Tango"
+  },
+  {
+    "id": "tania",
+    "name": {
+      "en": "Tania",
+      "ar": "تانيا"
+    },
+    "original_value": "Tania"
+  },
+  {
+    "id": "tanmiah",
+    "name": {
+      "en": "Tanmiah",
+      "ar": "تنمية"
+    },
+    "original_value": "Tanmiah"
+  },
+  {
+    "id": "tapal",
+    "name": {
+      "en": "Tapal",
+      "ar": "تابال"
+    },
+    "original_value": "Tapal"
+  },
+  {
+    "id": "target",
+    "name": {
+      "en": "Target",
+      "ar": "تارجت"
+    },
+    "original_value": "Target"
+  },
+  {
+    "id": "tarhong",
+    "name": {
+      "en": "Tarhong",
+      "ar": "تارهونج"
+    },
+    "original_value": "Tarhong"
+  },
+  {
+    "id": "tasali",
+    "name": {
+      "en": "Tasali",
+      "ar": "تسالي"
+    },
+    "original_value": "Tasali"
+  },
+  {
+    "id": "taste-of-nature",
+    "name": {
+      "en": "Taste Of Nature",
+      "ar": "تيست أوف نيتشر"
+    },
+    "original_value": "Taste Of Nature"
+  },
+  {
+    "id": "tawa",
+    "name": {
+      "en": "Tawa",
+      "ar": "توا"
+    },
+    "original_value": "Tawa"
+  },
+  {
+    "id": "taylors",
+    "name": {
+      "en": "Taylor's",
+      "ar": "تايلورز"
+    },
+    "original_value": "Taylor's"
+  },
+  {
+    "id": "tchibo",
+    "name": {
+      "en": "Tchibo",
+      "ar": "تشيبو"
+    },
+    "original_value": "Tchibo"
+  },
+  {
+    "id": "tea-break",
+    "name": {
+      "en": "Tea Break",
+      "ar": "تي بريك"
+    },
+    "original_value": "Tea Break"
+  },
+  {
+    "id": "tea-republic",
+    "name": {
+      "en": "Tea Republic",
+      "ar": "جمهورية الشاي"
+    },
+    "original_value": "Tea Republic"
+  },
+  {
+    "id": "teashop",
+    "name": {
+      "en": "Teashop",
+      "ar": "تي شوب"
+    },
+    "original_value": "Teashop"
+  },
+  {
+    "id": "tek",
+    "name": {
+      "en": "Tek",
+      "ar": "تيك"
+    },
+    "original_value": "Tek"
+  },
+  {
+    "id": "thai-heritage",
+    "name": {
+      "en": "Thai Heritage",
+      "ar": "تاي هيريتيج"
+    },
+    "original_value": "Thai heritage"
+  },
+  {
+    "id": "the-berry-company",
+    "name": {
+      "en": "The Berry Company",
+      "ar": "ذا بيري كومباني"
+    },
+    "original_value": "The Berry Company"
+  },
+  {
+    "id": "the-three-cows",
+    "name": {
+      "en": "The Three Cows",
+      "ar": "البقرات الثلاث"
+    },
+    "original_value": "The three cows"
+  },
+  {
+    "id": "thomas",
+    "name": {
+      "en": "Thomas",
+      "ar": "توماس"
+    },
+    "original_value": "Thomas"
+  },
+  {
+    "id": "tic-tac",
+    "name": {
+      "en": "Tic Tac",
+      "ar": "تيك تاك"
+    },
+    "original_value": "Tic tac"
+  },
+  {
+    "id": "tidy-cats",
+    "name": {
+      "en": "Tidy Cats",
+      "ar": "تايدي كاتس"
+    },
+    "original_value": "Tidy Cats"
+  },
+  {
+    "id": "tidy-cats",
+    "name": {
+      "en": "Tidy Cats",
+      "ar": "تايدي كاتس"
+    },
+    "original_value": "Tidy cats"
+  },
+  {
+    "id": "tiffany",
+    "name": {
+      "en": "Tiffany",
+      "ar": "تيفاني"
+    },
+    "original_value": "Tiffany"
+  },
+  {
+    "id": "tilda",
+    "name": {
+      "en": "Tilda",
+      "ar": "تيلدا"
+    },
+    "original_value": "Tilda"
+  },
+  {
+    "id": "time",
+    "name": {
+      "en": "Time",
+      "ar": "تايم"
+    },
+    "original_value": "Time"
+  },
+  {
+    "id": "toblerone",
+    "name": {
+      "en": "Toblerone",
+      "ar": "توبليرون"
+    },
+    "original_value": "Toblerone"
+  },
+  {
+    "id": "todays",
+    "name": {
+      "en": "Today's",
+      "ar": "تودايز"
+    },
+    "original_value": "Today's"
+  },
+  {
+    "id": "toffifee",
+    "name": {
+      "en": "Toffifee",
+      "ar": "توفي في"
+    },
+    "original_value": "Toffifee"
+  },
+  {
+    "id": "tola",
+    "name": {
+      "en": "Tola",
+      "ar": "تولا"
+    },
+    "original_value": "Tola"
+  },
+  {
+    "id": "tom-and-jerry",
+    "name": {
+      "en": "Tom & Jerry",
+      "ar": "توم آند جيري"
+    },
+    "original_value": "Tom & Jerry"
+  },
+  {
+    "id": "tom-cruiser",
+    "name": {
+      "en": "Tom Cruiser",
+      "ar": "توم كروزر"
+    },
+    "original_value": "TomCruiser"
+  },
+  {
+    "id": "tonno-mare",
+    "name": {
+      "en": "Tonno Mare",
+      "ar": "تونو ماري"
+    },
+    "original_value": "Tonno Mare"
+  },
+  {
+    "id": "tonys",
+    "name": {
+      "en": "Tony's",
+      "ar": "تونيز"
+    },
+    "original_value": "Tony's"
+  },
+  {
+    "id": "toren",
+    "name": {
+      "en": "Toren",
+      "ar": "تورين"
+    },
+    "original_value": "Toren"
+  },
+  {
+    "id": "total",
+    "name": {
+      "en": "Total",
+      "ar": "توتال"
+    },
+    "original_value": "Total"
+  },
+  {
+    "id": "towty",
+    "name": {
+      "en": "Towty",
+      "ar": "توتي"
+    },
+    "original_value": "Towty"
+  },
+  {
+    "id": "toya",
+    "name": {
+      "en": "Toya",
+      "ar": "تويا"
+    },
+    "original_value": "Toya"
+  },
+  {
+    "id": "toyota",
+    "name": {
+      "en": "Toyota",
+      "ar": "تويوتا"
+    },
+    "original_value": "Toyota"
+  },
+  {
+    "id": "toys-n-smile",
+    "name": {
+      "en": "Toys N Smile",
+      "ar": "تويز إن سمايل"
+    },
+    "original_value": "Toys N Smile"
+  },
+  {
+    "id": "track",
+    "name": {
+      "en": "Track",
+      "ar": "تراك"
+    },
+    "original_value": "Track"
+  },
+  {
+    "id": "travelwize",
+    "name": {
+      "en": "Travelwize",
+      "ar": "ترافل وايز"
+    },
+    "original_value": "Travelwize"
+  },
+  {
+    "id": "treva",
+    "name": {
+      "en": "Treva",
+      "ar": "تريفا"
+    },
+    "original_value": "Treva"
+  },
+  {
+    "id": "trixie",
+    "name": {
+      "en": "Trixie",
+      "ar": "تريكسي"
+    },
+    "original_value": "Trixie"
+  },
+  {
+    "id": "trolli",
+    "name": {
+      "en": "Trolli",
+      "ar": "ترولي"
+    },
+    "original_value": "Trolli"
+  },
+  {
+    "id": "tropicana-slim",
+    "name": {
+      "en": "Tropicana Slim",
+      "ar": "تروبيكانا سلم"
+    },
+    "original_value": "Tropicana Slim"
+  },
+  {
+    "id": "tropicana-slim",
+    "name": {
+      "en": "Tropicana Slim",
+      "ar": "تروبيكانا سلم"
+    },
+    "original_value": "Tropicana slim"
+  },
+  {
+    "id": "tuff-stuff",
+    "name": {
+      "en": "Tuff Stuff",
+      "ar": "تاف ستاف"
+    },
+    "original_value": "Tuff Stuff"
+  },
+  {
+    "id": "turtle",
+    "name": {
+      "en": "Turtle",
+      "ar": "ترتل"
+    },
+    "original_value": "Turtle"
+  },
+  {
+    "id": "turtle-air",
+    "name": {
+      "en": "Turtle Air",
+      "ar": "ترتل إير"
+    },
+    "original_value": "Turtle Air"
+  },
+  {
+    "id": "turtle-wax",
+    "name": {
+      "en": "Turtle Wax",
+      "ar": "ترتل واكس"
+    },
+    "original_value": "Turtle wax"
+  },
+  {
+    "id": "turtle-wax",
+    "name": {
+      "en": "Turtle Wax",
+      "ar": "ترتل واكس"
+    },
+    "original_value": "TurtleWax"
+  },
+  {
+    "id": "twinings",
+    "name": {
+      "en": "Twinings",
+      "ar": "تويننجز"
+    },
+    "original_value": "Twinings"
+  },
+  {
+    "id": "twix",
+    "name": {
+      "en": "Twix",
+      "ar": "تويكس"
+    },
+    "original_value": "Twix"
+  },
+  {
+    "id": "tyrrells",
+    "name": {
+      "en": "Tyrrells",
+      "ar": "تيريلز"
+    },
+    "original_value": "Tyrrells"
+  },
+  {
+    "id": "ufc",
+    "name": {
+      "en": "UFC",
+      "ar": "يو إف سي"
+    },
+    "original_value": "Ufc"
+  },
+  {
+    "id": "ulker",
+    "name": {
+      "en": "Ulker",
+      "ar": "أولكر"
+    },
+    "original_value": "Ulker"
+  },
+  {
+    "id": "unium",
+    "name": {
+      "en": "Unium",
+      "ar": "يونيوم"
+    },
+    "original_value": "Unium"
+  },
+  {
+    "id": "universal",
+    "name": {
+      "en": "Universal",
+      "ar": "يونيفيرسال"
+    },
+    "original_value": "Universal"
+  },
+  {
+    "id": "uno",
+    "name": {
+      "en": "Uno",
+      "ar": "أونو"
+    },
+    "original_value": "Uno"
+  },
+  {
+    "id": "uno",
+    "name": {
+      "en": "Uno",
+      "ar": "أونو"
+    },
+    "original_value": "Uno - Chicken Stock 20g x24"
+  },
+  {
+    "id": "uno",
+    "name": {
+      "en": "Uno",
+      "ar": "أونو"
+    },
+    "original_value": "Uno Chicken Stock - 2 Cubes, Net Weight 18g"
+  },
+  {
+    "id": "varvello",
+    "name": {
+      "en": "Varvello",
+      "ar": "فارفيلو"
+    },
+    "original_value": "VARVELLO"
+  },
+  {
+    "id": "vets-best",
+    "name": {
+      "en": "Vet's Best",
+      "ar": "فيتس بيست"
+    },
+    "original_value": "VET'S+BEST"
+  },
+  {
+    "id": "voss",
+    "name": {
+      "en": "Voss",
+      "ar": "فوس"
+    },
+    "original_value": "VOSS"
+  },
+  {
+    "id": "valbreso",
+    "name": {
+      "en": "Valbreso",
+      "ar": "فالبريسو"
+    },
+    "original_value": "Valbreso"
+  },
+  {
+    "id": "valor",
+    "name": {
+      "en": "Valor",
+      "ar": "فالور"
+    },
+    "original_value": "Valor"
+  },
+  {
+    "id": "van-cat",
+    "name": {
+      "en": "Van Cat",
+      "ar": "فان كات"
+    },
+    "original_value": "Van Cat"
+  },
+  {
+    "id": "vanilla",
+    "name": {
+      "en": "Vanilla",
+      "ar": "فانيلا"
+    },
+    "original_value": "Vanilla"
+  },
+  {
+    "id": "vee",
+    "name": {
+      "en": "Vee",
+      "ar": "في"
+    },
+    "original_value": "Vee"
+  },
+  {
+    "id": "verka",
+    "name": {
+      "en": "Verka",
+      "ar": "فيركا"
+    },
+    "original_value": "Verka"
+  },
+  {
+    "id": "vermicelli",
+    "name": {
+      "en": "Vermicelli",
+      "ar": "فيرميسيلي"
+    },
+    "original_value": "Vermiceli"
+  },
+  {
+    "id": "victoria",
+    "name": {
+      "en": "Victoria",
+      "ar": "فيكتوريا"
+    },
+    "original_value": "Victoria"
+  },
+  {
+    "id": "vimto",
+    "name": {
+      "en": "Vimto",
+      "ar": "فيمتو"
+    },
+    "original_value": "Vimto"
+  },
+  {
+    "id": "vip",
+    "name": {
+      "en": "VIP",
+      "ar": "في آي بي"
+    },
+    "original_value": "Vip"
+  },
+  {
+    "id": "viptour",
+    "name": {
+      "en": "Viptour",
+      "ar": "في آي بي تور"
+    },
+    "original_value": "Viptour"
+  },
+  {
+    "id": "vivani",
+    "name": {
+      "en": "Vivani",
+      "ar": "فيفاني"
+    },
+    "original_value": "Vivani"
+  },
+  {
+    "id": "volvic",
+    "name": {
+      "en": "Volvic",
+      "ar": "فولفيك"
+    },
+    "original_value": "Volvic"
+  },
+  {
+    "id": "vqr",
+    "name": {
+      "en": "VQR",
+      "ar": "في كيو آر"
+    },
+    "original_value": "Vqr"
+  },
+  {
+    "id": "wl-foods",
+    "name": {
+      "en": "W.L. Foods",
+      "ar": "دبليو إل فودز"
+    },
+    "original_value": "W.l.foods"
+  },
+  {
+    "id": "wrigleys-airwaves",
+    "name": {
+      "en": "Wrigley's Airwaves",
+      "ar": "ريجليز إيرويفز"
+    },
+    "original_value": "WRIGLEY'S:AIRWAVES"
+  },
+  {
+    "id": "wadan",
+    "name": {
+      "en": "Wadan",
+      "ar": "وادان"
+    },
+    "original_value": "Wadan"
+  },
+  {
+    "id": "wadi-al-nahil",
+    "name": {
+      "en": "Wadi Al Nahil",
+      "ar": "وادي النحل"
+    },
+    "original_value": "Wadi Al Nahil"
+  },
+  {
+    "id": "wadi-al-nahil",
+    "name": {
+      "en": "Wadi Al Nahil",
+      "ar": "وادي النحل"
+    },
+    "original_value": "Wadi al nahil"
+  },
+  {
+    "id": "wadi-fatma",
+    "name": {
+      "en": "Wadi Fatma",
+      "ar": "وادي فاطمة"
+    },
+    "original_value": "Wadi fatma"
+  },
+  {
+    "id": "waff-up",
+    "name": {
+      "en": "Waff Up",
+      "ar": "واف أب"
+    },
+    "original_value": "Wafe up"
+  },
+  {
+    "id": "wagh-bakri",
+    "name": {
+      "en": "Wagh Bakri",
+      "ar": "واغ بكري"
+    },
+    "original_value": "Wagh Bakri"
+  },
+  {
+    "id": "wanted",
+    "name": {
+      "en": "Wanted",
+      "ar": "وانتد"
+    },
+    "original_value": "Wanted"
+  },
+  {
+    "id": "warda",
+    "name": {
+      "en": "Warda",
+      "ar": "وردة"
+    },
+    "original_value": "Warda"
+  },
+  {
+    "id": "warheads",
+    "name": {
+      "en": "Warheads",
+      "ar": "وورهيدز"
+    },
+    "original_value": "Warheads"
+  },
+  {
+    "id": "warner-bros",
+    "name": {
+      "en": "Warner Bros",
+      "ar": "وارنر بروس"
+    },
+    "original_value": "Warner bros"
+  },
+  {
+    "id": "wekome",
+    "name": {
+      "en": "Wekome",
+      "ar": "ويكوم"
+    },
+    "original_value": "Wekome"
+  },
+  {
+    "id": "wellness",
+    "name": {
+      "en": "Wellness",
+      "ar": "ويلنيس"
+    },
+    "original_value": "Wellness"
+  },
+  {
+    "id": "wello",
+    "name": {
+      "en": "Wello",
+      "ar": "ويلو"
+    },
+    "original_value": "Wello"
+  },
+  {
+    "id": "werthers-original",
+    "name": {
+      "en": "Werther's Original",
+      "ar": "ويرذرز أوريجينال"
+    },
+    "original_value": "Werther'S Original"
+  },
+  {
+    "id": "werthers-original",
+    "name": {
+      "en": "Werther's Original",
+      "ar": "ويرذرز أوريجينال"
+    },
+    "original_value": "Werther's original"
+  },
+  {
+    "id": "west-paw",
+    "name": {
+      "en": "West Paw",
+      "ar": "ويست باو"
+    },
+    "original_value": "West Paw"
+  },
+  {
+    "id": "whiskas",
+    "name": {
+      "en": "Whiskas",
+      "ar": "ويسكس"
+    },
+    "original_value": "Whiskas"
+  },
+  {
+    "id": "white-swan",
+    "name": {
+      "en": "White Swan",
+      "ar": "وايت سوان"
+    },
+    "original_value": "White swan"
+  },
+  {
+    "id": "whola",
+    "name": {
+      "en": "Whola",
+      "ar": "وهولا"
+    },
+    "original_value": "Whola"
+  },
+  {
+    "id": "wildalp",
+    "name": {
+      "en": "Wildalp",
+      "ar": "وايلد ألب"
+    },
+    "original_value": "Wildalp"
+  },
+  {
+    "id": "wiwu",
+    "name": {
+      "en": "WiWU",
+      "ar": "ويوو"
+    },
+    "original_value": "Wiwu"
+  },
+  {
+    "id": "wolfgang",
+    "name": {
+      "en": "Wolfgang",
+      "ar": "ولف جانج"
+    },
+    "original_value": "Wolfgang"
+  },
+  {
+    "id": "worlds-best-cat-litter",
+    "name": {
+      "en": "World's Best Cat Litter",
+      "ar": "ورلدز بيست كات ليتر"
+    },
+    "original_value": "World's Best Cat Litter"
+  },
+  {
+    "id": "x-pro-99",
+    "name": {
+      "en": "X-Pro 99",
+      "ar": "إكس برو 99"
+    },
+    "original_value": "X-PRO 99"
+  },
+  {
+    "id": "x-pro-99",
+    "name": {
+      "en": "X-Pro 99",
+      "ar": "إكس برو 99"
+    },
+    "original_value": "X-Pro 99"
+  },
+  {
+    "id": "xiaomi",
+    "name": {
+      "en": "Xiaomi",
+      "ar": "شاومي"
+    },
+    "original_value": "Xiaomi"
+  },
+  {
+    "id": "xl-chips",
+    "name": {
+      "en": "XL Chips",
+      "ar": "إكس إل"
+    },
+    "original_value": "Xl chips"
+  },
+  {
+    "id": "yaumi",
+    "name": {
+      "en": "Yaumi",
+      "ar": "يومي"
+    },
+    "original_value": "YAUMI"
+  },
+  {
+    "id": "yamama",
+    "name": {
+      "en": "Yamama",
+      "ar": "يمامة"
+    },
+    "original_value": "Yamama"
+  },
+  {
+    "id": "yateb",
+    "name": {
+      "en": "Yateb",
+      "ar": "ياطيب"
+    },
+    "original_value": "Yateb"
+  },
+  {
+    "id": "yaumi",
+    "name": {
+      "en": "Yaumi",
+      "ar": "يومي"
+    },
+    "original_value": "Yaumi"
+  },
+  {
+    "id": "yergat",
+    "name": {
+      "en": "Yergat",
+      "ar": "يرجات"
+    },
+    "original_value": "Yergat"
+  },
+  {
+    "id": "yogi-tea",
+    "name": {
+      "en": "Yogi Tea",
+      "ar": "يوجي تي"
+    },
+    "original_value": "Yogi Tea"
+  },
+  {
+    "id": "youfo",
+    "name": {
+      "en": "Youfo",
+      "ar": "يوفو"
+    },
+    "original_value": "Youfo"
+  },
+  {
+    "id": "yves-morel",
+    "name": {
+      "en": "Yves Morel",
+      "ar": "إيف موريل"
+    },
+    "original_value": "Yves morel"
+  },
+  {
+    "id": "zad",
+    "name": {
+      "en": "Zad",
+      "ar": "زاد"
+    },
+    "original_value": "Zad"
+  },
+  {
+    "id": "zain",
+    "name": {
+      "en": "Zain",
+      "ar": "زين"
+    },
+    "original_value": "Zain"
+  },
+  {
+    "id": "zaini",
+    "name": {
+      "en": "Zaini",
+      "ar": "زايني"
+    },
+    "original_value": "Zaini"
+  },
+  {
+    "id": "zaman",
+    "name": {
+      "en": "Zaman",
+      "ar": "زمان"
+    },
+    "original_value": "Zaman"
+  },
+  {
+    "id": "zanetti",
+    "name": {
+      "en": "Zanetti",
+      "ar": "زانيتي"
+    },
+    "original_value": "Zanetti"
+  },
+  {
+    "id": "zeina",
+    "name": {
+      "en": "Zeina",
+      "ar": "زينة"
+    },
+    "original_value": "Zeina"
+  },
+  {
+    "id": "zidnee",
+    "name": {
+      "en": "Zidnee",
+      "ar": "زدني"
+    },
+    "original_value": "Zidnee"
+  },
+  {
+    "id": "ziwi-peak",
+    "name": {
+      "en": "Ziwi Peak",
+      "ar": "زيوي بيك"
+    },
+    "original_value": "Ziwi Peak"
+  },
+  {
+    "id": "zoi",
+    "name": {
+      "en": "Zoi",
+      "ar": "زوي"
+    },
+    "original_value": "Zoi"
+  },
+  {
+    "id": "zolux",
+    "name": {
+      "en": "Zolux",
+      "ar": "زولوكس"
+    },
+    "original_value": "Zolux"
+  },
+  {
+    "id": "zoovital",
+    "name": {
+      "en": "Zoovital",
+      "ar": "زوفيتال"
+    },
+    "original_value": "Zoovital"
+  },
+  {
+    "id": "agc",
+    "name": {
+      "en": "AGC",
+      "ar": "إيه جي سي"
+    },
+    "original_value": "agc"
+  },
+  {
+    "id": "al-jameel",
+    "name": {
+      "en": "Al Jameel",
+      "ar": "الجميل"
+    },
+    "original_value": "al jameel"
+  },
+  {
+    "id": "amada",
+    "name": {
+      "en": "Amada",
+      "ar": "أمادا"
+    },
+    "original_value": "amada"
+  },
+  {
+    "id": "auto-care",
+    "name": {
+      "en": "Auto Care",
+      "ar": "أوتو كير"
+    },
+    "original_value": "auto_care"
+  },
+  {
+    "id": "beaphar",
+    "name": {
+      "en": "Beaphar",
+      "ar": "بيفار"
+    },
+    "original_value": "beaphar"
+  },
+  {
+    "id": "beeztees",
+    "name": {
+      "en": "Beeztees",
+      "ar": "بيزتيز"
+    },
+    "original_value": "beeztees"
+  },
+  {
+    "id": "danao",
+    "name": {
+      "en": "Danao",
+      "ar": "دانو"
+    },
+    "original_value": "danao"
+  },
+  {
+    "id": "delta-dunes",
+    "name": {
+      "en": "Delta Dunes",
+      "ar": "دلتا ديونز"
+    },
+    "original_value": "delta dunes"
+  },
+  {
+    "id": "generic",
+    "name": {
+      "en": "Generic",
+      "ar": "عام"
+    },
+    "original_value": "generic"
+  },
+  {
+    "id": "harmonica",
+    "name": {
+      "en": "Harmonica",
+      "ar": "هارمونيكا"
+    },
+    "original_value": "harmonica"
+  },
+  {
+    "id": "harmonica",
+    "name": {
+      "en": "Harmonica",
+      "ar": "هارمونيكا"
+    },
+    "original_value": "harmonika"
+  },
+  {
+    "id": "jimi",
+    "name": {
+      "en": "Jimi",
+      "ar": "جيمي"
+    },
+    "original_value": "jimi"
+  },
+  {
+    "id": "kaya",
+    "name": {
+      "en": "Kaya",
+      "ar": "كايا"
+    },
+    "original_value": "kaya"
+  },
+  {
+    "id": "mcvities",
+    "name": {
+      "en": "McVitie's",
+      "ar": "مكفيتيز"
+    },
+    "original_value": "mcvities"
+  },
+  {
+    "id": "nora",
+    "name": {
+      "en": "Nora",
+      "ar": "نورا"
+    },
+    "original_value": "nora"
+  },
+  {
+    "id": "oho",
+    "name": {
+      "en": "Oho!",
+      "ar": "أوهو!"
+    },
+    "original_value": "oho!"
+  },
+  {
+    "id": "rain-x",
+    "name": {
+      "en": "Rain-X",
+      "ar": "رين إكس"
+    },
+    "original_value": "rain x"
+  },
+  {
+    "id": "safi-wax",
+    "name": {
+      "en": "Safi Wax",
+      "ar": "صافي واكس"
+    },
+    "original_value": "safi wax"
+  },
+  {
+    "id": "stp",
+    "name": {
+      "en": "STP",
+      "ar": "إس تي بي"
+    },
+    "original_value": "stp"
+  },
+  {
+    "id": "sword-pro",
+    "name": {
+      "en": "Sword Pro",
+      "ar": "سورد برو"
+    },
+    "original_value": "sword_pro"
+  },
+  {
+    "id": "tajin",
+    "name": {
+      "en": "Tajín",
+      "ar": "تاجين"
+    },
+    "original_value": "tajin"
+  },
+  {
+    "id": "torin",
+    "name": {
+      "en": "Torin",
+      "ar": "تورين"
+    },
+    "original_value": "torin"
+  },
+  {
+    "id": "ulker",
+    "name": {
+      "en": "Ulker",
+      "ar": "أولكر"
+    },
+    "original_value": "ulker"
+  },
+  {
+    "id": "waff-up",
+    "name": {
+      "en": "Waff Up",
+      "ar": "واف أب"
+    },
+    "original_value": "wafe up"
+  },
+  {
+    "id": "afran-al-hatab",
+    "name": {
+      "en": "Afran Al Hatab",
+      "ar": "أفران الحطب"
+    },
+    "original_value": "أفران الحطب"
+  }
+]
