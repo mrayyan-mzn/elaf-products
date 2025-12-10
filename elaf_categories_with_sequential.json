@@ -1,0 +1,3342 @@
+[
+    {
+        "id":"fresh-food",
+        "name":{
+            "ar":"طعام طازج",
+            "en":"Fresh Food"
+        },
+        "original_value":"طعام طازج",
+        "parentId":null,
+        "catSeq":1000
+    },
+    {
+        "id":"chilled-food",
+        "name":{
+            "ar":"الأطعمة المبردة",
+            "en":"Chilled Food"
+        },
+        "original_value":"الاطعمه المبرده",
+        "parentId":"fresh-food",
+        "catSeq":1001
+    },
+    {
+        "id":"meat-appetizers",
+        "name":{
+            "ar":"مقبلات لحوم وغيرها",
+            "en":"Meat Appetizers & Others"
+        },
+        "original_value":"مقبلات لحوم وغيرها",
+        "parentId":"chilled-food",
+        "catSeq":1002
+    },
+    {
+        "id":"olives-antipasto",
+        "name":{
+            "ar":"زيتون ومقبلات",
+            "en":"Olives & Antipasto"
+        },
+        "original_value":"زيتون ومقبلات غيرها",
+        "parentId":"chilled-food",
+        "catSeq":1003
+    },
+    {
+        "id":"fish-seafood",
+        "name":{
+            "ar":"السمك والمأكولات البحرية",
+            "en":"Fish & Seafood"
+        },
+        "original_value":"السمك والاطعمه البحريه",
+        "parentId":"fresh-food",
+        "catSeq":1004
+    },
+    {
+        "id":"fish",
+        "name":{
+            "ar":"سمك",
+            "en":"Fish"
+        },
+        "original_value":"سمك",
+        "parentId":"fish-seafood",
+        "catSeq":1005
+    },
+    {
+        "id":"seafood",
+        "name":{
+            "ar":"مأكولات بحرية",
+            "en":"Seafood"
+        },
+        "original_value":"ماكولات بحريه",
+        "parentId":"fish-seafood",
+        "catSeq":1006
+    },
+    {
+        "id":"meat-poultry",
+        "name":{
+            "ar":"اللحوم والدواجن",
+            "en":"Meat & Poultry"
+        },
+        "original_value":"اللحوم والدواجن",
+        "parentId":"fresh-food",
+        "catSeq":1007
+    },
+    {
+        "id":"beef",
+        "name":{
+            "ar":"لحم بقري",
+            "en":"Beef"
+        },
+        "original_value":"لحم بقري",
+        "parentId":"meat-poultry",
+        "catSeq":1008
+    },
+    {
+        "id":"lamb",
+        "name":{
+            "ar":"لحم ضأن",
+            "en":"Lamb"
+        },
+        "original_value":"لحم ضان",
+        "parentId":"meat-poultry",
+        "catSeq":1009
+    },
+    {
+        "id":"assorted-meats",
+        "name":{
+            "ar":"لحوم متنوعة",
+            "en":"Assorted Meats"
+        },
+        "original_value":"لحوم متنوعه",
+        "parentId":"meat-poultry",
+        "catSeq":1010
+    },
+    {
+        "id":"meat-accessories",
+        "name":{
+            "ar":"ملحقات اللحوم",
+            "en":"Meat Accessories"
+        },
+        "original_value":"ملحقات اللحوم",
+        "parentId":"meat-poultry",
+        "catSeq":1011
+    },
+    {
+        "id":"veal",
+        "name":{
+            "ar":"لحم العجل",
+            "en":"Veal"
+        },
+        "original_value":"لحم العجل",
+        "parentId":"meat-poultry",
+        "catSeq":1012
+    },
+    {
+        "id":"chicken",
+        "name":{
+            "ar":"دجاج",
+            "en":"Chicken"
+        },
+        "original_value":"دجاج",
+        "parentId":"meat-poultry",
+        "catSeq":1013
+    },
+    {
+        "id":"ready-meals",
+        "name":{
+            "ar":"مأكولات جاهزة",
+            "en":"Ready Meals"
+        },
+        "original_value":"ماكولات جاهزه",
+        "parentId":"fresh-food",
+        "catSeq":1014
+    },
+    {
+        "id":"appetizers-others",
+        "name":{
+            "ar":"المقبلات وغيرها",
+            "en":"Appetizers & Others"
+        },
+        "original_value":"المقبلات وغيرها",
+        "parentId":"ready-meals",
+        "catSeq":1015
+    },
+    {
+        "id":"dairy-eggs",
+        "name":{
+            "ar":"منتجات الألبان والبيض",
+            "en":"Dairy & Eggs"
+        },
+        "original_value":"منتجات الالبان واليبض",
+        "parentId":"fresh-food",
+        "catSeq":1016
+    },
+    {
+        "id":"butter-ghee",
+        "name":{
+            "ar":"الزبدة والسمن",
+            "en":"Butter & Ghee"
+        },
+        "original_value":"الزبده والسمن",
+        "parentId":"dairy-eggs",
+        "catSeq":1017
+    },
+    {
+        "id":"cheese-labneh",
+        "name":{
+            "ar":"جبنة ولبنة",
+            "en":"Cheese & Labneh"
+        },
+        "original_value":"جبنه ولبنه",
+        "parentId":"dairy-eggs",
+        "catSeq":1018
+    },
+    {
+        "id":"cream",
+        "name":{
+            "ar":"كريم",
+            "en":"Cream"
+        },
+        "original_value":"كريم",
+        "parentId":"dairy-eggs",
+        "catSeq":1019
+    },
+    {
+        "id":"eggs",
+        "name":{
+            "ar":"بيض",
+            "en":"Eggs"
+        },
+        "original_value":"بيض",
+        "parentId":"dairy-eggs",
+        "catSeq":1020
+    },
+    {
+        "id":"milk",
+        "name":{
+            "ar":"حليب ولبن",
+            "en":"Milk & Laban"
+        },
+        "original_value":"حليب و لبن",
+        "parentId":"dairy-eggs",
+        "catSeq":1021
+    },
+    {
+        "id":"yogurt",
+        "name":{
+            "ar":"الزبادي",
+            "en":"Yogurt"
+        },
+        "original_value":"الزبادي",
+        "parentId":"dairy-eggs",
+        "catSeq":1022
+    },
+    {
+        "id":"chilled-desserts",
+        "name":{
+            "ar":"الحلويات المبردة",
+            "en":"Chilled Desserts"
+        },
+        "original_value":"الحلويات المبرده",
+        "parentId":"dairy-eggs",
+        "catSeq":1023
+    },
+    {
+        "id":"ready-to-cook",
+        "name":{
+            "ar":"جاهز للطهي",
+            "en":"Ready to Cook"
+        },
+        "original_value":"على استعداد لطهي الطعام",
+        "parentId":"dairy-eggs",
+        "catSeq":1024
+    },
+    {
+        "id":"car-accessories",
+        "name":{
+            "ar":"أكسسوارات السيارات",
+            "en":"Car Accessories"
+        },
+        "original_value":"أكسسوارات السيارات",
+        "parentId":null,
+        "catSeq":1025
+    },
+    {
+        "id":"car-supplies",
+        "name":{
+            "ar":"مستلزمات واكسسوارات السيارات",
+            "en":"Car Supplies & Accessories"
+        },
+        "original_value":"مستلزمات واكسسوارات السيارات",
+        "parentId":"car-accessories",
+        "catSeq":1026
+    },
+    {
+        "id":"car-fresheners",
+        "name":{
+            "ar":"معطرات السيارة",
+            "en":"Car Fresheners"
+        },
+        "original_value":"معطرات السيارة",
+        "parentId":"car-supplies",
+        "catSeq":1027
+    },
+    {
+        "id":"car-cleaning",
+        "name":{
+            "ar":"تنظيف السيارات",
+            "en":"Car Cleaning"
+        },
+        "original_value":"تنظيف السيارات",
+        "parentId":"car-supplies",
+        "catSeq":1028
+    },
+    {
+        "id":"oils-fluids",
+        "name":{
+            "ar":"زيوت وسوائل التشحيم",
+            "en":"Oils & Lubricants"
+        },
+        "original_value":"زيوت وسوائل التشحيم",
+        "parentId":"car-supplies",
+        "catSeq":1029
+    },
+    {
+        "id":"ropes-cables",
+        "name":{
+            "ar":"الحبال والكابلات",
+            "en":"Ropes & Cables"
+        },
+        "original_value":"الحبال والكابلات",
+        "parentId":"car-supplies",
+        "catSeq":1030
+    },
+    {
+        "id":"cleaning-cloths",
+        "name":{
+            "ar":"أقمشة التنظيف",
+            "en":"Cleaning Cloths"
+        },
+        "original_value":"أقمشة التنظيف",
+        "parentId":"car-supplies",
+        "catSeq":1031
+    },
+    {
+        "id":"general-car-accessories",
+        "name":{
+            "ar":"اكسسوارات السيارات",
+            "en":"General Car Accessories"
+        },
+        "original_value":"اكسسوارات السيارات",
+        "parentId":"car-supplies",
+        "catSeq":1032
+    },
+    {
+        "id":"pantry",
+        "name":{
+            "ar":"خزانة الطعام",
+            "en":"Pantry"
+        },
+        "original_value":"خزانة الطعام",
+        "parentId":null,
+        "catSeq":1033
+    },
+    {
+        "id":"biscuits-crackers-cakes",
+        "name":{
+            "ar":"بسكويت، كراكرز وكيك",
+            "en":"Biscuits, Crackers & Cakes"
+        },
+        "original_value":"بسكويت، كراكرز وكيك",
+        "parentId":"pantry",
+        "catSeq":1034
+    },
+    {
+        "id":"premium-biscuits",
+        "name":{
+            "ar":"بسكويت بريميم",
+            "en":"Premium Biscuits"
+        },
+        "original_value":"بسكويت بريميم",
+        "parentId":"biscuits-crackers-cakes",
+        "catSeq":1035
+    },
+    {
+        "id":"cupcakes",
+        "name":{
+            "ar":"كب كيك",
+            "en":"Cupcakes"
+        },
+        "original_value":"كب كيك",
+        "parentId":"biscuits-crackers-cakes",
+        "catSeq":1036
+    },
+    {
+        "id":"wafers",
+        "name":{
+            "ar":"ويفر",
+            "en":"Wafers"
+        },
+        "original_value":"ويفر",
+        "parentId":"biscuits-crackers-cakes",
+        "catSeq":1037
+    },
+    {
+        "id":"crackers",
+        "name":{
+            "ar":"كراكرز",
+            "en":"Crackers"
+        },
+        "original_value":"كراكرز",
+        "parentId":"biscuits-crackers-cakes",
+        "catSeq":1038
+    },
+    {
+        "id":"digestive",
+        "name":{
+            "ar":"بسكويت دايجستف",
+            "en":"Digestive"
+        },
+        "original_value":"digestive",
+        "parentId":"biscuits-crackers-cakes",
+        "catSeq":1039
+    },
+    {
+        "id":"filled-biscuits",
+        "name":{
+            "ar":"محشو",
+            "en":"Filled Biscuits"
+        },
+        "original_value":"محشو",
+        "parentId":"biscuits-crackers-cakes",
+        "catSeq":1040
+    },
+    {
+        "id":"rusk",
+        "name":{
+            "ar":"شابورة (رسك)",
+            "en":"Rusk"
+        },
+        "original_value":"رسك",
+        "parentId":"biscuits-crackers-cakes",
+        "catSeq":1041
+    },
+    {
+        "id":"canned-goods",
+        "name":{
+            "ar":"معلبات ومرطبات",
+            "en":"Canned Goods & Refreshments"
+        },
+        "original_value":"معلبات ومرطبات",
+        "parentId":"pantry",
+        "catSeq":1042
+    },
+    {
+        "id":"canned-vegetables",
+        "name":{
+            "ar":"خضروات معلبة",
+            "en":"Canned Vegetables"
+        },
+        "original_value":"خضروات معلبة'",
+        "parentId":"canned-goods",
+        "catSeq":1043
+    },
+    {
+        "id":"canned-fruits",
+        "name":{
+            "ar":"فواكه معلبة",
+            "en":"Canned Fruits"
+        },
+        "original_value":"فواكه معلبة",
+        "parentId":"canned-goods",
+        "catSeq":1044
+    },
+    {
+        "id":"coconut-milk-cream",
+        "name":{
+            "ar":"قشدة وحليب جوز الهند",
+            "en":"Coconut Milk & Cream"
+        },
+        "original_value":"قشدة وحليب بجوز الهند",
+        "parentId":"canned-goods",
+        "catSeq":1045
+    },
+    {
+        "id":"coconut-powder",
+        "name":{
+            "ar":"بودرة جوز الهند",
+            "en":"Coconut Powder"
+        },
+        "original_value":"بودرة جوز الهند",
+        "parentId":"canned-goods",
+        "catSeq":1046
+    },
+    {
+        "id":"coconut-cream",
+        "name":{
+            "ar":"كريم جوز الهند",
+            "en":"Coconut Cream"
+        },
+        "original_value":"كريم جوز الهند",
+        "parentId":"canned-goods",
+        "catSeq":1047
+    },
+    {
+        "id":"canned-meat",
+        "name":{
+            "ar":"لحم معلب",
+            "en":"Canned Meat"
+        },
+        "original_value":"لحم معلب",
+        "parentId":"canned-goods",
+        "catSeq":1048
+    },
+    {
+        "id":"milk-powder",
+        "name":{
+            "ar":"مسحوق الحليب",
+            "en":"Milk Powder"
+        },
+        "original_value":"مسحوق الحليب",
+        "parentId":"canned-goods",
+        "catSeq":1049
+    },
+    {
+        "id":"pickles-olives",
+        "name":{
+            "ar":"مخلل وزيتون",
+            "en":"Pickles & Olives"
+        },
+        "original_value":"ومخلل زيتون",
+        "parentId":"canned-goods",
+        "catSeq":1050
+    },
+    {
+        "id":"instant-noodles",
+        "name":{
+            "ar":"نودلز سريعة",
+            "en":"Instant Noodles"
+        },
+        "original_value":"ونودلز سريعة",
+        "parentId":"canned-goods",
+        "catSeq":1051
+    },
+    {
+        "id":"tuna",
+        "name":{
+            "ar":"تونا",
+            "en":"Tuna"
+        },
+        "original_value":"تونا",
+        "parentId":"canned-goods",
+        "catSeq":1052
+    },
+    {
+        "id":"sugar-home-baking",
+        "name":{
+            "ar":"السكر ومستلزمات الخبز",
+            "en":"Sugar & Home Baking"
+        },
+        "original_value":"السكر",
+        "parentId":"pantry",
+        "catSeq":1053
+    },
+    {
+        "id":"baking-ingredients",
+        "name":{
+            "ar":"مكونات خبز",
+            "en":"Baking Ingredients"
+        },
+        "original_value":"مكونات خبز",
+        "parentId":"sugar-home-baking",
+        "catSeq":1054
+    },
+    {
+        "id":"condensed-milk",
+        "name":{
+            "ar":"حليب مكثف",
+            "en":"Condensed Milk"
+        },
+        "original_value":"لبن مكثف",
+        "parentId":"sugar-home-baking",
+        "catSeq":1055
+    },
+    {
+        "id":"sugar-sweeteners",
+        "name":{
+            "ar":"السكر والمحليات",
+            "en":"Sugar & Sweeteners"
+        },
+        "original_value":"السكر والمحليات",
+        "parentId":"sugar-home-baking",
+        "catSeq":1056
+    },
+    {
+        "id":"flour-rice-mixes",
+        "name":{
+            "ar":"خلطات الطحين والأرز",
+            "en":"Flour & Rice Mixes"
+        },
+        "original_value":"خلاطات الطحين والرز",
+        "parentId":"sugar-home-baking",
+        "catSeq":1057
+    },
+    {
+        "id":"breakfast-food",
+        "name":{
+            "ar":"الفطور الغذائي",
+            "en":"Breakfast Food"
+        },
+        "original_value":"الفطور الغذائي",
+        "parentId":"pantry",
+        "catSeq":1058
+    },
+    {
+        "id":"puff-pastry",
+        "name":{
+            "ar":"خبز بف",
+            "en":"Puff Pastry"
+        },
+        "original_value":"خبز بف",
+        "parentId":"breakfast-food",
+        "catSeq":1059
+    },
+    {
+        "id":"cereal",
+        "name":{
+            "ar":"حبوب",
+            "en":"Cereal"
+        },
+        "original_value":"حبوب",
+        "parentId":"breakfast-food",
+        "catSeq":1060
+    },
+    {
+        "id":"oats",
+        "name":{
+            "ar":"الشوفان",
+            "en":"Oats"
+        },
+        "original_value":"الشوفان",
+        "parentId":"breakfast-food",
+        "catSeq":1061
+    },
+    {
+        "id":"granola",
+        "name":{
+            "ar":"جرانولا",
+            "en":"Granola"
+        },
+        "original_value":"جرنولة",
+        "parentId":"breakfast-food",
+        "catSeq":1062
+    },
+    {
+        "id":"muesli",
+        "name":{
+            "ar":"موسلي",
+            "en":"Muesli"
+        },
+        "original_value":"ميزولي",
+        "parentId":"breakfast-food",
+        "catSeq":1063
+    },
+    {
+        "id":"rice-pasta-pulses",
+        "name":{
+            "ar":"الأرز والمعكرونة",
+            "en":"Rice, Pasta & Pulses"
+        },
+        "original_value":"الأرز",
+        "parentId":"pantry",
+        "catSeq":1064
+    },
+    {
+        "id":"pasta",
+        "name":{
+            "ar":"معكرونة",
+            "en":"Pasta"
+        },
+        "original_value":"معكرونة",
+        "parentId":"rice-pasta-pulses",
+        "catSeq":1065
+    },
+    {
+        "id":"pulses",
+        "name":{
+            "ar":"بقوليات",
+            "en":"Pulses"
+        },
+        "original_value":"بقول",
+        "parentId":"rice-pasta-pulses",
+        "catSeq":1066
+    },
+    {
+        "id":"rice",
+        "name":{
+            "ar":"أرز",
+            "en":"Rice"
+        },
+        "original_value":"أرز",
+        "parentId":"rice-pasta-pulses",
+        "catSeq":1067
+    },
+    {
+        "id":"dates-dried-fruits",
+        "name":{
+            "ar":"التمور والفواكه المجففة",
+            "en":"Dates & Dried Fruits"
+        },
+        "original_value":"التمور والفواكه المجففة",
+        "parentId":"pantry",
+        "catSeq":1068
+    },
+    {
+        "id":"seeds-nuts",
+        "name":{
+            "ar":"بذور وجوز",
+            "en":"Seeds & Nuts"
+        },
+        "original_value":"بذور وجوز",
+        "parentId":"dates-dried-fruits",
+        "catSeq":1069
+    },
+    {
+        "id":"dried-fruits",
+        "name":{
+            "ar":"الفواكه المجففة",
+            "en":"Dried Fruits"
+        },
+        "original_value":"الفزاكه المجففة",
+        "parentId":"dates-dried-fruits",
+        "catSeq":1070
+    },
+    {
+        "id":"condiments-pickles",
+        "name":{
+            "ar":"توابل ومخللات",
+            "en":"Condiments & Pickles"
+        },
+        "original_value":"توابل ومخللات",
+        "parentId":"pantry",
+        "catSeq":1071
+    },
+    {
+        "id":"sauces",
+        "name":{
+            "ar":"صلصات",
+            "en":"Sauces"
+        },
+        "original_value":"صلصات",
+        "parentId":"condiments-pickles",
+        "catSeq":1072
+    },
+    {
+        "id":"salad-dressing",
+        "name":{
+            "ar":"تتبيلة السلطة",
+            "en":"Salad Dressing"
+        },
+        "original_value":"زينة السلطة",
+        "parentId":"condiments-pickles",
+        "catSeq":1073
+    },
+    {
+        "id":"chocolate-confectionery",
+        "name":{
+            "ar":"شوكولاته وحلويات",
+            "en":"Chocolate & Confectionery"
+        },
+        "original_value":"شوكولاته ومعجنات",
+        "parentId":"pantry",
+        "catSeq":1074
+    },
+    {
+        "id":"sweets",
+        "name":{
+            "ar":"حلويات",
+            "en":"Sweets"
+        },
+        "original_value":"حلويات",
+        "parentId":"chocolate-confectionery",
+        "catSeq":1075
+    },
+    {
+        "id":"chocolate",
+        "name":{
+            "ar":"شوكولاته",
+            "en":"Chocolate"
+        },
+        "original_value":"شوكولاته",
+        "parentId":"chocolate-confectionery",
+        "catSeq":1076
+    },
+    {
+        "id":"gum-mints",
+        "name":{
+            "ar":"علكة وغيرها",
+            "en":"Gum & Mints"
+        },
+        "original_value":"علكة وغيرها",
+        "parentId":"chocolate-confectionery",
+        "catSeq":1077
+    },
+    {
+        "id":"jams-honey",
+        "name":{
+            "ar":"المربيات والعسل",
+            "en":"Jams & Honey"
+        },
+        "original_value":"المربيات والعسل",
+        "parentId":"pantry",
+        "catSeq":1078
+    },
+    {
+        "id":"honey",
+        "name":{
+            "ar":"عسل",
+            "en":"Honey"
+        },
+        "original_value":"عسل",
+        "parentId":"jams-honey",
+        "catSeq":1079
+    },
+    {
+        "id":"jams",
+        "name":{
+            "ar":"مربيات",
+            "en":"Jams"
+        },
+        "original_value":"مربات",
+        "parentId":"jams-honey",
+        "catSeq":1080
+    },
+    {
+        "id":"spreads",
+        "name":{
+            "ar":"قابلة للدهن",
+            "en":"Spreads"
+        },
+        "original_value":"قابلة للدهن",
+        "parentId":"jams-honey",
+        "catSeq":1081
+    },
+    {
+        "id":"world-food",
+        "name":{
+            "ar":"من أنحاء العالم",
+            "en":"World Food"
+        },
+        "original_value":"من أنحاء العالم",
+        "parentId":"pantry",
+        "catSeq":1082
+    },
+    {
+        "id":"south-asia",
+        "name":{
+            "ar":"جنوب آسيا",
+            "en":"South Asia"
+        },
+        "original_value":"جنوب اسيا",
+        "parentId":"world-food",
+        "catSeq":1083
+    },
+    {
+        "id":"korea",
+        "name":{
+            "ar":"كوريا",
+            "en":"Korea"
+        },
+        "original_value":"كوريا",
+        "parentId":"world-food",
+        "catSeq":1084
+    },
+    {
+        "id":"japan",
+        "name":{
+            "ar":"اليابان",
+            "en":"Japan"
+        },
+        "original_value":"اليابان",
+        "parentId":"world-food",
+        "catSeq":1085
+    },
+    {
+        "id":"uk",
+        "name":{
+            "ar":"المملكة المتحدة",
+            "en":"UK"
+        },
+        "original_value":"المملكة المتحدة",
+        "parentId":"world-food",
+        "catSeq":1086
+    },
+    {
+        "id":"france",
+        "name":{
+            "ar":"فرنسا",
+            "en":"France"
+        },
+        "original_value":"فرنسا",
+        "parentId":"world-food",
+        "catSeq":1087
+    },
+    {
+        "id":"italy",
+        "name":{
+            "ar":"إيطاليا",
+            "en":"Italy"
+        },
+        "original_value":"ايطاليا",
+        "parentId":"world-food",
+        "catSeq":1088
+    },
+    {
+        "id":"india",
+        "name":{
+            "ar":"الهند",
+            "en":"India"
+        },
+        "original_value":"الهند",
+        "parentId":"world-food",
+        "catSeq":1089
+    },
+    {
+        "id":"mexico",
+        "name":{
+            "ar":"المكسيك",
+            "en":"Mexico"
+        },
+        "original_value":"مكسيك",
+        "parentId":"world-food",
+        "catSeq":1090
+    },
+    {
+        "id":"philippines",
+        "name":{
+            "ar":"الفلبين",
+            "en":"Philippines"
+        },
+        "original_value":"الفلبين",
+        "parentId":"world-food",
+        "catSeq":1091
+    },
+    {
+        "id":"thailand",
+        "name":{
+            "ar":"تايلند",
+            "en":"Thailand"
+        },
+        "original_value":"تايلند",
+        "parentId":"world-food",
+        "catSeq":1092
+    },
+    {
+        "id":"chips-snacks",
+        "name":{
+            "ar":"شيبس ومقبلات",
+            "en":"Chips & Snacks"
+        },
+        "original_value":"شيبس ومقبلات",
+        "parentId":"pantry",
+        "catSeq":1093
+    },
+    {
+        "id":"canned-snacks",
+        "name":{
+            "ar":"معلبات",
+            "en":"Canned Snacks"
+        },
+        "original_value":"معلبات",
+        "parentId":"chips-snacks",
+        "catSeq":1094
+    },
+    {
+        "id":"chips",
+        "name":{
+            "ar":"رقائق",
+            "en":"Chips"
+        },
+        "original_value":"رقائق",
+        "parentId":"chips-snacks",
+        "catSeq":1095
+    },
+    {
+        "id":"tortilla-nacho",
+        "name":{
+            "ar":"تورتيلا وناتشو",
+            "en":"Tortilla & Nacho"
+        },
+        "original_value":"تورتيلا وناتشو",
+        "parentId":"chips-snacks",
+        "catSeq":1096
+    },
+    {
+        "id":"popcorn",
+        "name":{
+            "ar":"فشار",
+            "en":"Popcorn"
+        },
+        "original_value":"فشار",
+        "parentId":"chips-snacks",
+        "catSeq":1097
+    },
+    {
+        "id":"cooking-ingredients",
+        "name":{
+            "ar":"مكونات الطبخ",
+            "en":"Cooking Ingredients"
+        },
+        "original_value":"مكونات الطبخ",
+        "parentId":"pantry",
+        "catSeq":1098
+    },
+    {
+        "id":"cooking-sauces",
+        "name":{
+            "ar":"صلصات الطبخ",
+            "en":"Cooking Sauces"
+        },
+        "original_value":"صلصات الطبخ",
+        "parentId":"cooking-ingredients",
+        "catSeq":1099
+    },
+    {
+        "id":"herbs-spices",
+        "name":{
+            "ar":"الأعشاب والبهارات",
+            "en":"Herbs & Spices"
+        },
+        "original_value":"الاعشاب والبهارات",
+        "parentId":"cooking-ingredients",
+        "catSeq":1100
+    },
+    {
+        "id":"oils-ghee",
+        "name":{
+            "ar":"زيوت وسمن",
+            "en":"Oils & Ghee"
+        },
+        "original_value":"زيوت والسمن",
+        "parentId":"cooking-ingredients",
+        "catSeq":1101
+    },
+    {
+        "id":"baking-categories",
+        "name":{
+            "ar":"فئات الخبز",
+            "en":"Baking Categories"
+        },
+        "original_value":"فئات الخبز",
+        "parentId":"cooking-ingredients",
+        "catSeq":1102
+    },
+    {
+        "id":"stocks-gravy",
+        "name":{
+            "ar":"مرقات غذائية",
+            "en":"Stocks & Gravy"
+        },
+        "original_value":"مرقات غذائية",
+        "parentId":"cooking-ingredients",
+        "catSeq":1103
+    },
+    {
+        "id":"beverages",
+        "name":{
+            "ar":"المشروبات",
+            "en":"Beverages"
+        },
+        "original_value":"المشروبات",
+        "parentId":null,
+        "catSeq":1104
+    },
+    {
+        "id":"water",
+        "name":{
+            "ar":"ماء",
+            "en":"Water"
+        },
+        "original_value":"ماء",
+        "parentId":"beverages",
+        "catSeq":1105
+    },
+    {
+        "id":"still-water",
+        "name":{
+            "ar":"مياه عادية",
+            "en":"Still Water"
+        },
+        "original_value":"مياه عادية",
+        "parentId":"water",
+        "catSeq":1106
+    },
+    {
+        "id":"kids-water",
+        "name":{
+            "ar":"مياه أطفال",
+            "en":"Kids Water"
+        },
+        "original_value":"مياه الاطفال",
+        "parentId":"water",
+        "catSeq":1107
+    },
+    {
+        "id":"mineral-water",
+        "name":{
+            "ar":"مياه معدنية",
+            "en":"Mineral Water"
+        },
+        "original_value":"مياه معدنيه",
+        "parentId":"water",
+        "catSeq":1108
+    },
+    {
+        "id":"sparkling-water",
+        "name":{
+            "ar":"مياه فوارة",
+            "en":"Sparkling Water"
+        },
+        "original_value":"مياه فوارة",
+        "parentId":"water",
+        "catSeq":1109
+    },
+    {
+        "id":"flavored-water",
+        "name":{
+            "ar":"المياه المنكهة",
+            "en":"Flavored Water"
+        },
+        "original_value":"المياه المنكهة",
+        "parentId":"water",
+        "catSeq":1110
+    },
+    {
+        "id":"soft-drinks",
+        "name":{
+            "ar":"مشروبات غازية",
+            "en":"Soft Drinks"
+        },
+        "original_value":"مشروبات غازية",
+        "parentId":"beverages",
+        "catSeq":1111
+    },
+    {
+        "id":"sodas-mixers",
+        "name":{
+            "ar":"المشروبات الغازية والخلاطات",
+            "en":"Sodas & Mixers"
+        },
+        "original_value":"المشروبات الغازية والخلاطات",
+        "parentId":"soft-drinks",
+        "catSeq":1112
+    },
+    {
+        "id":"vitamins-sports-drinks",
+        "name":{
+            "ar":"الفيتامينات والمشروبات الرياضية",
+            "en":"Vitamins & Sports Drinks"
+        },
+        "original_value":"الفيتامينات والمشروبات الرياضية",
+        "parentId":"soft-drinks",
+        "catSeq":1113
+    },
+    {
+        "id":"kids-drinks-cat",
+        "name":{
+            "ar":"مشروبات الأطفال",
+            "en":"Kids Drinks"
+        },
+        "original_value":"مشروبات الأطفال",
+        "parentId":"beverages",
+        "catSeq":1114
+    },
+    {
+        "id":"kids-drinks",
+        "name":{
+            "ar":"مشروبات الأطفال",
+            "en":"Kids Drinks"
+        },
+        "original_value":"مشروبات الأطفال",
+        "parentId":"kids-drinks-cat",
+        "catSeq":1115
+    },
+    {
+        "id":"powdered-drinks",
+        "name":{
+            "ar":"مشروبات بودرة",
+            "en":"Powdered Drinks"
+        },
+        "original_value":"مشروبات بودرة",
+        "parentId":"beverages",
+        "catSeq":1116
+    },
+    {
+        "id":"powdered-juices",
+        "name":{
+            "ar":"بودرة عصائر",
+            "en":"Powdered Juices"
+        },
+        "original_value":"بودرة عصائر",
+        "parentId":"powdered-drinks",
+        "catSeq":1117
+    },
+    {
+        "id":"hot-chocolate-others",
+        "name":{
+            "ar":"الشوكولاته الساخنة وغيرها",
+            "en":"Hot Chocolate & Others"
+        },
+        "original_value":"الشوكولاته الساخنة وغيرها",
+        "parentId":"powdered-drinks",
+        "catSeq":1118
+    },
+    {
+        "id":"cocoa",
+        "name":{
+            "ar":"كاكاو",
+            "en":"Cocoa"
+        },
+        "original_value":"كاكاو",
+        "parentId":"powdered-drinks",
+        "catSeq":1119
+    },
+    {
+        "id":"coffee",
+        "name":{
+            "ar":"قهوة",
+            "en":"Coffee"
+        },
+        "original_value":"قهوة",
+        "parentId":"beverages",
+        "catSeq":1120
+    },
+    {
+        "id":"coffee-cartridges",
+        "name":{
+            "ar":"خراطيش قهوة",
+            "en":"Coffee Cartridges"
+        },
+        "original_value":"خراطيش قهوة",
+        "parentId":"coffee",
+        "catSeq":1121
+    },
+    {
+        "id":"coffee-capsules",
+        "name":{
+            "ar":"كبسولات",
+            "en":"Coffee Capsules"
+        },
+        "original_value":"كبسولات",
+        "parentId":"coffee",
+        "catSeq":1122
+    },
+    {
+        "id":"ground-regular-coffee",
+        "name":{
+            "ar":"البن المطحون والعادي",
+            "en":"Ground & Regular Coffee"
+        },
+        "original_value":"البن المطحون والعادي",
+        "parentId":"coffee",
+        "catSeq":1123
+    },
+    {
+        "id":"instant-coffee",
+        "name":{
+            "ar":"أكياس قهوة فورية",
+            "en":"Instant Coffee Sachets"
+        },
+        "original_value":"أكياس قهوة فورية",
+        "parentId":"coffee",
+        "catSeq":1124
+    },
+    {
+        "id":"juices",
+        "name":{
+            "ar":"العصائر",
+            "en":"Juices"
+        },
+        "original_value":"العصائر",
+        "parentId":"beverages",
+        "catSeq":1125
+    },
+    {
+        "id":"fresh-juices",
+        "name":{
+            "ar":"عصائر طازجة",
+            "en":"Fresh Juices"
+        },
+        "original_value":"عصائر طازجة",
+        "parentId":"juices",
+        "catSeq":1126
+    },
+    {
+        "id":"coconut-flavored-water",
+        "name":{
+            "ar":"جوز الهند والمياه المنكهة",
+            "en":"Coconut & Flavored Water"
+        },
+        "original_value":"جوز الهند والمياه المنكهة",
+        "parentId":"juices",
+        "catSeq":1127
+    },
+    {
+        "id":"long-life-juices",
+        "name":{
+            "ar":"عصائر طويلة الأمد",
+            "en":"Long Life Juices"
+        },
+        "original_value":"عصائر طويلة الأمد",
+        "parentId":"juices",
+        "catSeq":1128
+    },
+    {
+        "id":"syrups-cordials",
+        "name":{
+            "ar":"شراب ومركزات",
+            "en":"Syrups & Cordials"
+        },
+        "original_value":"شرابات ومحليات",
+        "parentId":"juices",
+        "catSeq":1129
+    },
+    {
+        "id":"tea",
+        "name":{
+            "ar":"شاي",
+            "en":"Tea"
+        },
+        "original_value":"شاي",
+        "parentId":"beverages",
+        "catSeq":1130
+    },
+    {
+        "id":"iced-tea",
+        "name":{
+            "ar":"شاي مثلج",
+            "en":"Iced Tea"
+        },
+        "original_value":"شاي مثلج",
+        "parentId":"tea",
+        "catSeq":1131
+    },
+    {
+        "id":"tea-bags-loose",
+        "name":{
+            "ar":"أكياس الشاي والأوراق السائبة",
+            "en":"Tea Bags & Loose Leaf"
+        },
+        "original_value":"أكياس الشاي و الأوراق السائبة",
+        "parentId":"tea",
+        "catSeq":1132
+    },
+    {
+        "id":"fruits-vegetables",
+        "name":{
+            "ar":"خضار وفواكه",
+            "en":"Fruits & Vegetables"
+        },
+        "original_value":"خضار و فواكه",
+        "parentId":null,
+        "catSeq":1133
+    },
+    {
+        "id":"vegetables",
+        "name":{
+            "ar":"الخضروات",
+            "en":"Vegetables"
+        },
+        "original_value":"الخضروات",
+        "parentId":"fruits-vegetables",
+        "catSeq":1134
+    },
+    {
+        "id":"capsicum-chili",
+        "name":{
+            "ar":"الفليفلة والفلفل الحار",
+            "en":"Capsicum & Chili"
+        },
+        "original_value":"الفليفلة والفلفل الحار",
+        "parentId":"vegetables",
+        "catSeq":1135
+    },
+    {
+        "id":"eggplant",
+        "name":{
+            "ar":"الباذنجان",
+            "en":"Eggplant"
+        },
+        "original_value":"الباذنجان",
+        "parentId":"vegetables",
+        "catSeq":1136
+    },
+    {
+        "id":"tomatoes",
+        "name":{
+            "ar":"طماطم",
+            "en":"Tomatoes"
+        },
+        "original_value":"طماطم",
+        "parentId":"vegetables",
+        "catSeq":1137
+    },
+    {
+        "id":"salad",
+        "name":{
+            "ar":"سلطة",
+            "en":"Salad"
+        },
+        "original_value":"سلطة",
+        "parentId":"vegetables",
+        "catSeq":1138
+    },
+    {
+        "id":"cabbage-cooking-greens",
+        "name":{
+            "ar":"الملفوف وخضروات الطهي",
+            "en":"Cabbage & Cooking Greens"
+        },
+        "original_value":"الملفوف وغيرها من الطهي",
+        "parentId":"vegetables",
+        "catSeq":1139
+    },
+    {
+        "id":"peas-beans",
+        "name":{
+            "ar":"بازلاء وفاصولياء",
+            "en":"Peas & Beans"
+        },
+        "original_value":"حبوب البازلاء",
+        "parentId":"vegetables",
+        "catSeq":1140
+    },
+    {
+        "id":"potatoes",
+        "name":{
+            "ar":"البطاطس",
+            "en":"Potatoes"
+        },
+        "original_value":"البطاطس",
+        "parentId":"vegetables",
+        "catSeq":1141
+    },
+    {
+        "id":"onions-shallots",
+        "name":{
+            "ar":"البصل والكراث",
+            "en":"Onions & Shallots"
+        },
+        "original_value":"البصل والشالوت",
+        "parentId":"vegetables",
+        "catSeq":1142
+    },
+    {
+        "id":"asian-vegetables",
+        "name":{
+            "ar":"الخضروات الآسيوية",
+            "en":"Asian Vegetables"
+        },
+        "original_value":"الخضروات الآسيوية",
+        "parentId":"vegetables",
+        "catSeq":1143
+    },
+    {
+        "id":"mushrooms",
+        "name":{
+            "ar":"الفطر",
+            "en":"Mushrooms"
+        },
+        "original_value":"الفطر",
+        "parentId":"vegetables",
+        "catSeq":1144
+    },
+    {
+        "id":"zucchini",
+        "name":{
+            "ar":"كوسا",
+            "en":"Zucchini"
+        },
+        "original_value":"كوسا",
+        "parentId":"vegetables",
+        "catSeq":1145
+    },
+    {
+        "id":"carrots",
+        "name":{
+            "ar":"الجزر",
+            "en":"Carrots"
+        },
+        "original_value":"الجزر",
+        "parentId":"vegetables",
+        "catSeq":1146
+    },
+    {
+        "id":"cucumbers",
+        "name":{
+            "ar":"الخيار",
+            "en":"Cucumbers"
+        },
+        "original_value":"الخيار",
+        "parentId":"vegetables",
+        "catSeq":1147
+    },
+    {
+        "id":"garlic-ginger",
+        "name":{
+            "ar":"الثوم والزنجبيل",
+            "en":"Garlic & Ginger"
+        },
+        "original_value":"الثوم والزنجبيل",
+        "parentId":"vegetables",
+        "catSeq":1148
+    },
+    {
+        "id":"cut-vegetables",
+        "name":{
+            "ar":"خضار مقطعة",
+            "en":"Cut Vegetables"
+        },
+        "original_value":"خضار مقطعه",
+        "parentId":"vegetables",
+        "catSeq":1149
+    },
+    {
+        "id":"fruit",
+        "name":{
+            "ar":"الفاكهة",
+            "en":"Fruit"
+        },
+        "original_value":"الفاكهة",
+        "parentId":"fruits-vegetables",
+        "catSeq":1150
+    },
+    {
+        "id":"avocado",
+        "name":{
+            "ar":"أفوكادو",
+            "en":"Avocado"
+        },
+        "original_value":"افوكادو",
+        "parentId":"fruit",
+        "catSeq":1151
+    },
+    {
+        "id":"bananas",
+        "name":{
+            "ar":"موز",
+            "en":"Bananas"
+        },
+        "original_value":"موز",
+        "parentId":"fruit",
+        "catSeq":1152
+    },
+    {
+        "id":"oranges",
+        "name":{
+            "ar":"البرتقال",
+            "en":"Oranges"
+        },
+        "original_value":"البرتقال",
+        "parentId":"fruit",
+        "catSeq":1153
+    },
+    {
+        "id":"clementine-mandarin",
+        "name":{
+            "ar":"كليمنتين وماندرين",
+            "en":"Clementine & Mandarin"
+        },
+        "original_value":"كليمنتين وماندرين",
+        "parentId":"fruit",
+        "catSeq":1154
+    },
+    {
+        "id":"grapefruit-pomelo",
+        "name":{
+            "ar":"الجريب فروت والبوملي",
+            "en":"Grapefruit & Pomelo"
+        },
+        "original_value":"الجريب فروت و بوميلو",
+        "parentId":"fruit",
+        "catSeq":1155
+    },
+    {
+        "id":"lemons",
+        "name":{
+            "ar":"ليمون",
+            "en":"Lemons"
+        },
+        "original_value":"ليمون",
+        "parentId":"fruit",
+        "catSeq":1156
+    },
+    {
+        "id":"berries",
+        "name":{
+            "ar":"التوت",
+            "en":"Berries"
+        },
+        "original_value":"التوت",
+        "parentId":"fruit",
+        "catSeq":1157
+    },
+    {
+        "id":"cherries",
+        "name":{
+            "ar":"كرز",
+            "en":"Cherries"
+        },
+        "original_value":"كرز",
+        "parentId":"fruit",
+        "catSeq":1158
+    },
+    {
+        "id":"grapes",
+        "name":{
+            "ar":"عنب",
+            "en":"Grapes"
+        },
+        "original_value":"عنب",
+        "parentId":"fruit",
+        "catSeq":1159
+    },
+    {
+        "id":"apples",
+        "name":{
+            "ar":"تفاح",
+            "en":"Apples"
+        },
+        "original_value":"تفاح",
+        "parentId":"fruit",
+        "catSeq":1160
+    },
+    {
+        "id":"mango",
+        "name":{
+            "ar":"مانجو",
+            "en":"Mango"
+        },
+        "original_value":"مانجو",
+        "parentId":"fruit",
+        "catSeq":1161
+    },
+    {
+        "id":"kiwi",
+        "name":{
+            "ar":"كيوي",
+            "en":"Kiwi"
+        },
+        "original_value":"كيوي",
+        "parentId":"fruit",
+        "catSeq":1162
+    },
+    {
+        "id":"packed-fruits",
+        "name":{
+            "ar":"فواكه معبأة",
+            "en":"Packed Fruits"
+        },
+        "original_value":"فواكهة معبأة",
+        "parentId":"fruit",
+        "catSeq":1163
+    },
+    {
+        "id":"exotic-fruits",
+        "name":{
+            "ar":"فاكهة استوائية",
+            "en":"Exotic Fruits"
+        },
+        "original_value":"فاكهة غريبة",
+        "parentId":"fruit",
+        "catSeq":1164
+    },
+    {
+        "id":"stone-fruits",
+        "name":{
+            "ar":"فاكهة ذات نواة",
+            "en":"Stone Fruits"
+        },
+        "original_value":"فاكهة البذور",
+        "parentId":"fruit",
+        "catSeq":1165
+    },
+    {
+        "id":"melon",
+        "name":{
+            "ar":"شمام",
+            "en":"Melon"
+        },
+        "original_value":"شمام",
+        "parentId":"fruit",
+        "catSeq":1166
+    },
+    {
+        "id":"peaches-nectarines",
+        "name":{
+            "ar":"خوخ ونكتارين",
+            "en":"Peaches & Nectarines"
+        },
+        "original_value":"خوخ ونكتارين",
+        "parentId":"fruit",
+        "catSeq":1167
+    },
+    {
+        "id":"fresh-dates",
+        "name":{
+            "ar":"تمر",
+            "en":"Dates"
+        },
+        "original_value":"تمر",
+        "parentId":"fruit",
+        "catSeq":1168
+    },
+    {
+        "id":"pears",
+        "name":{
+            "ar":"أجاص",
+            "en":"Pears"
+        },
+        "original_value":"انجاس",
+        "parentId":"fruit",
+        "catSeq":1169
+    },
+    {
+        "id":"apricots-plums",
+        "name":{
+            "ar":"المشمش والخوخ",
+            "en":"Apricots & Plums"
+        },
+        "original_value":"المشمش والخوخ",
+        "parentId":"fruit",
+        "catSeq":1170
+    },
+    {
+        "id":"pears-alt",
+        "name":{
+            "ar":"إجاص",
+            "en":"Pears"
+        },
+        "original_value":"إجاص",
+        "parentId":"fruit",
+        "catSeq":1171
+    },
+    {
+        "id":"outdoor-toys",
+        "name":{
+            "ar":"ألعاب ومستلزمات النشاطات الخارجية",
+            "en":"Outdoor Toys & Activities"
+        },
+        "original_value":"العاب و مستلزمات النشاطات الخار",
+        "parentId":null,
+        "catSeq":1172
+    },
+    {
+        "id":"bikes-scooters",
+        "name":{
+            "ar":"دراجات هوائية وسكوتر",
+            "en":"Bikes & Scooters"
+        },
+        "original_value":"درجات هوائية سكوتر و غيرها",
+        "parentId":"outdoor-toys",
+        "catSeq":1173
+    },
+    {
+        "id":"bikes",
+        "name":{
+            "ar":"دراجات",
+            "en":"Bikes"
+        },
+        "original_value":"دراجات",
+        "parentId":"bikes-scooters",
+        "catSeq":1174
+    },
+    {
+        "id":"scooters",
+        "name":{
+            "ar":"سكوترات",
+            "en":"Scooters"
+        },
+        "original_value":"السكوترات وغيرها",
+        "parentId":"bikes-scooters",
+        "catSeq":1175
+    },
+    {
+        "id":"safety-gear",
+        "name":{
+            "ar":"معدات السلامة",
+            "en":"Safety Gear"
+        },
+        "original_value":"معدات السلامة",
+        "parentId":"bikes-scooters",
+        "catSeq":1176
+    },
+    {
+        "id":"figures-playsets",
+        "name":{
+            "ar":"مجسمات وأطقم ألعاب",
+            "en":"Figures & Playsets"
+        },
+        "original_value":"مجسمات وأطقم ألعاب",
+        "parentId":"outdoor-toys",
+        "catSeq":1177
+    },
+    {
+        "id":"toy-accessories",
+        "name":{
+            "ar":"ملحقات",
+            "en":"Accessories"
+        },
+        "original_value":"ملحقات وغيرها",
+        "parentId":"figures-playsets",
+        "catSeq":1178
+    },
+    {
+        "id":"pet-supplies",
+        "name":{
+            "ar":"أطعمة ومستلزمات الحيوانات الأليفة",
+            "en":"Pet Food & Supplies"
+        },
+        "original_value":"أطعمة ومستلزمات الحيوانات الألي",
+        "parentId":null,
+        "catSeq":1179
+    },
+    {
+        "id":"specialty-pet-food",
+        "name":{
+            "ar":"أطعمة خاصة للحيوانات الأليفة",
+            "en":"Specialty Pet Food"
+        },
+        "original_value":"أطعمة خاصة للحيوانات الأليفة",
+        "parentId":"pet-supplies",
+        "catSeq":1180
+    },
+    {
+        "id":"specialty-cat-food",
+        "name":{
+            "ar":"أطعمة قطط خاصة",
+            "en":"Specialty Cat Food"
+        },
+        "original_value":"أطعمة قطط خاصة",
+        "parentId":"specialty-pet-food",
+        "catSeq":1181
+    },
+    {
+        "id":"pet-toys-accessories",
+        "name":{
+            "ar":"ألعاب ومستلزمات الحيوانات الأليفة",
+            "en":"Pet Toys & Accessories"
+        },
+        "original_value":"ألعاب ومستلزمات الحيوانات الأليفة",
+        "parentId":"pet-supplies",
+        "catSeq":1182
+    },
+    {
+        "id":"cat-accessories",
+        "name":{
+            "ar":"اكسسوارات القطط",
+            "en":"Cat Accessories"
+        },
+        "original_value":"اكسسوارات القطط",
+        "parentId":"pet-toys-accessories",
+        "catSeq":1183
+    },
+    {
+        "id":"dog-accessories",
+        "name":{
+            "ar":"اكسسوارات الكلاب",
+            "en":"Dog Accessories"
+        },
+        "original_value":"اكسسوارات الكلاب",
+        "parentId":"pet-toys-accessories",
+        "catSeq":1184
+    },
+    {
+        "id":"pet-carriers",
+        "name":{
+            "ar":"حاملات الكلاب والقطط",
+            "en":"Pet Carriers"
+        },
+        "original_value":"حاملات الكلاب والقطط",
+        "parentId":"pet-toys-accessories",
+        "catSeq":1185
+    },
+    {
+        "id":"fish-accessories",
+        "name":{
+            "ar":"اكسسوارات سمك",
+            "en":"Fish Accessories"
+        },
+        "original_value":"اكسسوارات سمك",
+        "parentId":"pet-toys-accessories",
+        "catSeq":1186
+    },
+    {
+        "id":"cat-toys",
+        "name":{
+            "ar":"ألعاب القطط",
+            "en":"Cat Toys"
+        },
+        "original_value":"ألعاب القطط",
+        "parentId":"pet-toys-accessories",
+        "catSeq":1187
+    },
+    {
+        "id":"dog-toys",
+        "name":{
+            "ar":"لعب الكلاب",
+            "en":"Dog Toys"
+        },
+        "original_value":"لعب الكلاب",
+        "parentId":"pet-toys-accessories",
+        "catSeq":1188
+    },
+    {
+        "id":"aquariums",
+        "name":{
+            "ar":"حوض أسماك الزينة",
+            "en":"Aquariums"
+        },
+        "original_value":"حوض أسماك الزينة",
+        "parentId":"pet-toys-accessories",
+        "catSeq":1189
+    },
+    {
+        "id":"pet-care",
+        "name":{
+            "ar":"عناية الحيوانات الأليفة",
+            "en":"Pet Care"
+        },
+        "original_value":"عناية الحيوانات الأليفة",
+        "parentId":"pet-supplies",
+        "catSeq":1190
+    },
+    {
+        "id":"litter-cleaning",
+        "name":{
+            "ar":"مستلزمات القمامة والعناية المنزلية",
+            "en":"Litter & Home Cleaning"
+        },
+        "original_value":"مستلزمات القمامة والعناية المنزلية",
+        "parentId":"pet-care",
+        "catSeq":1191
+    },
+    {
+        "id":"pet-shampoo-sprays",
+        "name":{
+            "ar":"شامبو وبخاخ",
+            "en":"Shampoo & Sprays"
+        },
+        "original_value":"شامبو، بخاخ وغيره",
+        "parentId":"pet-care",
+        "catSeq":1192
+    },
+    {
+        "id":"pet-food",
+        "name":{
+            "ar":"أطعمة الحيوانات الأليفة",
+            "en":"Pet Food"
+        },
+        "original_value":"أطعمة الحيوانات الأليفة",
+        "parentId":"pet-supplies",
+        "catSeq":1193
+    },
+    {
+        "id":"cat-food",
+        "name":{
+            "ar":"طعام القطط",
+            "en":"Cat Food"
+        },
+        "original_value":"طعام القطة",
+        "parentId":"pet-food",
+        "catSeq":1194
+    },
+    {
+        "id":"dog-food",
+        "name":{
+            "ar":"أغذية كلاب",
+            "en":"Dog Food"
+        },
+        "original_value":"أغذية كلاب",
+        "parentId":"pet-food",
+        "catSeq":1195
+    },
+    {
+        "id":"sports-fitness",
+        "name":{
+            "ar":"الرياضة واللياقة البدنية",
+            "en":"Sports & Fitness"
+        },
+        "original_value":"منتجات الرياضة واللياقة البدنية",
+        "parentId":null,
+        "catSeq":1196
+    },
+    {
+        "id":"sports-products",
+        "name":{
+            "ar":"منتجات رياضية",
+            "en":"Sports Products"
+        },
+        "original_value":"منتجات الرياضة واللياقة البدنية",
+        "parentId":"sports-fitness",
+        "catSeq":1197
+    },
+    {
+        "id":"glucose-blood-monitors",
+        "name":{
+            "ar":"مقياس السكر ووخز الدم",
+            "en":"Glucose & Blood Monitors"
+        },
+        "original_value":"مقياس السكر وواخذ الدم",
+        "parentId":"sports-products",
+        "catSeq":1198
+    },
+    {
+        "id":"muscle-pain-relief",
+        "name":{
+            "ar":"مخفف آلام العضلات",
+            "en":"Muscle Pain Relief"
+        },
+        "original_value":"مخفف ألام العضلات",
+        "parentId":"sports-products",
+        "catSeq":1199
+    },
+    {
+        "id":"thermometers",
+        "name":{
+            "ar":"مقياس حرارة",
+            "en":"Thermometers"
+        },
+        "original_value":"مقياس حرارة",
+        "parentId":"sports-products",
+        "catSeq":1200
+    },
+    {
+        "id":"blood-pressure-monitors",
+        "name":{
+            "ar":"مقياس ضغط الدم",
+            "en":"Blood Pressure Monitors"
+        },
+        "original_value":"مقياس ضغط الدم",
+        "parentId":"sports-products",
+        "catSeq":1201
+    },
+    {
+        "id":"diet-health",
+        "name":{
+            "ar":"الحمية الغذائية والصحية",
+            "en":"Diet & Health"
+        },
+        "original_value":"الحمية الغذائية والصحية",
+        "parentId":"sports-products",
+        "catSeq":1202
+    },
+    {
+        "id":"supplements",
+        "name":{
+            "ar":"مكملات غذائية ورياضية",
+            "en":"Food & Sports Supplements"
+        },
+        "original_value":"مكملات غذائية ورياضية",
+        "parentId":"diet-health",
+        "catSeq":1203
+    },
+    {
+        "id":"stationery",
+        "name":{
+            "ar":"القرطاسية ومستلزمات المدرسة",
+            "en":"Stationery & School Supplies"
+        },
+        "original_value":"القرطاسية ومستلزمات المدرسة",
+        "parentId":null,
+        "catSeq":1204
+    },
+    {
+        "id":"filing-storage",
+        "name":{
+            "ar":"أدوات حفظ وتخزين",
+            "en":"Filing & Storage"
+        },
+        "original_value":"ادوات حشو",
+        "parentId":"stationery",
+        "catSeq":1205
+    },
+    {
+        "id":"money-box",
+        "name":{
+            "ar":"حصالة",
+            "en":"Money Box"
+        },
+        "original_value":"حصالة",
+        "parentId":"filing-storage",
+        "catSeq":1206
+    },
+    {
+        "id":"coloring-tools",
+        "name":{
+            "ar":"أدوات تلوين",
+            "en":"Coloring Tools"
+        },
+        "original_value":"أدوات تلوين",
+        "parentId":"stationery",
+        "catSeq":1207
+    },
+    {
+        "id":"painting-accessories",
+        "name":{
+            "ar":"إكسسوارات رسم",
+            "en":"Painting Accessories"
+        },
+        "original_value":"أكسسوارات رسم",
+        "parentId":"coloring-tools",
+        "catSeq":1208
+    },
+    {
+        "id":"files-folders",
+        "name":{
+            "ar":"ملفات ومصنفات",
+            "en":"Files & Folders"
+        },
+        "original_value":"ملفات ومصنفات",
+        "parentId":"filing-storage",
+        "catSeq":1209
+    },
+    {
+        "id":"envelopes",
+        "name":{
+            "ar":"مغلفات رسائل",
+            "en":"Envelopes"
+        },
+        "original_value":"مغلفات رسائل",
+        "parentId":"filing-storage",
+        "catSeq":1210
+    },
+    {
+        "id":"paper-supplies",
+        "name":{
+            "ar":"لوازم الورق",
+            "en":"Paper Supplies"
+        },
+        "original_value":"لوازم الورق",
+        "parentId":"stationery",
+        "catSeq":1211
+    },
+    {
+        "id":"paper",
+        "name":{
+            "ar":"ورق",
+            "en":"Paper"
+        },
+        "original_value":"ورق",
+        "parentId":"paper-supplies",
+        "catSeq":1212
+    },
+    {
+        "id":"school-bags-cases",
+        "name":{
+            "ar":"حقائب مدرسية وحافظات أقلام",
+            "en":"School Bags & Pencil Cases"
+        },
+        "original_value":"حقائب مدرسية و حافضات الأقلام",
+        "parentId":"stationery",
+        "catSeq":1213
+    },
+    {
+        "id":"backpacks-lunch-sets",
+        "name":{
+            "ar":"حقائب الظهر وأطقم علب الغداء",
+            "en":"Backpacks & Lunch Sets"
+        },
+        "original_value":"حقائب الظهر وأطقم علب الغداء",
+        "parentId":"school-bags-cases",
+        "catSeq":1214
+    },
+    {
+        "id":"teen-backpacks",
+        "name":{
+            "ar":"حقائب ظهر للمراهقين",
+            "en":"Teen Backpacks"
+        },
+        "original_value":"حقائب الظهر المراهق",
+        "parentId":"backpacks-lunch-sets",
+        "catSeq":1215
+    },
+    {
+        "id":"promotional-bags",
+        "name":{
+            "ar":"مجموعات الحقائب الترويجية",
+            "en":"Promotional Bag Sets"
+        },
+        "original_value":"مجموعات الحقائب الترويجية",
+        "parentId":"backpacks-lunch-sets",
+        "catSeq":1216
+    },
+    {
+        "id":"notes-markers",
+        "name":{
+            "ar":"أوراق ملاحظات ومعلمات",
+            "en":"Notes & Markers"
+        },
+        "original_value":"اوراق ملاحظات ومعلمات",
+        "parentId":"paper-supplies",
+        "catSeq":1217
+    },
+    {
+        "id":"organic-food",
+        "name":{
+            "ar":"أغذية عضوية وحيوية",
+            "en":"Organic & Bio Food"
+        },
+        "original_value":"أغذية عضوية وحيوية",
+        "parentId":null,
+        "catSeq":1218
+    },
+    {
+        "id":"free-from",
+        "name":{
+            "ar":"منتجات خالية من",
+            "en":"Free From Products"
+        },
+        "original_value":"منتجات خالية من",
+        "parentId":"organic-food",
+        "catSeq":1219
+    },
+    {
+        "id":"lactose-free",
+        "name":{
+            "ar":"منتجات خالية من اللاكتوز",
+            "en":"Lactose Free"
+        },
+        "original_value":"منتجات خالية من اللاكتوز",
+        "parentId":"free-from",
+        "catSeq":1220
+    },
+    {
+        "id":"lactose-free-yogurt",
+        "name":{
+            "ar":"زبادي خالي من اللاكتوز",
+            "en":"Lactose Free Yogurt"
+        },
+        "original_value":"زبادي خالي من اللاكتوز",
+        "parentId":"free-from",
+        "catSeq":1221
+    },
+    {
+        "id":"gluten-free",
+        "name":{
+            "ar":"منتجات خالية من الغلوتين",
+            "en":"Gluten Free"
+        },
+        "original_value":"منتجات خالية الغلوتين",
+        "parentId":"free-from",
+        "catSeq":1222
+    },
+    {
+        "id":"sugar-free",
+        "name":{
+            "ar":"منتجات خالية من السكر",
+            "en":"Sugar Free"
+        },
+        "original_value":"منتجات خالية من خالي من السكر",
+        "parentId":"free-from",
+        "catSeq":1223
+    },
+    {
+        "id":"fat-free",
+        "name":{
+            "ar":"منتجات خالية من الدهون",
+            "en":"Fat Free"
+        },
+        "original_value":"منتجات خالية من الدهون",
+        "parentId":"free-from",
+        "catSeq":1224
+    },
+    {
+        "id":"free-from-general",
+        "name":{
+            "ar":"خالية من",
+            "en":"Free From"
+        },
+        "original_value":"خالية من",
+        "parentId":"free-from",
+        "catSeq":1225
+    },
+    {
+        "id":"organic-supermarket",
+        "name":{
+            "ar":"السوبر ماركت العضوي",
+            "en":"Organic Supermarket"
+        },
+        "original_value":"السوبر ماركت",
+        "parentId":"organic-food",
+        "catSeq":1226
+    },
+    {
+        "id":"organic-breakfast",
+        "name":{
+            "ar":"مستلزمات الفطور",
+            "en":"Breakfast Supplies"
+        },
+        "original_value":"مستلزمات الفطور",
+        "parentId":"organic-supermarket",
+        "catSeq":1227
+    },
+    {
+        "id":"organic-jam-honey",
+        "name":{
+            "ar":"مربى وعسل",
+            "en":"Jam & Honey"
+        },
+        "original_value":"مربى، عسل وغيرها",
+        "parentId":"organic-supermarket",
+        "catSeq":1228
+    },
+    {
+        "id":"organic-cooking-ingredients",
+        "name":{
+            "ar":"مكونات الطبخ",
+            "en":"Cooking Ingredients"
+        },
+        "original_value":"مكونات الطبخ",
+        "parentId":"organic-supermarket",
+        "catSeq":1229
+    },
+    {
+        "id":"bio-products",
+        "name":{
+            "ar":"المنتجات العضوية والحيوية",
+            "en":"Organic & Bio Products"
+        },
+        "original_value":"المنتجات العضوية والحيوية",
+        "parentId":"organic-supermarket",
+        "catSeq":1230
+    },
+    {
+        "id":"organic-rice-pasta",
+        "name":{
+            "ar":"أرز وباستا عضوية",
+            "en":"Organic Rice & Pasta"
+        },
+        "original_value":"أرز، باستا ومعكرونة عضوية",
+        "parentId":"organic-supermarket",
+        "catSeq":1231
+    },
+    {
+        "id":"organic-crackers",
+        "name":{
+            "ar":"مقرمشات عضوية",
+            "en":"Organic Crackers"
+        },
+        "original_value":"مقرمشات عضوية وبايو",
+        "parentId":"organic-supermarket",
+        "catSeq":1232
+    },
+    {
+        "id":"organic-healthcare",
+        "name":{
+            "ar":"الرعاية الصحية والتغذية العضوية",
+            "en":"Organic Healthcare & Nutrition"
+        },
+        "original_value":"الرعاية الصحية والتغذية العضوية",
+        "parentId":"organic-supermarket",
+        "catSeq":1233
+    },
+    {
+        "id":"organic-fruits-veg",
+        "name":{
+            "ar":"خضار وفواكه عضوية",
+            "en":"Organic Fruits & Vegetables"
+        },
+        "original_value":"خضار وفواكه عضوية",
+        "parentId":"organic-food",
+        "catSeq":1234
+    },
+    {
+        "id":"organic-fruits",
+        "name":{
+            "ar":"فواكه عضوية",
+            "en":"Organic Fruits"
+        },
+        "original_value":"فواكه عضوية",
+        "parentId":"organic-fruits-veg",
+        "catSeq":1235
+    },
+    {
+        "id":"hydroponic",
+        "name":{
+            "ar":"الزراعة المائية",
+            "en":"Hydroponic"
+        },
+        "original_value":"الزراعة المائية",
+        "parentId":"organic-fruits-veg",
+        "catSeq":1236
+    },
+    {
+        "id":"organic-drinks",
+        "name":{
+            "ar":"مشروبات عضوية",
+            "en":"Organic Drinks"
+        },
+        "original_value":"مشروبات عضوية",
+        "parentId":"organic-food",
+        "catSeq":1237
+    },
+    {
+        "id":"organic-juices",
+        "name":{
+            "ar":"عصائر عضوية",
+            "en":"Organic Juices"
+        },
+        "original_value":"عصائر عضوية",
+        "parentId":"organic-drinks",
+        "catSeq":1238
+    },
+    {
+        "id":"organic-tea",
+        "name":{
+            "ar":"الشاي العضوي",
+            "en":"Organic Tea"
+        },
+        "original_value":"الشاي العضوي",
+        "parentId":"organic-drinks",
+        "catSeq":1239
+    },
+    {
+        "id":"organic-coffee",
+        "name":{
+            "ar":"قهوة ومبيض",
+            "en":"Coffee & Creamer"
+        },
+        "original_value":"قهوة ومبيض",
+        "parentId":"organic-drinks",
+        "catSeq":1240
+    },
+    {
+        "id":"light-fruit-juices",
+        "name":{
+            "ar":"عصائر الفاكهة الخفيفة",
+            "en":"Light Fruit Juices"
+        },
+        "original_value":"عصائر الفاكهة الخفيفة",
+        "parentId":"organic-drinks",
+        "catSeq":1241
+    },
+    {
+        "id":"organic-frozen",
+        "name":{
+            "ar":"منتجات مجمدة عضوية",
+            "en":"Organic Frozen Products"
+        },
+        "original_value":"منتجات مجمدة عضوية",
+        "parentId":"organic-food",
+        "catSeq":1242
+    },
+    {
+        "id":"hydroponic-frozen",
+        "name":{
+            "ar":"الزراعة المائية (مجمد)",
+            "en":"Hydroponic (Frozen)"
+        },
+        "original_value":"الزراعة المائية",
+        "parentId":"organic-frozen",
+        "catSeq":1243
+    },
+    {
+        "id":"organic-dairy",
+        "name":{
+            "ar":"منتجات ألبان عضوية",
+            "en":"Organic Dairy"
+        },
+        "original_value":"منتجات يومية عضوية",
+        "parentId":"organic-food",
+        "catSeq":1244
+    },
+    {
+        "id":"organic-ghee-butter",
+        "name":{
+            "ar":"السمن والزبدة العضوية",
+            "en":"Organic Ghee & Butter"
+        },
+        "original_value":"السمن العضوي والزبدة",
+        "parentId":"organic-dairy",
+        "catSeq":1245
+    },
+    {
+        "id":"organic-white-cheese",
+        "name":{
+            "ar":"جبنة بيضاء عضوية",
+            "en":"Organic White Cheese"
+        },
+        "original_value":"جبنة بيضاء عضوية",
+        "parentId":"organic-dairy",
+        "catSeq":1246
+    },
+    {
+        "id":"organic-milk",
+        "name":{
+            "ar":"حليب عضوي",
+            "en":"Organic Milk"
+        },
+        "original_value":"حليب عضوي",
+        "parentId":"organic-dairy",
+        "catSeq":1247
+    },
+    {
+        "id":"organic-yogurt",
+        "name":{
+            "ar":"الزبادي العضوي والحلويات",
+            "en":"Organic Yogurt & Desserts"
+        },
+        "original_value":"الزبادي العضوي والحلويات",
+        "parentId":"organic-dairy",
+        "catSeq":1248
+    },
+    {
+        "id":"bakery",
+        "name":{
+            "ar":"مخبوزات",
+            "en":"Bakery"
+        },
+        "original_value":"مخبوزات",
+        "parentId":null,
+        "catSeq":1249
+    },
+    {
+        "id":"donuts-cookies-muffins",
+        "name":{
+            "ar":"دونات، كوكيز ومافن",
+            "en":"Donuts, Cookies & Muffins"
+        },
+        "original_value":"حلوى الدونات, الكوكي والمافن",
+        "parentId":"bakery",
+        "catSeq":1250
+    },
+    {
+        "id":"cookies",
+        "name":{
+            "ar":"كوكيز",
+            "en":"Cookies"
+        },
+        "original_value":"الكوكي",
+        "parentId":"donuts-cookies-muffins",
+        "catSeq":1251
+    },
+    {
+        "id":"cakes",
+        "name":{
+            "ar":"الكعك",
+            "en":"Cakes"
+        },
+        "original_value":"الكعك",
+        "parentId":"donuts-cookies-muffins",
+        "catSeq":1252
+    },
+    {
+        "id":"sweets-bakery",
+        "name":{
+            "ar":"حلويات",
+            "en":"Sweets"
+        },
+        "original_value":"حلويات",
+        "parentId":"bakery",
+        "catSeq":1253
+    },
+    {
+        "id":"turkish-delights",
+        "name":{
+            "ar":"المسرات التركية",
+            "en":"Turkish Delights"
+        },
+        "original_value":"المسرات التركية",
+        "parentId":"sweets-bakery",
+        "catSeq":1254
+    },
+    {
+        "id":"arabic-sweets",
+        "name":{
+            "ar":"حلويات عربية",
+            "en":"Arabic Sweets"
+        },
+        "original_value":"حلويات عربية",
+        "parentId":"sweets-bakery",
+        "catSeq":1255
+    },
+    {
+        "id":"arabic-bread-wraps",
+        "name":{
+            "ar":"خبز عربي، راب وغيرها",
+            "en":"Arabic Bread & Wraps"
+        },
+        "original_value":"خبز عربي , راب وغيرها",
+        "parentId":"bakery",
+        "catSeq":1256
+    },
+    {
+        "id":"arabic-bread",
+        "name":{
+            "ar":"الخبز العربي",
+            "en":"Arabic Bread"
+        },
+        "original_value":"الخبز العربي",
+        "parentId":"arabic-bread-wraps",
+        "catSeq":1257
+    },
+    {
+        "id":"food-wraps",
+        "name":{
+            "ar":"لفائف أكل",
+            "en":"Food Wraps"
+        },
+        "original_value":"لفائف أكل",
+        "parentId":"arabic-bread-wraps",
+        "catSeq":1258
+    },
+    {
+        "id":"specialty-local-bread",
+        "name":{
+            "ar":"الخبز الخاص المحلي",
+            "en":"Specialty Local Bread"
+        },
+        "original_value":"الخبز الخاص المحلي",
+        "parentId":"arabic-bread-wraps",
+        "catSeq":1259
+    },
+    {
+        "id":"manakish",
+        "name":{
+            "ar":"مناقيش",
+            "en":"Manakish"
+        },
+        "original_value":"مناقيش",
+        "parentId":"arabic-bread-wraps",
+        "catSeq":1260
+    },
+    {
+        "id":"bread-misc",
+        "name":{
+            "ar":"خبز وغيرها",
+            "en":"Bread & Misc"
+        },
+        "original_value":"خبز وغيره",
+        "parentId":"bakery",
+        "catSeq":1261
+    },
+    {
+        "id":"sliced-white-bread",
+        "name":{
+            "ar":"شرائح خبز أبيض",
+            "en":"Sliced White Bread"
+        },
+        "original_value":"شرائح خبز ابيض",
+        "parentId":"bread-misc",
+        "catSeq":1262
+    },
+    {
+        "id":"sliced-brown-bread",
+        "name":{
+            "ar":"خبز بني شرائح",
+            "en":"Sliced Brown Bread"
+        },
+        "original_value":"خبز بني شرائح",
+        "parentId":"bread-misc",
+        "catSeq":1263
+    },
+    {
+        "id":"assorted-bread",
+        "name":{
+            "ar":"خبز متنوع",
+            "en":"Assorted Bread"
+        },
+        "original_value":"خبز متنوع",
+        "parentId":"bread-misc",
+        "catSeq":1264
+    },
+    {
+        "id":"buns-misc",
+        "name":{
+            "ar":"الكعك وغيره",
+            "en":"Buns & Misc"
+        },
+        "original_value":"الكعك وغيره",
+        "parentId":"bread-misc",
+        "catSeq":1265
+    },
+    {
+        "id":"milk-bread-slices",
+        "name":{
+            "ar":"شرائح خبز الحليب",
+            "en":"Milk Bread Slices"
+        },
+        "original_value":"شرائح خبز الحليب",
+        "parentId":"bread-misc",
+        "catSeq":1266
+    },
+    {
+        "id":"protein-diet-bread",
+        "name":{
+            "ar":"البروتين وخبز الحمية",
+            "en":"Protein & Diet Bread"
+        },
+        "original_value":"البروتين والحمية الغذائية",
+        "parentId":"bread-misc",
+        "catSeq":1267
+    },
+    {
+        "id":"white-bread",
+        "name":{
+            "ar":"خبز أبيض",
+            "en":"White Bread"
+        },
+        "original_value":"خبز ابيض",
+        "parentId":"bread-misc",
+        "catSeq":1268
+    },
+    {
+        "id":"french-bread",
+        "name":{
+            "ar":"خبز فرنسي",
+            "en":"French Bread"
+        },
+        "original_value":"خبز فرنسي",
+        "parentId":"bread-misc",
+        "catSeq":1269
+    },
+    {
+        "id":"sandwich-bread",
+        "name":{
+            "ar":"خبز شطائر",
+            "en":"Sandwich Bread"
+        },
+        "original_value":"شطائر الخبر",
+        "parentId":"bread-misc",
+        "catSeq":1270
+    },
+    {
+        "id":"special-bread",
+        "name":{
+            "ar":"خبز خاص",
+            "en":"Special Bread"
+        },
+        "original_value":"خبر خاص",
+        "parentId":"bread-misc",
+        "catSeq":1271
+    },
+    {
+        "id":"croissant-pastry-cake",
+        "name":{
+            "ar":"كرواسون، باستري وكيك",
+            "en":"Croissant, Pastry & Cake"
+        },
+        "original_value":"كرواسون, باستري وكيك",
+        "parentId":"bakery",
+        "catSeq":1272
+    },
+    {
+        "id":"sweet-products",
+        "name":{
+            "ar":"منتجات حلوة",
+            "en":"Sweet Products"
+        },
+        "original_value":"منتجات حلوة",
+        "parentId":"croissant-pastry-cake",
+        "catSeq":1273
+    },
+    {
+        "id":"salty-products",
+        "name":{
+            "ar":"المنتجات المملحة",
+            "en":"Salty Products"
+        },
+        "original_value":"المنتجات المملحة",
+        "parentId":"croissant-pastry-cake",
+        "catSeq":1274
+    },
+    {
+        "id":"international-pastries",
+        "name":{
+            "ar":"معجنات عالمية",
+            "en":"International Pastries"
+        },
+        "original_value":"المعجنات من أنحاء العالم",
+        "parentId":"croissant-pastry-cake",
+        "catSeq":1275
+    },
+    {
+        "id":"crepe-waffle-pancake",
+        "name":{
+            "ar":"كريب، وافل وبانكيك",
+            "en":"Crepe, Waffle & Pancake"
+        },
+        "original_value":"كريب، وافل وبانكيك",
+        "parentId":"croissant-pastry-cake",
+        "catSeq":1276
+    },
+    {
+        "id":"croissant-misc",
+        "name":{
+            "ar":"كرواسون وغيره",
+            "en":"Croissant & Misc"
+        },
+        "original_value":"كرواسون وغيره",
+        "parentId":"croissant-pastry-cake",
+        "catSeq":1277
+    },
+    {
+        "id":"single-pastries",
+        "name":{
+            "ar":"معجنات فردية",
+            "en":"Single Pastries"
+        },
+        "original_value":"معجنات فردية",
+        "parentId":"croissant-pastry-cake",
+        "catSeq":1278
+    },
+    {
+        "id":"large-cakes",
+        "name":{
+            "ar":"كعك كبير",
+            "en":"Large Cakes"
+        },
+        "original_value":"كعك كبير",
+        "parentId":"croissant-pastry-cake",
+        "catSeq":1279
+    },
+    {
+        "id":"dry-cakes",
+        "name":{
+            "ar":"الكعك الجاف",
+            "en":"Dry Cakes"
+        },
+        "original_value":"الكعك الجاف",
+        "parentId":"croissant-pastry-cake",
+        "catSeq":1280
+    },
+    {
+        "id":"paper-products",
+        "name":{
+            "ar":"منتجات ورقية وصحف",
+            "en":"Paper Products & Newspapers"
+        },
+        "original_value":"منتجات ورقيه, صحف وغيرها",
+        "parentId":null,
+        "catSeq":1281
+    },
+    {
+        "id":"greeting-cards",
+        "name":{
+            "ar":"بطاقات ترحيبية",
+            "en":"Greeting Cards"
+        },
+        "original_value":"بطاقات ترحيبيه",
+        "parentId":"paper-products",
+        "catSeq":1282
+    },
+    {
+        "id":"wrapping-accessories",
+        "name":{
+            "ar":"تغليف واكسسوارات",
+            "en":"Wrapping & Accessories"
+        },
+        "original_value":"لفات ولف اكسسوارات",
+        "parentId":"greeting-cards",
+        "catSeq":1283
+    },
+    {
+        "id":"tobacco",
+        "name":{
+            "ar":"تبغ",
+            "en":"Tobacco"
+        },
+        "original_value":"تبغ",
+        "parentId":"paper-products",
+        "catSeq":1284
+    },
+    {
+        "id":"matches-lighters",
+        "name":{
+            "ar":"أعواد ثقاب وولاعات",
+            "en":"Matches & Lighters"
+        },
+        "original_value":"اعواد الثقاب و ولاعات",
+        "parentId":"tobacco",
+        "catSeq":1285
+    },
+    {
+        "id":"shisha-accessories",
+        "name":{
+            "ar":"الشيشة واكسسواراتها",
+            "en":"Shisha & Accessories"
+        },
+        "original_value":"الشيشه واكسسواراتها",
+        "parentId":"tobacco",
+        "catSeq":1286
+    },
+    {
+        "id":"books",
+        "name":{
+            "ar":"كتب",
+            "en":"Books"
+        },
+        "original_value":"كتب",
+        "parentId":"paper-products",
+        "catSeq":1287
+    },
+    {
+        "id":"non-fiction-books",
+        "name":{
+            "ar":"كتب واقعية",
+            "en":"Non-Fiction Books"
+        },
+        "original_value":"كتب واقعيه",
+        "parentId":"books",
+        "catSeq":1288
+    },
+    {
+        "id":"fiction-non-fiction",
+        "name":{
+            "ar":"خيالي وغير خيالي",
+            "en":"Fiction & Non-Fiction"
+        },
+        "original_value":"خيالي, غير خيالي",
+        "parentId":"books",
+        "catSeq":1289
+    },
+    {
+        "id":"clothing-luggage",
+        "name":{
+            "ar":"ملابس، اكسسوارات وحقائب",
+            "en":"Clothing, Accessories & Luggage"
+        },
+        "original_value":"ملابس, اكسسوارات وحقائب",
+        "parentId":null,
+        "catSeq":1290
+    },
+    {
+        "id":"travel-bags",
+        "name":{
+            "ar":"حقائب السفر",
+            "en":"Travel Bags"
+        },
+        "original_value":"حقائب السفر",
+        "parentId":"clothing-luggage",
+        "catSeq":1291
+    },
+    {
+        "id":"makeup-bags",
+        "name":{
+            "ar":"حقائب المكياج",
+            "en":"Makeup Bags"
+        },
+        "original_value":"حقائب المكياج",
+        "parentId":"travel-bags",
+        "catSeq":1292
+    },
+    {
+        "id":"hiking-bags",
+        "name":{
+            "ar":"حقائب المشي لمسافات طويلة",
+            "en":"Hiking Bags & Backpacks"
+        },
+        "original_value":"حقائب المشي لمسافات طويلة وحقائب الظهر",
+        "parentId":"travel-bags",
+        "catSeq":1293
+    },
+    {
+        "id":"large-bags",
+        "name":{
+            "ar":"حقائب كبيرة",
+            "en":"Large Bags"
+        },
+        "original_value":"حقائب كبيرة",
+        "parentId":"travel-bags",
+        "catSeq":1294
+    },
+    {
+        "id":"kids-clothing",
+        "name":{
+            "ar":"ملابس أطفال",
+            "en":"Kids Clothing"
+        },
+        "original_value":"الاطفال",
+        "parentId":"clothing-luggage",
+        "catSeq":1295
+    },
+    {
+        "id":"baby-carriers-belts",
+        "name":{
+            "ar":"حمالة وحزام أطفال",
+            "en":"Baby Carriers & Belts"
+        },
+        "original_value":"حمالة وحزام اطفال",
+        "parentId":"kids-clothing",
+        "catSeq":1296
+    },
+    {
+        "id":"kids-socks",
+        "name":{
+            "ar":"جوارب أطفال",
+            "en":"Kids Socks"
+        },
+        "original_value":"جوارب اطفال",
+        "parentId":"kids-clothing",
+        "catSeq":1297
+    },
+    {
+        "id":"kids-shoes",
+        "name":{
+            "ar":"أحذية أطفال",
+            "en":"Kids Shoes"
+        },
+        "original_value":"احذية اطفال",
+        "parentId":"kids-clothing",
+        "catSeq":1298
+    },
+    {
+        "id":"baby-supplies",
+        "name":{
+            "ar":"مستلزمات الأطفال",
+            "en":"Baby Supplies"
+        },
+        "original_value":"مستلزمات الأطفال",
+        "parentId":null,
+        "catSeq":1299
+    },
+    {
+        "id":"bathing-supplies",
+        "name":{
+            "ar":"مستلزمات الاستحمام وغيرها",
+            "en":"Bathing Supplies"
+        },
+        "original_value":"مستلزمات الاستحمام وغيرها",
+        "parentId":"baby-supplies",
+        "catSeq":1300
+    },
+    {
+        "id":"baby-detergents",
+        "name":{
+            "ar":"منظفات الأطفال",
+            "en":"Baby Detergents"
+        },
+        "original_value":"منظفات الاطفال",
+        "parentId":"bathing-supplies",
+        "catSeq":1301
+    },
+    {
+        "id":"towels-bathing",
+        "name":{
+            "ar":"مناشف ومستلزمات استحمام",
+            "en":"Towels & Bathing Accessories"
+        },
+        "original_value":"مناشف الجسم واليدين ومستلزمات الاستحمام",
+        "parentId":"bathing-supplies",
+        "catSeq":1302
+    },
+    {
+        "id":"diaper-changing",
+        "name":{
+            "ar":"حقائب وفرشات تغيير الحفاضات",
+            "en":"Diaper Changing Bags & Mats"
+        },
+        "original_value":"حقائب ومات لتغيير حفاضات الأطفال",
+        "parentId":"bathing-supplies",
+        "catSeq":1303
+    },
+    {
+        "id":"diapers-wipes",
+        "name":{
+            "ar":"حفاضات، مناديل وكريم",
+            "en":"Diapers, Wipes & Cream"
+        },
+        "original_value":"حفاضات ، مناديل وكريم حفاضات",
+        "parentId":"bathing-supplies",
+        "catSeq":1304
+    },
+    {
+        "id":"baby-swimwear",
+        "name":{
+            "ar":"ألبسة سباحة",
+            "en":"Swimwear"
+        },
+        "original_value":"ألبسة سباحة متنوعة",
+        "parentId":"bathing-supplies",
+        "catSeq":1305
+    },
+    {
+        "id":"nursery-essentials",
+        "name":{
+            "ar":"مستلزمات الحضانة",
+            "en":"Nursery Essentials"
+        },
+        "original_value":"مستلزمات الحضانة",
+        "parentId":"baby-supplies",
+        "catSeq":1306
+    },
+    {
+        "id":"baby-safety",
+        "name":{
+            "ar":"مستلزمات حماية الأطفال",
+            "en":"Baby Safety"
+        },
+        "original_value":"مستلزمات حماية الأطفال",
+        "parentId":"nursery-essentials",
+        "catSeq":1307
+    },
+    {
+        "id":"baby-travel",
+        "name":{
+            "ar":"مستلزمات سفر الأطفال",
+            "en":"Baby Travel Essentials"
+        },
+        "original_value":"مستلزمات سفر الاطفال",
+        "parentId":"baby-supplies",
+        "catSeq":1308
+    },
+    {
+        "id":"travel-systems",
+        "name":{
+            "ar":"أنظمة السفر",
+            "en":"Travel Systems"
+        },
+        "original_value":"أنظمة السفر",
+        "parentId":"baby-travel",
+        "catSeq":1309
+    },
+    {
+        "id":"strollers",
+        "name":{
+            "ar":"عربات الأطفال",
+            "en":"Strollers"
+        },
+        "original_value":"عربات الاطفال وغيرها",
+        "parentId":"baby-travel",
+        "catSeq":1310
+    },
+    {
+        "id":"baby-food-drinks",
+        "name":{
+            "ar":"منتجات الحليب والعصير",
+            "en":"Baby Milk & Juice"
+        },
+        "original_value":"منتجات الحليب والعصير",
+        "parentId":"baby-supplies",
+        "catSeq":1311
+    },
+    {
+        "id":"baby-food-cat",
+        "name":{
+            "ar":"أغذية الأطفال والرضع",
+            "en":"Baby & Infant Food"
+        },
+        "original_value":"أغذية الأطفال والرضع",
+        "parentId":"baby-food-drinks",
+        "catSeq":1312
+    },
+    {
+        "id":"baby-milk",
+        "name":{
+            "ar":"حليب الأطفال والرضع",
+            "en":"Baby & Infant Milk"
+        },
+        "original_value":"حليب الأطفال والرضع",
+        "parentId":"baby-food-drinks",
+        "catSeq":1313
+    },
+    {
+        "id":"baby-meals",
+        "name":{
+            "ar":"وجبات الأطفال والرضع",
+            "en":"Baby & Infant Meals"
+        },
+        "original_value":"وجبات الأطفال والرضع",
+        "parentId":"baby-food-drinks",
+        "catSeq":1314
+    },
+    {
+        "id":"baby-care-products",
+        "name":{
+            "ar":"منتجات عناية الأطفال",
+            "en":"Baby Care Products"
+        },
+        "original_value":"منتجات عناية الاطفال",
+        "parentId":"baby-supplies",
+        "catSeq":1315
+    },
+    {
+        "id":"medical-accessories",
+        "name":{
+            "ar":"الملحقات الطبية",
+            "en":"Medical Accessories"
+        },
+        "original_value":"الملحقات الطبية",
+        "parentId":"baby-care-products",
+        "catSeq":1316
+    },
+    {
+        "id":"oral-care",
+        "name":{
+            "ar":"العناية بالفم",
+            "en":"Oral Care"
+        },
+        "original_value":"العناية بالفم",
+        "parentId":"baby-care-products",
+        "catSeq":1317
+    },
+    {
+        "id":"teething-accessories",
+        "name":{
+            "ar":"ملحقات نمو الأسنان",
+            "en":"Teething Accessories"
+        },
+        "original_value":"ملحقات نمو الأسنان",
+        "parentId":"baby-care-products",
+        "catSeq":1318
+    },
+    {
+        "id":"mobiles-tablets",
+        "name":{
+            "ar":"موبايلات، تابلت وأجهزة ذكية",
+            "en":"Mobiles, Tablets & Smart Devices"
+        },
+        "original_value":"موبايلات، تابلت وأجهزة اليد الذ",
+        "parentId":null,
+        "catSeq":1319
+    },
+    {
+        "id":"mobile-accessories",
+        "name":{
+            "ar":"اكسسوارات الموبايل",
+            "en":"Mobile Accessories"
+        },
+        "original_value":"اكسسوارات الموبايل",
+        "parentId":"mobiles-tablets",
+        "catSeq":1320
+    },
+    {
+        "id":"screen-protectors",
+        "name":{
+            "ar":"واقيات الشاشات",
+            "en":"Screen Protectors"
+        },
+        "original_value":"واقيات الشاشات وغيرها",
+        "parentId":"mobile-accessories",
+        "catSeq":1321
+    },
+    {
+        "id":"tablets-ereaders",
+        "name":{
+            "ar":"التابلت والقارئ الرقمي",
+            "en":"Tablets & E-Readers"
+        },
+        "original_value":"التابلت والقوارئ الرقمية",
+        "parentId":"mobiles-tablets",
+        "catSeq":1322
+    },
+    {
+        "id":"tablets",
+        "name":{
+            "ar":"أجهزة لوحية",
+            "en":"Tablets"
+        },
+        "original_value":"أجهزة لوحية",
+        "parentId":"tablets-ereaders",
+        "catSeq":1323
+    },
+    {
+        "id":"home-garden",
+        "name":{
+            "ar":"المنزل والحديقة",
+            "en":"Home & Garden"
+        },
+        "original_value":"منتجات المنزل والحدائق",
+        "parentId":null,
+        "catSeq":1324
+    },
+    {
+        "id":"camping-bbq",
+        "name":{
+            "ar":"التخييم والشواء",
+            "en":"Camping & BBQ"
+        },
+        "original_value":"التخييم, الشواء وغيرها",
+        "parentId":"home-garden",
+        "catSeq":1325
+    },
+    {
+        "id":"airbeds-sleeping-bags",
+        "name":{
+            "ar":"سرير هوائي وكيس نوم",
+            "en":"Airbeds & Sleeping Bags"
+        },
+        "original_value":"سرير هوائي وكيس نوم",
+        "parentId":"camping-bbq",
+        "catSeq":1326
+    },
+    {
+        "id":"bbq-sets",
+        "name":{
+            "ar":"أطقم شواء",
+            "en":"BBQ Sets"
+        },
+        "original_value":"اطقم شواء وغيرها",
+        "parentId":"camping-bbq",
+        "catSeq":1327
+    },
+    {
+        "id":"charcoal-accessories",
+        "name":{
+            "ar":"فحم واكسسوارات الشواء",
+            "en":"Charcoal & BBQ Accessories"
+        },
+        "original_value":"اكسسوارات الفحم والشواء",
+        "parentId":"camping-bbq",
+        "catSeq":1328
+    },
+    {
+        "id":"tents",
+        "name":{
+            "ar":"الخيام",
+            "en":"Tents"
+        },
+        "original_value":"الخيام",
+        "parentId":"camping-bbq",
+        "catSeq":1329
+    },
+    {
+        "id":"folding-furniture",
+        "name":{
+            "ar":"أثاث قابل للطي",
+            "en":"Folding Furniture"
+        },
+        "original_value":"طاولات قابله للطي, كراسي وعربات",
+        "parentId":"camping-bbq",
+        "catSeq":1330
+    },
+    {
+        "id":"coolers-cookware",
+        "name":{
+            "ar":"مبردات وأدوات طهي",
+            "en":"Coolers & Cookware"
+        },
+        "original_value":"مبردات, اباريق وادوات طهي",
+        "parentId":"camping-bbq",
+        "catSeq":1331
+    },
+    {
+        "id":"bath-laundry",
+        "name":{
+            "ar":"الحمام والغسيل",
+            "en":"Bath & Laundry"
+        },
+        "original_value":"الحمام والغسيل",
+        "parentId":"home-garden",
+        "catSeq":1332
+    },
+    {
+        "id":"bins-baskets",
+        "name":{
+            "ar":"الأحواض والسلال",
+            "en":"Bins, Buckets & Baskets"
+        },
+        "original_value":"الاحواض, الدلال والسلال",
+        "parentId":"bath-laundry",
+        "catSeq":1333
+    }
+]
